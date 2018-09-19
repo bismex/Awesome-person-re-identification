@@ -5,7 +5,6 @@
 ## Semi-supervised learning
 
 ## Unsupervised learning
-### **"CLEAR: Cumulative LEARning for One-Shot One-Class Image Recognition"**, 
-* Authors : Kozerawski, Jedrzej and Turk, Matthew
-* link : CVPR2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kozerawski_CLEAR_Cumulative_LEARning_CVPR_2018_paper.pdf)] [[github](https://github.com/JKozerawski/CLEAR-osoc)]
-* SVM
+### **"Unsupervised Person Re-identification by Deep Learning Tracklet Association"**, 
+* Authors : Huang et. al.
+* link : ECCV2018. [[paper](https://arxiv.org/pdf/1809.02874.pdf)]
