@@ -1,7 +1,6 @@
 # Person-re-identification
 
-<Interesting papers>
-  
+Interesting papers
   Supervised
   
   Semi-supervised
