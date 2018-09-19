@@ -1,8 +1,7 @@
 # Person-re-identification
 
-Interesting papers
-  Supervised
+Supervised
   
-  Semi-supervised
+Semi-supervised
   
-  Unsupervised
+Unsupervised
