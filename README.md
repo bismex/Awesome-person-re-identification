@@ -17,10 +17,27 @@
 
 ## Statistics
 
-#### [**ECCV2018**] : 19 papers `(supervised - 8, unsupervised - 4, person search - 4, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
-#### [**CVPR2018**] : 31 papers `(supervised - 23, unsupervised - 4, others - 3, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
-#### [**ICCV2017**] : 16 papers `(supervised - 7, unsupervised - 6, person search - 1, others - 2)` [[link]](http://openaccess.thecvf.com/ICCV2017.py)
-#### [**CVPR2017**] : 16 papers `(supervised - 9, unsupervised - 2, person search - 1, others - 3, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2017.py)
+#### [**ECCV2018**] : 19 papers [[link]](http://openaccess.thecvf.com/ECCV2018.py)
+- supervised - 8
+- unsupervised - 4
+- person search - 4
+- others - 3
+#### [**CVPR2018**] : 31 papers [[link]](http://openaccess.thecvf.com/CVPR2018.py)
+- supervised - 23
+- unsupervised - 4
+- others - 3
+- datasets - 1 
+#### [**ICCV2017**] : 16 papers [[link]](http://openaccess.thecvf.com/ICCV2017.py)
+- supervised - 7
+- unsupervised - 6
+- person search - 1
+- others - 2)` 
+#### [**CVPR2017**] : 16 papers [[link]](http://openaccess.thecvf.com/CVPR2017.py)
+- supervised - 9
+- unsupervised - 2
+- person search - 1
+- others - 3
+- datasets - 1
 
 ---
 
