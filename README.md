@@ -3,10 +3,15 @@
 ## Table of Contents
 
 - [Statistics](##statistics)
+- [Survey](##survey)
+- [Supervised learning](##supervised-learning)
+- [Unsupervised learning (+Semi-supervised learning)](##unsupervised-learning )
+- [Others](##others)
+- [Datasets](##datasets)
 
 ---
 
-## 0. Statistics
+## Statistics
 
 #### [**ECCV2018**] : 13 papers `(supervised - 7, unsupervised - 3, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
 #### [**CVPR2018**] : 30 papers `(supervised - 23, unsupervised - 4, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
@@ -130,7 +135,8 @@
 ---
 
 
-## 3. Unsupervised learning (+Semi-supervised learning)
+## 3. Unsupervised learning 
+### (+Semi-supervised learning)
 
 ### [ECCV2018]
 
