@@ -4,7 +4,7 @@
 
 - [Statistics](#statistics)
 - [Survey](#survey)
-- [Supervised learning](#supervised-learning)
+- [Supervised learning](#(2)supervised-learning)
 - [Unsupervised learning (+Semi-supervised learning)](#unsupervised-learning )
 - [Others](#others)
 - [Datasets](#datasets)
@@ -26,7 +26,7 @@
 
 ---
 
-## 2. Supervised learning
+## (2)Supervised learning
 
 ### [ECCV2018] 
 
