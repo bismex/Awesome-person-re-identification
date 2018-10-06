@@ -19,8 +19,8 @@
 
 #### [**ECCV2018**] : 19 papers `(supervised - 8, unsupervised - 4, person search - 4, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
 #### [**CVPR2018**] : 31 papers `(supervised - 23, unsupervised - 4, others - 3, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
-#### [**ICCV2017**] : 15 papers `(supervised - 7, unsupervised - 6, others - 2)` [[link]](http://openaccess.thecvf.com/ICCV2017.py)
-#### [**CVPR2017**] : 14 papers `(supervised - 9, unsupervised - 2, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2017.py)
+#### [**ICCV2017**] : 16 papers `(supervised - 7, unsupervised - 6, person search - 1, others - 2)` [[link]](http://openaccess.thecvf.com/ICCV2017.py)
+#### [**CVPR2017**] : 16 papers `(supervised - 9, unsupervised - 2, person search - 1, others - 3, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2017.py)
 
 ---
 
@@ -199,6 +199,14 @@
 
 #### *"Person Search via A Mask-Guided Two-Stream CNN Model"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Chen_Person_Search_via_ECCV_2018_paper.pdf)]
 
+### [ICCV2017]
+
+#### *"Neural Person Search Machines"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Neural_Person_Search_ICCV_2017_paper.pdf)]
+
+### [CVPR2017]
+
+#### *"Person Search with Natural Language Description"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Person_Search_With_CVPR_2017_paper.pdf)]
+
 
 ---
 
@@ -232,6 +240,9 @@
 #### *"Joint Detection and Identification Feature Learning for Person Search"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)]
 
 #### *"Multiple People Tracking by Lifted Multicut and Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)]
+
+#### *"Pose-Aware Person Recognition"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kumar_Pose-Aware_Person_Recognition_CVPR_2017_paper.pdf)]
+
 
 
 
