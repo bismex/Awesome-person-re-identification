@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Statistics](##statistics)
+- [Statistics](#statistics)
 - [Survey](##survey)
 - [Supervised learning](##supervised-learning)
 - [Unsupervised learning (+Semi-supervised learning)](##unsupervised-learning )
