@@ -17,27 +17,13 @@
 
 ## Statistics
 
-#### [**ECCV2018**] : 19 papers [[link]](http://openaccess.thecvf.com/ECCV2018.py)
-- supervised - 8
-- unsupervised - 4
-- person search - 4
-- others - 3
-#### [**CVPR2018**] : 31 papers [[link]](http://openaccess.thecvf.com/CVPR2018.py)
-- supervised - 23
-- unsupervised - 4
-- others - 3
-- datasets - 1 
-#### [**ICCV2017**] : 16 papers [[link]](http://openaccess.thecvf.com/ICCV2017.py)
-- supervised - 7
-- unsupervised - 6
-- person search - 1
-- others - 2)` 
-#### [**CVPR2017**] : 16 papers [[link]](http://openaccess.thecvf.com/CVPR2017.py)
-- supervised - 9
-- unsupervised - 2
-- person search - 1
-- others - 3
-- datasets - 1
+
+| Conference  | Link | #Total | Supervised Re-ID | Unsupervised Re-ID | Person search | Others | Datasets |
+|---           |---   |---|---|---|---|---|---|
+| ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 8 | 4 | 4 | 3 | 0 |
+| CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 23 | 4 | 0 | 3 | 1 |
+| ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 16 | 7 | 6 | 1 | 2 | 0 |
+| CVPR2017 | [Click](http://openaccess.thecvf.com/CVPR2017.py)  | 16 | 9 | 2 | 1 | 3 | 1 |
 
 ---
 
