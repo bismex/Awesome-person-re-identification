@@ -5,7 +5,7 @@
 #### [**ECCV2018**] : 13 papers `(supervised - 7, unsupervised - 3, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
 #### [**CVPR2018**] : 30 papers `(supervised - 23, unsupervised - 4, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
 #### [**ICCV2017**] : 15 papers `(supervised - 7, unsupervised - 6, others - 2)` [[link]](http://openaccess.thecvf.com/ICCV2017.py)
-#### [**CVPR2017**] : [[link]](http://openaccess.thecvf.com/CVPR2017.py)
+#### [**CVPR2017**] : 14 papers `(supervised - 9, unsupervised - 2, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2017.py)
 
 
 ## 1. Survey
@@ -94,6 +94,28 @@
 
 #### *"Multi-scale Deep Learning Architectures for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qian_Multi-Scale_Deep_Learning_ICCV_2017_paper.pdf)]
 
+### [CVPR2017]
+
+#### *"Learning Deep Context-Aware Features Over Body and Latent Parts for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Learning_Deep_Context-Aware_CVPR_2017_paper.pdf)]
+
+#### *"Beyond Triplet Loss: A Deep Quadruplet Network for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Beyond_Triplet_Loss_CVPR_2017_paper.pdf)]
+
+#### *"Spindle Net: Person Re-Identification With Human Body Region Guided Feature Decomposition and Fusion"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Spindle_Net_Person_CVPR_2017_paper.pdf)]
+
+#### *"Re-Ranking Person Re-Identification With k-Reciprocal Encoding"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhong_Re-Ranking_Person_Re-Identification_CVPR_2017_paper.pdf)]
+
+#### *"Scalable Person Re-Identification on Supervised Smoothed Manifold"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bai_Scalable_Person_Re-Identification_CVPR_2017_paper.pdf)]
+
+#### *"Point to Set Similarity Based Deep Feature Learning for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Point_to_Set_CVPR_2017_paper.pdf)]
+
+#### *"Fast Person Re-Identification via Cross-Camera Semantic Binary Transformation"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Fast_Person_Re-Identification_CVPR_2017_paper.pdf)]
+
+#### *"See the Forest for the Trees: Joint Spatial and Temporal Recurrent Neural Networks for Video-Based Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_See_the_Forest_CVPR_2017_paper.pdf)]
+
+#### *"Consistent-Aware Deep Learning for Person Re-Identification in a Camera Network"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_Consistent-Aware_Deep_Learning_CVPR_2017_paper.pdf)]
+
+
+
 
 
 
@@ -132,6 +154,13 @@
 
 #### *"Dynamic Label Graph Matching for Unsupervised Video Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ye_Dynamic_Label_Graph_ICCV_2017_paper.pdf)]
 
+### [CVPR2017]
+
+#### *"One-Shot Metric Learning for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bak_One-Shot_Metric_Learning_CVPR_2017_paper.pdf)]
+
+#### *"Unsupervised Adaptive Re-Identification in Open World Dynamic Camera Networks"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Panda_Unsupervised_Adaptive_Re-Identification_CVPR_2017_paper.pdf)]
+
+
 
 
 
@@ -157,6 +186,11 @@
 
 #### *"RGB-Infrared Cross-Modality Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_RGB-Infrared_Cross-Modality_Person_ICCV_2017_paper.pdf)]
 
+### [CVPR2017] 
+
+#### *"Joint Detection and Identification Feature Learning for Person Search"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)]
+
+#### *"Multiple People Tracking by Lifted Multicut and Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)]
 
 
 
@@ -167,16 +201,26 @@
 
 #### *"Person Transfer GAN to Bridge Domain Gap for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)]
 
+### [CVPR2017] 
+
+#### *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
 
 
 
 ## *. Before classification
 
+
+
+
+
 #### *""* [[paper]()]
 #### *""* [[paper]()]
 #### *""* [[paper]()]
 #### *""* [[paper]()]
 #### *""* [[paper]()]
+#### *""* [[paper]()]
+
+
 
 
 
