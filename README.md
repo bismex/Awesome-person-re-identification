@@ -20,7 +20,7 @@
 
 ---
 
-## 1. ## Survey
+## Survey
 
 #### [arXiv2016] *"Person Re-identification: Past, Present and Future"* [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
 
