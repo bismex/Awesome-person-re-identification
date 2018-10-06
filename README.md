@@ -2,15 +2,13 @@
 
 ## 1. Survey
 
-### [arXiv2016] *"Person Re-identification: Past, present and future"* [[paper](https://arxiv.org/abs/1610.02984)]
+### [arXiv2016] *"Person Re-identification: Past, Present and Future"* [[paper](https://arxiv.org/abs/1610.02984)]
 
 ## 2. Supervised learning
 
--
 
 ## 3. Semi-supervised learning
 
--
 
 ## 4. Unsupervised learning
 
