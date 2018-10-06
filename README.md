@@ -4,7 +4,7 @@
 
 - [Statistics](#statistics)
 - [Survey](#survey)
-- [Supervised learning](#(2)supervised-learning)
+- [Supervised learning](#supervised-learning)
 - [Unsupervised learning (+Semi-supervised learning)](#unsupervised-learning )
 - [Others](#others)
 - [Datasets](#datasets)
@@ -26,7 +26,7 @@
 
 ---
 
-## (2)Supervised learning
+## Supervised learning
 
 ### [ECCV2018] 
 
@@ -135,7 +135,7 @@
 ---
 
 
-## 3. Unsupervised learning 
+## Unsupervised learning 
 ### (+Semi-supervised learning)
 
 ### [ECCV2018]
@@ -181,7 +181,7 @@
 
 
 
-## 4. Others
+## Others
 
 ### [ECCV2018]
 
@@ -213,7 +213,7 @@
 ---
 
 
-## 5. Datasets
+## Datasets
 
 ### [CVPR2018] 
 
@@ -226,7 +226,7 @@
 ---
 
 
-## *. Before classification
+## Before classification
 
 
 
