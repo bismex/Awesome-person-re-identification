@@ -18,7 +18,7 @@
 ## Statistics
 
 #### [**ECCV2018**] : 19 papers `(supervised - 8, unsupervised - 4, person search - 4, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
-#### [**CVPR2018**] : 30 papers `(supervised - 23, unsupervised - 4, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
+#### [**CVPR2018**] : 31 papers `(supervised - 23, unsupervised - 4, others - 3, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
 #### [**ICCV2017**] : 15 papers `(supervised - 7, unsupervised - 6, others - 2)` [[link]](http://openaccess.thecvf.com/ICCV2017.py)
 #### [**CVPR2017**] : 14 papers `(supervised - 9, unsupervised - 2, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2017.py)
 
@@ -217,6 +217,9 @@
 #### *"Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)]
 
 #### *"Exploiting Transitivity for Learning Person Re-identification Models on a Budget"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Roy_Exploiting_Transitivity_for_CVPR_2018_paper.pdf)]
+
+#### *"Disentangled Person Image Generation"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_Disentangled_Person_Image_CVPR_2018_paper.pdf)]
+
 
 ### [ICCV2017] 
 
