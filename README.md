@@ -1,4 +1,4 @@
-# Person Re-identification
+# Person Re-identification (Person Re-ID)
 
 ---
 
@@ -6,8 +6,8 @@
 
 - [0. Statistics](#statistics)
 - [1. Survey](#survey)
-- [2. Supervised learning](#supervised-learning)
-- [3. Unsupervised learning (+Semi-supervised learning)](#unsupervised-learning )
+- [2. Supervised Person Re-ID](#supervised-person-re-id)
+- [3. Unsupervised Person Re-ID (+Semi-supervised)](#unsupervised-person-re-id)
 - [4. Others](#others)
 - [5. Datasets](#datasets)
 
@@ -28,7 +28,7 @@
 
 ---
 
-## Supervised learning
+## Supervised Person Re-ID
 
 ### [ECCV2018] 
 
@@ -137,7 +137,7 @@
 ---
 
 
-## Unsupervised learning 
+## Unsupervised Person Re-ID 
 ### (+Semi-supervised learning)
 
 ### [ECCV2018]
