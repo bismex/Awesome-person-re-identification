@@ -4,18 +4,22 @@
 
 ## Table of Contents
 
-- [0. Statistics](#statistics)
-- [1. Survey](#survey)
-- [2. Supervised Person Re-ID](#supervised-person-re-id)
-- [3. Unsupervised Person Re-ID (+Semi-supervised)](#unsupervised-person-re-id)
-- [4. Others](#others)
-- [5. Datasets](#datasets)
+- **Person re-identification**
+  - [0. Statistics](#statistics)
+  - [1. Survey](#survey)
+  - [2. Supervised Person Re-ID](#supervised-person-re-id)
+  - [3. Unsupervised Person Re-ID (+Semi-supervised)](#unsupervised-person-re-id)
+  - [4. Datasets](#datasets)
+  - [5. Others](#others)
+
+- **Related works**
+  - [Person search](#person-search)
 
 ---
 
 ## Statistics
 
-#### [**ECCV2018**] : 13 papers `(supervised - 7, unsupervised - 3, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
+#### [**ECCV2018**] : 15 papers `(supervised - 8, unsupervised - 4, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
 #### [**CVPR2018**] : 30 papers `(supervised - 23, unsupervised - 4, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
 #### [**ICCV2017**] : 15 papers `(supervised - 7, unsupervised - 6, others - 2)` [[link]](http://openaccess.thecvf.com/ICCV2017.py)
 #### [**CVPR2017**] : 14 papers `(supervised - 9, unsupervised - 2, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2017.py)
@@ -45,6 +49,8 @@
 #### *"Part-Aligned Bilinear Representations for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)]
 
 #### *"Mancs: A Multi-task Attentional Network with Curriculum Sampling for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Cheng_Wang_Mancs_A_Multi-task_ECCV_2018_paper.pdf)]
+
+#### *"Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline)"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yifan_Sun_Beyond_Part_Models_ECCV_2018_paper.pdf)]
 
 ### [CVPR2018]
 
@@ -148,6 +154,9 @@
 
 #### *"Robust Anchor Embedding for Unsupervised Video Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mang_YE_Robust_Anchor_Embedding_ECCV_2018_paper.pdf)]
 
+#### *"Generalizing A Person Retrieval Model Hetero- and Homogeneously"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.pdf)]
+
+
 ### [CVPR2018]
 
 #### *"Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Transferable_Joint_Attribute-Identity_CVPR_2018_paper.pdf)]
@@ -182,6 +191,18 @@
 ---
 
 
+## Datasets
+
+### [CVPR2018] 
+
+#### *"Person Transfer GAN to Bridge Domain Gap for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)]
+
+### [CVPR2017] 
+
+#### *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
+
+
+---
 
 ## Others
 
@@ -214,16 +235,15 @@
 
 ---
 
+## Person Search
 
-## Datasets
+### [ECCV2018]
 
-### [CVPR2018] 
+#### *"RCAA: Relational Context-Aware Agents for Person Search"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaojun_Chang_RCAA_Relational_Context-Aware_ECCV_2018_paper.pdf)]
+#### *"Person Search in Videos with One Portrait Through Visual and Temporal Links"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.pdf)]
+#### *"Person Search by Multi-Scale Matching"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xu_Lan_Person_Search_by_ECCV_2018_paper.pdf)]
+#### *"Person Search via A Mask-Guided Two-Stream CNN Model"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Chen_Person_Search_via_ECCV_2018_paper.pdf)]
 
-#### *"Person Transfer GAN to Bridge Domain Gap for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)]
-
-### [CVPR2017] 
-
-#### *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
 
 ---
 
