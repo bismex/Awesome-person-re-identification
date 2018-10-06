@@ -9,17 +9,17 @@
   - [1. Survey](#survey)
   - [2. Supervised Person Re-ID](#supervised-person-re-id)
   - [3. Unsupervised Person Re-ID (+Semi-supervised)](#unsupervised-person-re-id)
-  - [4. Datasets](#datasets)
+  - [4. Person search](#person-search)
   - [5. Others](#others)
+  - [6. Datasets](#datasets)
 
 - **Related works**
-  - [Person search](#person-search)
 
 ---
 
 ## Statistics
 
-#### [**ECCV2018**] : 15 papers `(supervised - 8, unsupervised - 4, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
+#### [**ECCV2018**] : 19 papers `(supervised - 8, unsupervised - 4, person search - 4, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
 #### [**CVPR2018**] : 30 papers `(supervised - 23, unsupervised - 4, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
 #### [**ICCV2017**] : 15 papers `(supervised - 7, unsupervised - 6, others - 2)` [[link]](http://openaccess.thecvf.com/ICCV2017.py)
 #### [**CVPR2017**] : 14 papers `(supervised - 9, unsupervised - 2, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2017.py)
@@ -187,19 +187,19 @@
 
 #### *"Unsupervised Adaptive Re-Identification in Open World Dynamic Camera Networks"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Panda_Unsupervised_Adaptive_Re-Identification_CVPR_2017_paper.pdf)]
 
-
 ---
 
+## Person Search
 
-## Datasets
+### [ECCV2018]
 
-### [CVPR2018] 
+#### *"RCAA: Relational Context-Aware Agents for Person Search"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaojun_Chang_RCAA_Relational_Context-Aware_ECCV_2018_paper.pdf)]
 
-#### *"Person Transfer GAN to Bridge Domain Gap for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)]
+#### *"Person Search in Videos with One Portrait Through Visual and Temporal Links"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.pdf)]
 
-### [CVPR2017] 
+#### *"Person Search by Multi-Scale Matching"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xu_Lan_Person_Search_by_ECCV_2018_paper.pdf)]
 
-#### *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
+#### *"Person Search via A Mask-Guided Two-Stream CNN Model"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Chen_Person_Search_via_ECCV_2018_paper.pdf)]
 
 
 ---
@@ -233,16 +233,19 @@
 #### *"Multiple People Tracking by Lifted Multicut and Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)]
 
 
+
 ---
 
-## Person Search
 
-### [ECCV2018]
+## Datasets
 
-#### *"RCAA: Relational Context-Aware Agents for Person Search"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaojun_Chang_RCAA_Relational_Context-Aware_ECCV_2018_paper.pdf)]
-#### *"Person Search in Videos with One Portrait Through Visual and Temporal Links"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.pdf)]
-#### *"Person Search by Multi-Scale Matching"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xu_Lan_Person_Search_by_ECCV_2018_paper.pdf)]
-#### *"Person Search via A Mask-Guided Two-Stream CNN Model"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Chen_Person_Search_via_ECCV_2018_paper.pdf)]
+### [CVPR2018] 
+
+#### *"Person Transfer GAN to Bridge Domain Gap for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)]
+
+### [CVPR2017] 
+
+#### *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
 
 
 ---
