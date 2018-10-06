@@ -1,13 +1,15 @@
 # Person Re-identification
 
+---
+
 ## Table of Contents
 
-- [Statistics](#statistics)
-- [Survey](#survey)
-- [Supervised learning](#supervised-learning)
-- [Unsupervised learning (+Semi-supervised learning)](#unsupervised-learning )
-- [Others](#others)
-- [Datasets](#datasets)
+- [0. Statistics](#statistics)
+- [1. Survey](#survey)
+- [2. Supervised learning](#supervised-learning)
+- [3. Unsupervised learning (+Semi-supervised learning)](#unsupervised-learning )
+- [4. Others](#others)
+- [5. Datasets](#datasets)
 
 ---
 
