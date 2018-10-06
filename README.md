@@ -13,8 +13,6 @@
   - [5. Others](#others)
   - [6. Datasets](#datasets)
 
-- **Related works**
-
 ---
 
 ## Statistics
