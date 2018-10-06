@@ -3,7 +3,7 @@
 ## 0. Statistics
 
 #### [**ECCV2018**] : 13 papers `(supervised - 7, unsupervised - 3, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
-#### [**CVPR2018**] : 30 papers `(supervised - 23, unsupervised - 4, others - 2, dataset - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
+#### [**CVPR2018**] : 30 papers `(supervised - 23, unsupervised - 4, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2018.py)
 #### [**ICCV2017**] : [[link]](http://openaccess.thecvf.com/ICCV2017.py)
 #### [**CVPR2017**] : [[link]](http://openaccess.thecvf.com/CVPR2017.py)
 
@@ -62,8 +62,7 @@
 
 #### *"Dual Attention Matching Network for Context-Aware Feature Sequence based Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Si_Dual_Attention_Matching_CVPR_2018_paper.pdf)]
 
-#### *"Easy Identification from Better Constraints: Multi-Shot Person Re-Identification from Reference Constraints
-"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Easy_Identification_From_CVPR_2018_paper.pdf)]
+#### *"Easy Identification from Better Constraints: Multi-Shot Person Re-Identification from Reference Constraints"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Easy_Identification_From_CVPR_2018_paper.pdf)]
 
 #### *"Eliminating Background-bias for Robust Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tian_Eliminating_Background-Bias_for_CVPR_2018_paper.pdf)]
 
@@ -79,8 +78,27 @@
 
 #### *"Group Consistent Similarity Learning via Deep CRF for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Group_Consistent_Similarity_CVPR_2018_paper.pdf)]
 
+### [ICCV2017]
 
-## 3. Unsupervised learning
+#### *"A Two Stream Siamese Convolutional Neural Network For Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chung_A_Two_Stream_ICCV_2017_paper.pdf)]
+
+#### *"Efficient Online Local Metric Adaptation via Negative Samples for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Efficient_Online_Local_ICCV_2017_paper.pdf)]
+
+#### *"Learning View-Invariant Features for Person Identification in Temporally Synchronized Videos Taken by Wearable Cameras"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_View-Invariant_Features_ICCV_2017_paper.pdf)]
+
+#### *"Deeply-Learned Part-Aligned Representations for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhao_Deeply-Learned_Part-Aligned_Representations_ICCV_2017_paper.pdf)]
+
+#### *"Pose-driven Deep Convolutional Model for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Su_Pose-Driven_Deep_Convolutional_ICCV_2017_paper.pdf)]
+
+#### *"Jointly Attentive Spatial-Temporal Pooling Networks for Video-based Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xu_Jointly_Attentive_Spatial-Temporal_ICCV_2017_paper.pdf)]
+
+#### *"Multi-scale Deep Learning Architectures for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qian_Multi-Scale_Deep_Learning_ICCV_2017_paper.pdf)]
+
+
+
+
+
+## 3. Unsupervised learning (+Semi-supervised learning)
 
 ### [ECCV2018]
 
@@ -90,8 +108,6 @@
 
 #### *"Robust Anchor Embedding for Unsupervised Video Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mang_YE_Robust_Anchor_Embedding_ECCV_2018_paper.pdf)]
 
-
-
 ### [CVPR2018]
 
 #### *"Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Transferable_Joint_Attribute-Identity_CVPR_2018_paper.pdf)]
@@ -100,25 +116,49 @@
 
 #### *"Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.pdf)]
 
-#### *"Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning
-"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Exploit_the_Unknown_CVPR_2018_paper.pdf)]
+#### *"Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Exploit_the_Unknown_CVPR_2018_paper.pdf)]
+
+### [ICCV2017]
+
+#### *"Cross-view Asymmetric Metric Learning for Unsupervised Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yu_Cross-View_Asymmetric_Metric_ICCV_2017_paper.pdf)]
+
+#### *"SHaPE: A Novel Graph Theoretic Algorithm for Making Consensus-based Decisions in Person Re-identification Systems"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Barman_SHaPE_A_Novel_ICCV_2017_paper.pdf)]
+
+#### *"Stepwise Metric Promotion for Unsupervised Video Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Stepwise_Metric_Promotion_ICCV_2017_paper.pdf)]
+
+#### *"Group Re-Identification via Unsupervised Transfer of Sparse Features Encoding"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lisanti_Group_Re-Identification_via_ICCV_2017_paper.pdf)]
+
+#### *"Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Unlabeled_Samples_Generated_ICCV_2017_paper.pdf)]
+
+#### *"Dynamic Label Graph Matching for Unsupervised Video Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ye_Dynamic_Label_Graph_ICCV_2017_paper.pdf)]
+
 
 
 
 ## 4. Others
 
 ### [ECCV2018]
+
 #### *"Integrating Egocentric Videos in Top-view Surveillance Videos: Joint Identification and Temporal Alignment"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shervin_Ardeshir_Integrating_Egocentric_Videos_ECCV_2018_paper.pdf)]
 
 #### *"Reinforced Temporal Attention and Split-Rate Transfer for Depth-Based Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nikolaos_Karianakis_Reinforced_Temporal_Attention_ECCV_2018_paper.pdf)]
 
 #### *"Adversarial Open-World Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiang_Li_Adversarial_Open-World_Person_ECCV_2018_paper.pdf)]
 
-
 ### [CVPR2018]
+
 #### *"Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)]
 
 #### *"Exploiting Transitivity for Learning Person Re-identification Models on a Budget"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Roy_Exploiting_Transitivity_for_CVPR_2018_paper.pdf)]
+
+### [ICCV2017] 
+
+#### *"Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)]
+
+#### *"RGB-Infrared Cross-Modality Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_RGB-Infrared_Cross-Modality_Person_ICCV_2017_paper.pdf)]
+
+
+
 
 
 ## 5. Datasets
@@ -132,12 +172,11 @@
 
 ## *. Before classification
 
-
-### [CVPR2018] *""* [[paper]()]
-### [CVPR2018] *""* [[paper]()]
-### [CVPR2018] *""* [[paper]()]
-### [CVPR2018] *""* [[paper]()]
-
+#### *""* [[paper]()]
+#### *""* [[paper]()]
+#### *""* [[paper]()]
+#### *""* [[paper]()]
+#### *""* [[paper]()]
 
 
 
