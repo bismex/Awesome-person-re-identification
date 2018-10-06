@@ -1,5 +1,9 @@
 # Person Re-identification
 
+## Table of Contents
+
+- [0. Statistics](#0. Statistics)
+
 ---
 
 ## 0. Statistics
