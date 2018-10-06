@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Statistics](##0. Statistics)
+- [Statistics](##0.-Statistics)
 
 ---
 
