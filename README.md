@@ -3,11 +3,11 @@
 ## Table of Contents
 
 - [Statistics](#statistics)
-- [Survey](##survey)
-- [Supervised learning](##supervised-learning)
-- [Unsupervised learning (+Semi-supervised learning)](##unsupervised-learning )
-- [Others](##others)
-- [Datasets](##datasets)
+- [Survey](#survey)
+- [Supervised learning](#supervised-learning)
+- [Unsupervised learning (+Semi-supervised learning)](#unsupervised-learning )
+- [Others](#others)
+- [Datasets](#datasets)
 
 ---
 
