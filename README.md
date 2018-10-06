@@ -1,5 +1,7 @@
 # Person Re-identification
 
+---
+
 ## 0. Statistics
 
 #### [**ECCV2018**] : 13 papers `(supervised - 7, unsupervised - 3, others - 3)` [[link]](http://openaccess.thecvf.com/ECCV2018.py)
@@ -7,10 +9,13 @@
 #### [**ICCV2017**] : 15 papers `(supervised - 7, unsupervised - 6, others - 2)` [[link]](http://openaccess.thecvf.com/ICCV2017.py)
 #### [**CVPR2017**] : 14 papers `(supervised - 9, unsupervised - 2, others - 2, datasets - 1)` [[link]](http://openaccess.thecvf.com/CVPR2017.py)
 
+---
 
 ## 1. Survey
 
 #### [arXiv2016] *"Person Re-identification: Past, Present and Future"* [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
+
+---
 
 ## 2. Supervised learning
 
@@ -118,6 +123,7 @@
 
 
 
+---
 
 
 ## 3. Unsupervised learning (+Semi-supervised learning)
@@ -161,6 +167,7 @@
 #### *"Unsupervised Adaptive Re-Identification in Open World Dynamic Camera Networks"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Panda_Unsupervised_Adaptive_Re-Identification_CVPR_2017_paper.pdf)]
 
 
+---
 
 
 
@@ -193,6 +200,7 @@
 #### *"Multiple People Tracking by Lifted Multicut and Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)]
 
 
+---
 
 
 ## 5. Datasets
@@ -205,6 +213,7 @@
 
 #### *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
 
+---
 
 
 ## *. Before classification
@@ -213,11 +222,6 @@
 
 
 
-#### *""* [[paper]()]
-#### *""* [[paper]()]
-#### *""* [[paper]()]
-#### *""* [[paper]()]
-#### *""* [[paper]()]
 #### *""* [[paper]()]
 
 
