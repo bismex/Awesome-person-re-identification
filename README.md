@@ -2,7 +2,7 @@
 
 ## 0. Statistics
 
-- [**ECCV2018**] : 13 papers `(supervised - 7, unsupervised - 3, others - 3)'
+- [**ECCV2018**] : 13 papers `(supervised - 7, unsupervised - 3, others - 3)`
 - [**CVPR2018**] : 
 - [**ICCV2017**] : 
 - [**CVPR2017**] :
