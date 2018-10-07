@@ -4,14 +4,15 @@
 
 ## Table of Contents
 
-- **Person re-identification**
-  - [0. Statistics](#statistics)
-  - [1. Survey](#survey)
-  - [2. Supervised Person Re-ID](#supervised-person-re-id)
-  - [3. Unsupervised Person Re-ID (+Semi-supervised)](#unsupervised-person-re-id)
-  - [4. Person search](#person-search)
-  - [5. Others](#others)
-  - [6. Datasets](#datasets)
+**Person re-identification**
+
+- [0. Statistics](#statistics)
+- [1. Survey](#survey)
+- [2. Supervised Person Re-ID](#supervised-person-re-id)
+- [3. Unsupervised Person Re-ID (+Semi-supervised)](#unsupervised-person-re-id)
+- [4. Person search](#person-search)
+- [5. Others](#others)
+- [6. Datasets](#datasets)
 
 ---
 
