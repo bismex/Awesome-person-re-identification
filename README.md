@@ -368,9 +368,13 @@
 - [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
 
 ### [[Market-1501 Leaderboard](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
----
 
 ### [[Collection](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
+
+
+
+
+---
 
 ## Reference 
 
