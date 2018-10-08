@@ -370,6 +370,7 @@
 ### [[Market-1501 Leaderboard](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
 ---
 
+### [[Collection](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
 
 ## Reference 
 
