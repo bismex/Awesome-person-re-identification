@@ -39,15 +39,15 @@
 
 ### [ECCV2018]
 
-#### *"Unsupervised Person Re-identification by Deep Learning Tracklet Association"* 
-- [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Minxian_Li_Unsupervised_Person_Re-identification_ECCV_2018_paper.pdf)]
-- Rank-1 (Market1501) : 63.7
-- ResNet-50. Images resized to 256x128.
-
 #### *"Domain Adaptation through Synthesis for Unsupervised Person Re-identification"* 
 - [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf)]
 - Rank-1 (Market1501) : 65.7
 - Single query
+
+#### *"Unsupervised Person Re-identification by Deep Learning Tracklet Association"* 
+- [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Minxian_Li_Unsupervised_Person_Re-identification_ECCV_2018_paper.pdf)]
+- Rank-1 (Market1501) : 63.7
+- ResNet-50. Images resized to 256x128.
 
 #### *"Generalizing A Person Retrieval Model Hetero- and Homogeneously"* 
 - [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.pdf)] [[Github](https://github.com/zhunzhong07/HHL)]
