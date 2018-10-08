@@ -154,8 +154,7 @@
 
 #### *"Robust Anchor Embedding for Unsupervised Video Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mang_YE_Robust_Anchor_Embedding_ECCV_2018_paper.pdf)]
 
-#### *"Generalizing A Person Retrieval Model Hetero- and Homogeneously"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.pdf)]
-
+#### *"Generalizing A Person Retrieval Model Hetero- and Homogeneously"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.pdf)] [[Github](https://github.com/zhunzhong07/HHL)]
 
 ### [CVPR2018]
 
@@ -261,11 +260,13 @@
 
 #### *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
 
-
+### [[Market-1501 Leaderboard](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
 ---
 
 
-## Before classification
+## Reference 
+
+https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-re-id.md
 
 
 
