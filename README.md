@@ -17,7 +17,7 @@
 ## Statistics
 
 
-| Conference  | Link | #Total | Supervised Re-ID | Unsupervised Re-ID | Person search | Others | Datasets |
+| Conference  | Link | #Total | Supervised reID | Unsupervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 8 | 4 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 23 | 4 | 0 | 3 | 1 |
