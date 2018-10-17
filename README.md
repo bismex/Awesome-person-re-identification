@@ -51,18 +51,25 @@ This is a repository for organizing articles related to person re-identification
 
 #### *"Domain Adaptation through Synthesis for Unsupervised Person Re-identification"* 
 - [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.pdf)]
-- Rank-1 (Market1501) : 65.7
-- Single query
+- Performance
+  - Rank-1 (Market1501) : 65.7 (Single query)
 
 #### *"Unsupervised Person Re-identification by Deep Learning Tracklet Association"* 
 - [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Minxian_Li_Unsupervised_Person_Re-identification_ECCV_2018_paper.pdf)]
-- Rank-1 (Market1501) : 63.7
-- ResNet-50. Images resized to 256x128.
+- Performance
+  - Rank-1 (Market1501) : 63.7 (ResNet-50. Images resized to 256x128.)
+- Summary
+  - Sparse space-time tracklet (SSTT) sampling
+    - 1) Sparse temporal sampling
+    - 2) Sparse spatial sampling
+  - Tracklet association unsupervised deep learning (TAUDL) in an end-to-end manner.
+    - 1) Per-camera tracklet discrimination learning
+    - 2) Cross-camera tracklet association learning
 
 #### *"Generalizing A Person Retrieval Model Hetero- and Homogeneously"* 
 - [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.pdf)] [[Github](https://github.com/zhunzhong07/HHL)]
-- Rank-1 (Market1501) : 62.2(source domain : DukeMTMC) / 56.8(source domain : CUHK03)
-- Single query
+- Performance
+  - Rank-1 (Market1501) : 62.2(Single query, source domain : DukeMTMC) / 56.8(Single query, source domain : CUHK03)
 
 #### *"Robust Anchor Embedding for Unsupervised Video Person Re-Identification in the Wild"* 
 - [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mang_YE_Robust_Anchor_Embedding_ECCV_2018_paper.pdf)]
@@ -71,11 +78,13 @@ This is a repository for organizing articles related to person re-identification
 
 #### *"Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatial-Temporal Patterns"* 
 - [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf)] [[Github](https://github.com/ahangchen/TFusion)]
-- Rank-1 (Market1501) : 60.7(source domain : CUHK01) / 59.2(source domain : VIPeR) / 58.2(source domain : GRID)
+- Performance
+  - Rank-1 (Market1501) : 60.7(source domain : CUHK01) / 59.2(source domain : VIPeR) / 58.2(source domain : GRID)
 
 #### *"Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification"* 
 - [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Transferable_Joint_Attribute-Identity_CVPR_2018_paper.pdf)]
-- Rank-1 (Market1501) : 58.2(source domain : DukeMTMC)
+- Performance
+  - Rank-1 (Market1501) : 58.2(source domain : DukeMTMC)
 
 #### *"Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification"* 
 - [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.pdf)] [[Github](https://github.com/Simon4Yan/Learning-via-Translation)]
@@ -83,7 +92,8 @@ This is a repository for organizing articles related to person re-identification
 
 #### *"Disentangled Person Image Generation"* 
 - [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_Disentangled_Person_Image_CVPR_2018_paper.pdf)]
-- Rank-1 (Market1501) : 35.5
+- Performance
+  - Rank-1 (Market1501) : 35.5
 
 #### *"Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning"* 
 - [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Exploit_the_Unknown_CVPR_2018_paper.pdf)] [[Github](https://github.com/Yu-Wu/Exploit-Unknown-Gradually)] [[Homepage](https://yu-wu.net/publication/cvpr2018-oneshot-reid/)]
@@ -93,12 +103,13 @@ This is a repository for organizing articles related to person re-identification
 
 #### *"Cross-view Asymmetric Metric Learning for Unsupervised Person Re-identification"* 
 - [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yu_Cross-View_Asymmetric_Metric_ICCV_2017_paper.pdf)] [[Github](https://github.com/KovenYu/CAMEL)]
-- Rank-1 (Market1501) : 54.5
-- Multiple query
+- Performance
+  - Rank-1 (Market1501) : 54.5(Multiple query)
 
 #### *"Efficient Online Local Metric Adaptation via Negative Samples for Person Re-Identification"* 
 - [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Efficient_Online_Local_ICCV_2017_paper.pdf)]
-- Rank-1 (Market1501) : 51.5(Multiple query) / 40.9(Single query)
+- Performance
+  - Rank-1 (Market1501) : 51.5(Multiple query) / 40.9(Single query)
 
 #### *"SHaPE: A Novel Graph Theoretic Algorithm for Making Consensus-based Decisions in Person Re-identification Systems"* 
 - [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Barman_SHaPE_A_Novel_ICCV_2017_paper.pdf)]
@@ -129,8 +140,8 @@ This is a repository for organizing articles related to person re-identification
 
 #### *"Unsupervised Person Re-identification: Clustering and Fine-tuning"* 
 - [[paper](https://arxiv.org/pdf/1705.10444.pdf)] [[Github](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
-- Rank-1 (Market1501) : 41.9 (source domain : CUHK03)
-- Single query
+- Performance
+  - Rank-1 (Market1501) : 41.9 (Single query, source domain : CUHK03)
 
 
 
