@@ -167,7 +167,8 @@ This is a repository for organizing articles related to person re-identification
 - [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rui_Yu_Hard-Aware_Point-to-Set_Deep_ECCV_2018_paper.pdf)]
 
 #### *"Part-Aligned Bilinear Representations for Person Re-Identification"* 
-- [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)]
+- [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)] [[Github](https://github.com/yuminsuh/part_bilinear_reid)]
+- Summary
   - Two stream network (Appearance map extractor, Part map extractor-OpenPose)
   - Aggregator : bilinear pooling (better than concat + Ave. pool + linear)
 
