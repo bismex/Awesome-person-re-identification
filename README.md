@@ -168,6 +168,8 @@ This is a repository for organizing articles related to person re-identification
 
 #### *"Part-Aligned Bilinear Representations for Person Re-Identification"* 
 - [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)]
+  - Two stream network (Appearance map extractor, Part map extractor-OpenPose)
+  - Aggregator : bilinear pooling (better than concat + Ave. pool + linear)
 
 #### *"Mancs: A Multi-task Attentional Network with Curriculum Sampling for Person Re-identification"* 
 - [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Cheng_Wang_Mancs_A_Multi-task_ECCV_2018_paper.pdf)]
