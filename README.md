@@ -395,7 +395,7 @@ These are papers that search for "gait" and "person re-identification" in google
 #### *"A Spatio-temporal Appearance Representation for Video-based Pedestrian Re-identification"*, ICCV 2015
 - [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Liu_A_Spatio-Temporal_Appearance_ICCV_2015_paper.pdf)]
 
-#### *"Gait-Assisted Person Re-identification in Wide Area Surveillance"*, ACCVW 2015
+#### *"Gait-Assisted Person Re-identification in Wide Area Surveillance"*, ACCV 2014
 - [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-16634-6_46.pdf)]
 
 #### *"Person Re-identiﬁcation by Unsupervised Video Matching"*, Pattern Recognition 2017
