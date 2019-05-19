@@ -44,7 +44,7 @@ This is a repository for organizing articles related to person re-identification
 ---
 
 
-## CVPR2019
+## CVPR 2019
 ### (not categorized yet)
 
 #### *"Joint Discriminative and Generative Learning for Person Re-identification"*
