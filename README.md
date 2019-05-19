@@ -6,13 +6,14 @@ This is a repository for organizing articles related to person re-identification
 
 ## Table of Contents
 
-- [0. Statistics](#statistics)
-- [1. Survey](#survey)
-- [2. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#unsupervised-person-re-id)
-- [3. Supervised Person Re-ID](#supervised-person-re-id)
-- [4. Person search](#person-search)
-- [5. Others](#others)
-- [6. Datasets](#datasets)
+- [1. Statistics](#statistics)
+- [2. Survey](#survey)
+- [3. CVPR2019](#cvpr-2019)
+- [4. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#unsupervised-person-re-id)
+- [5. Supervised Person Re-ID](#supervised-person-re-id)
+- [6. Person search](#person-search)
+- [7. Others](#others)
+- [8. Datasets](#datasets)
 
 ---
 
@@ -21,7 +22,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
-| CVPR2019 | will be updated soon | - | - | - | - | - | - |
+| CVPR2019 | will be updated soon | 29 | ? | ? | ? | ? | ? |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
 | ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 16 | 7 | 6 | 1 | 2 | 0 |
@@ -42,6 +43,41 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
+
+## CVPR2019
+### (not categorized yet)
+
+#### *"Joint Discriminative and Generative Learning for Person Re-identification"*
+#### *"Densely Semantically Aligned Person Re-Identification"*
+#### *"Generalizable Person Re-identification by Domain-Invariant Mapping Network"*
+#### *"Re-Identification with Consistent Attentive Siamese Networks"*
+#### *"Distilled Person Re-identification: Towards a More Scalable System"*
+#### *"Weakly Supervised Person Re-Identification"*
+#### *"Patch Based Discriminative Feature Learning for Unsupervised Person Re-identification"*
+#### *"Unsupervised Person Re-identification by Soft Multilabel Learning"*
+#### *"Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification"*
+#### *"Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification"*
+#### *"Progressive Pose Attention Transfer for Person Image Generation"*
+#### *"Unsupervised Person Image Generation with Semantic Parsing Transformation"*
+#### *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"*
+#### *"Text Guided Person Image Synthesis"*
+#### *"Re-Identification Supervised 3D Texture Generation"*
+#### *"Learning Context Graph for Person Search"*
+#### *"Query-guided End-to-End Person Search"*
+#### *"Multi-person Articulated Tracking with Spatial and Temporal Embeddings"*
+#### *"Dissecting Person Re-identification from the Viewpoint of Viewpoint"*
+#### *"Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification"*
+#### *"AANet: Attribute Attentio Network for Person Re-Identification"*
+#### *"VRSTC: Occlusion-Free Video Person Re-Identification"*
+#### *"Adaptive Transfer Network for Cross-Domain Person Re-Identification"*
+#### *"Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training"*
+#### *"Interaction-and-Aggregation Network for Person Re-identification"*
+#### *"Skin-based identification from multispectral image data using CNNs"*
+#### *"Feature Distance Adversarial Network for Vehicle Re-Identification"*
+#### *"Part-regularized Near-Duplicate Vehicle Re-identification"*
+#### *"CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"*
+
+---
 
 ## Unsupervised Person Re-ID 
 ### (+Transfer learning)
