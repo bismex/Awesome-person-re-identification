@@ -107,8 +107,7 @@ This is a repository for organizing articles related to person re-identification
 ---
 
 ## Unsupervised Person Re-ID 
-### (+Transfer learning)
-### (+Semi-supervised learning)
+### (+ Transfer learning / Semi-supervised learning / Weakly-supervised learning)
 
 ### :high_brightness: [ECCV2018]
 
@@ -356,6 +355,29 @@ This is a repository for organizing articles related to person re-identification
 #### 3) *"Pose-Aware Person Recognition"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kumar_Pose-Aware_Person_Recognition_CVPR_2017_paper.pdf)]
 
 
+---
+
+
+## Datasets
+
+### :high_brightness: [CVPR2018] 
+
+#### 1) *"Person Transfer GAN to Bridge Domain Gap for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)]
+- Rank-1 (Market1501) : 38.6(source domain : DukeMTMC)
+
+### :high_brightness: [CVPR2017] 
+
+#### 1) *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
+
+
+### :high_brightness: [[Market-1501 Leaderboard](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
+
+### :high_brightness: [[Collection](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
+
+---
+
+# ETC
+
 ## Gait-based approach
 
 These are papers that search for "gait" and "person re-identification" in google scholar.
@@ -393,26 +415,6 @@ These are papers that search for "gait" and "person re-identification" in google
 #### 16) *"Person Re-identification in Frontal Gait Sequences via Histogram of Optic Flow Energy Image"*, ICACIVS 2016 [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-48680-2_23.pdf)]
 
 #### 17) *"Learning Bidirectional Temporal Cues for Video-based Person Re-Identification"*, TCSVT 2016 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7954700)]
-
-
----
-
-
-## Datasets
-
-### :high_brightness: [CVPR2018] 
-
-#### 1) *"Person Transfer GAN to Bridge Domain Gap for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)]
-- Rank-1 (Market1501) : 38.6(source domain : DukeMTMC)
-
-### :high_brightness: [CVPR2017] 
-
-#### 1) *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
-
-
-### :high_brightness: [[Market-1501 Leaderboard](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
-
-### :high_brightness: [[Collection](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
 
 ---
 
