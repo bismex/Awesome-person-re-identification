@@ -34,16 +34,16 @@ This is a repository for organizing articles related to person re-identification
 
 ## 2. Survey
 
-#### 1) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
+> #### 1) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
 
-#### 2) *"A survey of approaches and trends in person re-identification"*, Image and Vision Computing 2014 [[paper](https://ac.els-cdn.com/S0262885614000262/1-s2.0-S0262885614000262-main.pdf?_tid=de6eee6c-08e6-486c-9d7a-18d2e0c30091&acdnat=1539565884_afc3e4f2e7068a620c9fbfde6129d35d)]
+> #### 2) *"A survey of approaches and trends in person re-identification"*, Image and Vision Computing 2014 [[paper](https://ac.els-cdn.com/S0262885614000262/1-s2.0-S0262885614000262-main.pdf?_tid=de6eee6c-08e6-486c-9d7a-18d2e0c30091&acdnat=1539565884_afc3e4f2e7068a620c9fbfde6129d35d)]
 
-#### 3) *"Appearance Descriptors for Person Re-identification: a Comprehensive Review"*, arXiv 2013 [[paper](https://arxiv.org/abs/1307.5748)]
+> #### 3) *"Appearance Descriptors for Person Re-identification: a Comprehensive Review"*, arXiv 2013 [[paper](https://arxiv.org/abs/1307.5748)]
 
 ---
 
 
-## 4. CVPR 2019
+## 3. CVPR 2019
 ### (not categorized yet)
 
 #### 1) *"Joint Discriminative and Generative Learning for Person Re-identification"* [[paper](https://arxiv.org/pdf/1904.07223.pdf)]
@@ -362,7 +362,7 @@ This is a repository for organizing articles related to person re-identification
 ---
 
 
-## Datasets
+## 8. Datasets
 
 ### :high_brightness: [CVPR2018] 
 
