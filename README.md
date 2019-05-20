@@ -9,13 +9,13 @@ This is a repository for organizing articles related to person re-identification
 ## Table of Contents
 
 - [1. Statistics](#1-statistics)
-- [2. Survey](#survey)
-- [3. CVPR2019](#cvpr-2019)
-- [4. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#unsupervised-person-re-id)
-- [5. Supervised Person Re-ID](#supervised-person-re-id)
-- [6. Person search](#person-search)
-- [7. Others](#others)
-- [8. Datasets](#datasets)
+- [2. Survey](#2-survey)
+- [3. CVPR2019](#3-cvpr-2019)
+- [4. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#4-unsupervised-person-re-id)
+- [5. Supervised Person Re-ID](#5-supervised-person-re-id)
+- [6. Person search](#6-person-search)
+- [7. Others](#7-others)
+- [8. Datasets](#8-datasets)
 
 ---
 
@@ -32,7 +32,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## Survey
+## 2. Survey
 
 #### 1) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
 
@@ -43,7 +43,7 @@ This is a repository for organizing articles related to person re-identification
 ---
 
 
-## CVPR 2019
+## 4. CVPR 2019
 ### (not categorized yet)
 
 #### 1) *"Joint Discriminative and Generative Learning for Person Re-identification"* [[paper](https://arxiv.org/pdf/1904.07223.pdf)]
@@ -106,7 +106,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## Unsupervised Person Re-ID 
+## 4. Unsupervised Person Re-ID 
 ### (+ Transfer learning / Semi-supervised learning / Weakly-supervised learning)
 
 ### :high_brightness: [ECCV2018]
@@ -191,9 +191,11 @@ This is a repository for organizing articles related to person re-identification
 
 
 
+
+
 ---
 
-## Supervised Person Re-ID
+## 5. Supervised Person Re-ID
 
 ### :high_brightness: [ECCV2018] 
 
@@ -302,7 +304,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## Person Search
+## 6. Person Search
 
 ### :high_brightness: [ECCV2018]
 
@@ -325,7 +327,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## Others
+## 7. Others
 
 ### :high_brightness: [ECCV2018]
 
