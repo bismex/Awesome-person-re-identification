@@ -60,15 +60,15 @@ This is a repository for organizing articles related to person re-identification
 
 #### *"Patch Based Discriminative Feature Learning for Unsupervised Person Re-identification"* [[paper](https://kovenyu.com/papers/2019_CVPR_PEDAL.pdf)]
 
-#### *"Unsupervised Person Re-identification by Soft Multilabel Learning"* [[paper](https://arxiv.org/pdf/1903.06325.pdf)]
+#### *"Unsupervised Person Re-identification by Soft Multilabel Learning"* [[paper](https://arxiv.org/pdf/1903.06325.pdf)] [[github](https://github.com/KovenYu/MAR)]
 
-#### *"Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification"* [[paper](https://arxiv.org/pdf/1904.01990.pdf)]
+#### *"Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification"* [[paper](https://arxiv.org/pdf/1904.01990.pdf)] [[github](https://github.com/zhunzhong07/ECN)]
 
 #### *"Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification"* [[paper](https://cis.temple.edu/~latecki/Papers/SongCVPR2019.pdf)]
 
-#### *"Progressive Pose Attention Transfer for Person Image Generation"* [[paper](https://arxiv.org/pdf/1904.03349.pdf)]
+#### *"Progressive Pose Attention Transfer for Person Image Generation"* [[paper](https://arxiv.org/pdf/1904.03349.pdf)] [[github](https://github.com/tengteng95/Pose-Transfer)]
 
-#### *"Unsupervised Person Image Generation with Semantic Parsing Transformation"* [[paper](https://arxiv.org/pdf/1904.03379.pdf)]
+#### *"Unsupervised Person Image Generation with Semantic Parsing Transformation"* [[paper](https://arxiv.org/pdf/1904.03379.pdf)] [[github](https://github.com/SijieSong/person_generation_spt)]
 
 #### *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"* [[paper](http://homepage.ntu.edu.tw/~r06944046/pdf/Wang_Learning_to_Reduce_Dual-level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR19.pdf)]
 
@@ -76,7 +76,7 @@ This is a repository for organizing articles related to person re-identification
 
 #### *"Re-Identification Supervised 3D Texture Generation"* [[paper](https://arxiv.org/pdf/1904.03385.pdf)]
 
-#### *"Learning Context Graph for Person Search"* [[paper](https://arxiv.org/pdf/1904.01830.pdf)]
+#### *"Learning Context Graph for Person Search"* [[paper](https://arxiv.org/pdf/1904.01830.pdf)] [[github](https://github.com/sjtuzq/person_search_gcn)]
 
 #### *"Query-guided End-to-End Person Search"* [[paper](https://arxiv.org/pdf/1905.01203.pdf)]
 
