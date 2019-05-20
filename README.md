@@ -8,7 +8,7 @@ This is a repository for organizing articles related to person re-identification
 
 ## Table of Contents
 
-- [1. Statistics](#statistics)
+- [1. Statistics](#1-statistics)
 - [2. Survey](#survey)
 - [3. CVPR2019](#cvpr-2019)
 - [4. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#unsupervised-person-re-id)
@@ -19,7 +19,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## Statistics
+## 1. Statistics
 
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
@@ -132,6 +132,8 @@ This is a repository for organizing articles related to person re-identification
   - Rank-1 (Market1501) : 62.2(Single query, source domain : DukeMTMC) / 56.8(Single query, source domain : CUHK03)
 
 #### 4) *"Robust Anchor Embedding for Unsupervised Video Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mang_YE_Robust_Anchor_Embedding_ECCV_2018_paper.pdf)]
+
+---
 
 ### :high_brightness: [CVPR2018]
 
