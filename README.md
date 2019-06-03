@@ -4,7 +4,9 @@
 
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
-### :high_brightness: Updated 2019-05-20 
+### :high_brightness: Updated 2019-06-03
+- The github page for "Query-guided End-to-End Person Search" is updated
+- The github page for "Dissecting Person Re-identification from the Viewpoint of Viewpoint" is updated
 
 ---
 
@@ -62,9 +64,9 @@ This is a repository for organizing articles related to person re-identification
 > #### 14) *"Text Guided Person Image Synthesis"* [[paper](https://arxiv.org/pdf/1904.05118.pdf)]
 > #### 15) *"Re-Identification Supervised 3D Texture Generation"* [[paper](https://arxiv.org/pdf/1904.03385.pdf)]
 > #### 16) *"Learning Context Graph for Person Search"* [[paper](https://arxiv.org/pdf/1904.01830.pdf)] [[github](https://github.com/sjtuzq/person_search_gcn)]
-> #### 17) *"Query-guided End-to-End Person Search"* [[paper](https://arxiv.org/pdf/1905.01203.pdf)]
+> #### 17) *"Query-guided End-to-End Person Search"* [[paper](https://arxiv.org/pdf/1905.01203.pdf)] [[github](https://github.com/munjalbharti/Query-guided-End-to-End-Person-Search)]
 > #### 18) *"Multi-person Articulated Tracking with Spatial and Temporal Embeddings"* [[paper](https://arxiv.org/pdf/1903.09214.pdf)]
-> #### 19) *"Dissecting Person Re-identification from the Viewpoint of Viewpoint"* [[paper](https://arxiv.org/pdf/1812.02162.pdf)]
+> #### 19) *"Dissecting Person Re-identification from the Viewpoint of Viewpoint"* [[paper](https://arxiv.org/pdf/1812.02162.pdf)] [[github](https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint)]
 > #### 20) *"Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification"* 
 > #### 21) *"AANet: Attribute Attentio Network for Person Re-Identification"* 
 > #### 22) *"VRSTC: Occlusion-Free Video Person Re-Identification"* 
