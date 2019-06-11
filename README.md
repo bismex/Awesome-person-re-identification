@@ -4,6 +4,9 @@
 
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
+### :high_brightness: Updated 2019-06-12
+- The online address of all cvpr papers has been updated.
+
 ### :high_brightness: Updated 2019-06-03
 - The github page for "Query-guided End-to-End Person Search" is updated
 - The github page for "Dissecting Person Re-identification from the Viewpoint of Viewpoint" is updated
@@ -28,7 +31,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
-| CVPR2019 | will be updated soon [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | ? | ? | ? | ? | ? |
+| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | ? | ? | ? | ? | ? |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
 | ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 16 | 7 | 6 | 1 | 2 | 0 |
@@ -48,36 +51,35 @@ This is a repository for organizing articles related to person re-identification
 ## 3. CVPR 2019
 ### (not categorized yet)
 
-> #### 1) *"Joint Discriminative and Generative Learning for Person Re-identification"* [[paper](https://arxiv.org/pdf/1904.07223.pdf)]
-> #### 2) *"Densely Semantically Aligned Person Re-Identification"* [[paper](https://arxiv.org/pdf/1812.08967.pdf)]
-> #### 3) *"Generalizable Person Re-identification by Domain-Invariant Mapping Network"* [[paper](http://www.eecs.qmul.ac.uk/~js327/Doc/Publication/2019/cvpr2019_dimn.pdf)]
-> #### 4) *"Re-Identification with Consistent Attentive Siamese Networks"* [[paper](https://arxiv.org/pdf/1811.07487.pdf)]
-> #### 5) *"Distilled Person Re-identification: Towards a More Scalable System"* [[paper](http://129.204.67.179/~wuancong/papers/Distilled%20Person%20Re-identification%20Towards%20a%20More%20Scalable%20System.pdf)]
-> #### 6) *"Weakly Supervised Person Re-Identification"* [[paper](https://arxiv.org/pdf/1904.03832.pdf)]
-> #### 7) *"Patch Based Discriminative Feature Learning for Unsupervised Person Re-identification"* [[paper](https://kovenyu.com/papers/2019_CVPR_PEDAL.pdf)]
-> #### 8) *"Unsupervised Person Re-identification by Soft Multilabel Learning"* [[paper](https://arxiv.org/pdf/1903.06325.pdf)] [[github](https://github.com/KovenYu/MAR)]
-> #### 9) *"Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification"* [[paper](https://arxiv.org/pdf/1904.01990.pdf)] [[github](https://github.com/zhunzhong07/ECN)]
-> #### 10) *"Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification"* [[paper](https://cis.temple.edu/~latecki/Papers/SongCVPR2019.pdf)]
-> #### 11) *"Progressive Pose Attention Transfer for Person Image Generation"* [[paper](https://arxiv.org/pdf/1904.03349.pdf)] [[github](https://github.com/tengteng95/Pose-Transfer)]
-> #### 12) *"Unsupervised Person Image Generation with Semantic Parsing Transformation"* [[paper](https://arxiv.org/pdf/1904.03379.pdf)] [[github](https://github.com/SijieSong/person_generation_spt)]
-> #### 13) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"* [[paper](http://homepage.ntu.edu.tw/~r06944046/pdf/Wang_Learning_to_Reduce_Dual-level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR19.pdf)]
-> #### 14) *"Text Guided Person Image Synthesis"* [[paper](https://arxiv.org/pdf/1904.05118.pdf)]
-> #### 15) *"Re-Identification Supervised 3D Texture Generation"* [[paper](https://arxiv.org/pdf/1904.03385.pdf)]
-> #### 16) *"Learning Context Graph for Person Search"* [[paper](https://arxiv.org/pdf/1904.01830.pdf)] [[github](https://github.com/sjtuzq/person_search_gcn)]
-> #### 17) *"Query-guided End-to-End Person Search"* [[paper](https://arxiv.org/pdf/1905.01203.pdf)] [[github](https://github.com/munjalbharti/Query-guided-End-to-End-Person-Search)]
-> #### 18) *"Multi-person Articulated Tracking with Spatial and Temporal Embeddings"* [[paper](https://arxiv.org/pdf/1903.09214.pdf)]
-> #### 19) *"Dissecting Person Re-identification from the Viewpoint of Viewpoint"* [[paper](https://arxiv.org/pdf/1812.02162.pdf)] [[github](https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint)]
-> #### 20) *"Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification"* 
-> #### 21) *"AANet: Attribute Attentio Network for Person Re-Identification"* 
-> #### 22) *"VRSTC: Occlusion-Free Video Person Re-Identification"* 
-> #### 23) *"Adaptive Transfer Network for Cross-Domain Person Re-Identification"* 
-> #### 24) *"Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training"* [[paper](https://arxiv.org/pdf/1810.12193.pdf)]
-> #### 25) *"Interaction-and-Aggregation Network for Person Re-identification"* 
-> #### 26) *"Skin-based identification from multispectral image data using CNNs"* 
-> #### 27) *"Feature Distance Adversarial Network for Vehicle Re-Identification"* 
-> #### 28) *"Part-regularized Near-Duplicate Vehicle Re-identification"* [[paper](http://cvteam.net/papers/2019_CVPR_Part-regularized%20Near-duplicate%20Vehicle%20Re-identification.pdf)]
-> #### 29) *"CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"* [[paper](https://arxiv.org/pdf/1903.09254.pdf)]
-
+> #### 1) *"Joint Discriminative and Generative Learning for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 2) *"Densely Semantically Aligned Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Densely_Semantically_Aligned_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 3) *"Generalizable Person Re-identification by Domain-Invariant Mapping Network"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Generalizable_Person_Re-Identification_by_Domain-Invariant_Mapping_Network_CVPR_2019_paper.pdf)]
+> #### 4) *"Re-Identification with Consistent Attentive Siamese Networks"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Re-Identification_With_Consistent_Attentive_Siamese_Networks_CVPR_2019_paper.pdf)]
+> #### 5) *"Distilled Person Re-identification: Towards a More Scalable System"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System_CVPR_2019_paper.pdf)]
+> #### 6) *"Weakly Supervised Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meng_Weakly_Supervised_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 7) *"Patch-Based Discriminative Feature Learning for Unsupervised Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 8) *"Unsupervised Person Re-identification by Soft Multilabel Learning"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.pdf)] [[github](https://github.com/KovenYu/MAR)]
+> #### 9) *"Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.pdf)] [[github](https://github.com/zhunzhong07/ECN)]
+> #### 10) *"Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bai_Re-Ranking_via_Metric_Fusion_for_Object_Retrieval_and_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 11) *"Progressive Pose Attention Transfer for Person Image Generation"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Progressive_Pose_Attention_Transfer_for_Person_Image_Generation_CVPR_2019_paper.pdf)] [[github](https://github.com/tengteng95/Pose-Transfer)]
+> #### 12) *"Unsupervised Person Image Generation with Semantic Parsing Transformation"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.pdf)] [[github](https://github.com/SijieSong/person_generation_spt)]
+> #### 13) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 14) *"Text Guided Person Image Synthesis"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Text_Guided_Person_Image_Synthesis_CVPR_2019_paper.pdf)]
+> #### 15) *"Re-Identification Supervised Texture Generation"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)]
+> #### 16) *"Learning Context Graph for Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Learning_Context_Graph_for_Person_Search_CVPR_2019_paper.pdf)] [[github](https://github.com/sjtuzq/person_search_gcn)]
+> #### 17) *"Query-guided End-to-End Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Munjal_Query-Guided_End-To-End_Person_Search_CVPR_2019_paper.pdf)] [[github](https://github.com/munjalbharti/Query-guided-End-to-End-Person-Search)]
+> #### 18) *"Multi-person Articulated Tracking with Spatial and Temporal Embeddings"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jin_Multi-Person_Articulated_Tracking_With_Spatial_and_Temporal_Embeddings_CVPR_2019_paper.pdf)]
+> #### 19) *"Dissecting Person Re-identification from the Viewpoint of Viewpoint"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Dissecting_Person_Re-Identification_From_the_Viewpoint_of_Viewpoint_CVPR_2019_paper.pdf)] [[github](https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint)]
+> #### 20) *"Towards Rich Feature Discovery with Class Activation Maps Augmentation for Person Re-Identification"* [[paper]([[paper]()])]
+> #### 21) *"AANet: Attribute Attention Network for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tay_AANet_Attribute_Attention_Network_for_Person_Re-Identifications_CVPR_2019_paper.pdf)]
+> #### 22) *"VRSTC: Occlusion-Free Video Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_VRSTC_Occlusion-Free_Video_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 23) *"Adaptive Transfer Network for Cross-Domain Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_Transfer_Network_for_Cross-Domain_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 24) *"Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training_CVPR_2019_paper.pdf)]
+> #### 25) *"Interaction-and-Aggregation Network for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Interaction-And-Aggregation_Network_for_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 26) *"Skin-based identification from multispectral image data using CNNs"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Uemori_Skin-Based_Identification_From_Multispectral_Image_Data_Using_CNNs_CVPR_2019_paper.pdf)]
+> #### 27) *"Part-regularized Near-Duplicate Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 28) *"CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)]
+> #### 29) *"VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)]
 ---
 
 ## 4. Unsupervised Person Re-ID 
