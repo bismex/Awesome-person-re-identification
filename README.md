@@ -5,11 +5,12 @@
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
 ### :high_brightness: Updated 2019-06-12
-- The online address of all cvpr papers has been updated.
+- The online address of all CVPR2019 papers has been updated.
+- The CVPR2019 papers will be categorized soon.
 
 ### :high_brightness: Updated 2019-06-03
-- The github page for "Query-guided End-to-End Person Search" is updated
-- The github page for "Dissecting Person Re-identification from the Viewpoint of Viewpoint" is updated
+- The github page for "Query-guided End-to-End Person Search" has been updated.
+- The github page for "Dissecting Person Re-identification from the Viewpoint of Viewpoint" has been updated.
 
 ---
 
