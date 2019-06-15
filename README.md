@@ -4,6 +4,11 @@
 
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
+### :high_brightness: Updated 2019-06-14
+- Two papers have been included.
+  - "Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification"
+  - "Perceive Where to Focus: Learning Visibility-aware Part-level Features for Partial Person Re-identification"
+
 ### :high_brightness: Updated 2019-06-12
 - The online address of all CVPR2019 papers has been updated.
 - The CVPR2019 papers will be categorized soon.
@@ -32,7 +37,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
-| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | ? | ? | ? | ? | ? |
+| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 31 | ? | ? | ? | ? | ? |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
 | ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 16 | 7 | 6 | 1 | 2 | 0 |
@@ -81,6 +86,9 @@ This is a repository for organizing articles related to person re-identification
 > #### 27) *"Part-regularized Near-Duplicate Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
 > #### 28) *"CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)]
 > #### 29) *"VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)]
+> #### 30) *"Perceive Where to Focus: Learning Visibility-aware Part-level Features for Partial Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Perceive_Where_to_Focus_Learning_Visibility-Aware_Part-Level_Features_for_Partial_CVPR_2019_paper.pdf)]
+> #### 31) *"Attribute-Driven Feature Disentangling and Temporal Aggregation for Video
+Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Attribute-Driven_Feature_Disentangling_and_Temporal_Aggregation_for_Video_Person_Re-Identification_CVPR_2019_paper.pdf)]
 ---
 
 ## 4. Unsupervised Person Re-ID 
