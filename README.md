@@ -37,7 +37,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
-| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 31 | ? | ? | ? | ? | ? |
+| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 30 | ? | ? | ? | ? | ? |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
 | ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 16 | 7 | 6 | 1 | 2 | 0 |
@@ -82,7 +82,6 @@ This is a repository for organizing articles related to person re-identification
 > #### 23) *"Adaptive Transfer Network for Cross-Domain Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_Transfer_Network_for_Cross-Domain_Person_Re-Identification_CVPR_2019_paper.pdf)]
 > #### 24) *"Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Pyramidal_Person_Re-IDentification_via_Multi-Loss_Dynamic_Training_CVPR_2019_paper.pdf)]
 > #### 25) *"Interaction-and-Aggregation Network for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Interaction-And-Aggregation_Network_for_Person_Re-Identification_CVPR_2019_paper.pdf)]
-> #### 26) *"Skin-based identification from multispectral image data using CNNs"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Uemori_Skin-Based_Identification_From_Multispectral_Image_Data_Using_CNNs_CVPR_2019_paper.pdf)]
 > #### 27) *"Part-regularized Near-Duplicate Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
 > #### 28) *"CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)]
 > #### 29) *"VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)]
