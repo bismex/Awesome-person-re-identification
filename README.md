@@ -87,8 +87,7 @@ This is a repository for organizing articles related to person re-identification
 > #### 28) *"CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)]
 > #### 29) *"VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)]
 > #### 30) *"Perceive Where to Focus: Learning Visibility-aware Part-level Features for Partial Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Perceive_Where_to_Focus_Learning_Visibility-Aware_Part-Level_Features_for_Partial_CVPR_2019_paper.pdf)]
-> #### 31) *"Attribute-Driven Feature Disentangling and Temporal Aggregation for Video
-Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Attribute-Driven_Feature_Disentangling_and_Temporal_Aggregation_for_Video_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 31) *"Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Attribute-Driven_Feature_Disentangling_and_Temporal_Aggregation_for_Video_Person_Re-Identification_CVPR_2019_paper.pdf)]
 ---
 
 ## 4. Unsupervised Person Re-ID 
