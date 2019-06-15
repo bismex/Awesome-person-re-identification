@@ -4,6 +4,9 @@
 
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
+### :high_brightness: Updated 2019-06-15
+- The CVPR papers have been categorized.
+
 ### :high_brightness: Updated 2019-06-14
 - Two papers have been included.
   - "Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification"
