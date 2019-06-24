@@ -39,7 +39,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
-| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 4 | 13 | 2 | 8 | 2 |
+| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 4 | 13 | 2 | 7 | 3 |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
 | ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 16 | 7 | 6 | 1 | 2 | 0 |
@@ -294,8 +294,7 @@ This is a repository for organizing articles related to person re-identification
 - etc
 
 > #### 6) *"Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bai_Re-Ranking_via_Metric_Fusion_for_Object_Retrieval_and_Person_Re-Identification_CVPR_2019_paper.pdf)]
-> #### 7) *"Dissecting Person Re-identification from the Viewpoint of Viewpoint"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Dissecting_Person_Re-Identification_From_the_Viewpoint_of_Viewpoint_CVPR_2019_paper.pdf)] [[github](https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint)]
-> #### 8) *"Part-regularized Near-Duplicate Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 7) *"Part-regularized Near-Duplicate Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
 
 ---
 
@@ -342,6 +341,7 @@ This is a repository for organizing articles related to person re-identification
 
 > #### 1) *"CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)]
 > #### 2) *"VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)]
+> #### 3) *"Dissecting Person Re-identification from the Viewpoint of Viewpoint"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Dissecting_Person_Re-Identification_From_the_Viewpoint_of_Viewpoint_CVPR_2019_paper.pdf)] [[github](https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint)]
 
 ---
 
