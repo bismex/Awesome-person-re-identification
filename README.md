@@ -26,11 +26,11 @@ This is a repository for organizing articles related to person re-identification
 
 - [1. Statistics](#1-statistics)
 - [2. Survey](#2-survey)
-- [3. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#4-unsupervised-person-re-id)
-- [4. Supervised Person Re-ID](#5-supervised-person-re-id)
-- [5. Person search](#6-person-search)
-- [6. Others](#7-others)
-- [7. Datasets](#8-datasets)
+- [3. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#3-unsupervised-person-re-id)
+- [4. Supervised Person Re-ID](#4-supervised-person-re-id)
+- [5. Person search](#5-person-search)
+- [6. Others](#6-others)
+- [7. Datasets](#7-datasets)
 
 ---
 
