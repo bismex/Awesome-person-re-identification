@@ -64,7 +64,7 @@ This is a repository for organizing articles related to person re-identification
 
 
 > #### 1) *"Weakly Supervised Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meng_Weakly_Supervised_Person_Re-Identification_CVPR_2019_paper.pdf)]
-> #### 2) *"Patch-Based Discriminative Feature Learning for Unsupervised Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 2) *"Patch-Based Discriminative Feature Learning for Unsupervised Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.pdf)] [[github]](https://github.com/QizeYang/PAUL)
 > #### 3) *"Unsupervised Person Re-identification by Soft Multilabel Learning"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.pdf)] [[github](https://github.com/KovenYu/MAR)]
 > #### 4) *"Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.pdf)] [[github](https://github.com/zhunzhong07/ECN)]
 
