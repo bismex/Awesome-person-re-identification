@@ -11,7 +11,7 @@ This is a repository for organizing articles related to person re-identification
 - Additions of a summary or performance
 
 **I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
-**Finally, the latest CVPR2019 papers are summarized in my personal blog below. Unfortunately, it is written in Korean.**
+**Finally, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, it is written in Korean.**
 
 ### :high_brightness: Updated 2019-07-04
 - The below paper has been re-categorized and updated (github).
