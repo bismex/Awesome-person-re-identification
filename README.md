@@ -4,6 +4,14 @@
 
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
+**People who meet the following criteria are free to request a pull (pull request).**
+- Suggestions for new categories
+- Changes to categories for some articles
+- Corrections to the statistical tables
+- Additions of a summary or performance
+**I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
+**Finally, the latest CVPR2019 papers are summarized in my personal blog below. Unfortunately, it is written in Korean.**
+
 ### :high_brightness: Updated 2019-07-04
 - The below paper has been re-categorized and updated (github).
   - "Joint Discriminative and Generative Learning for Person Re-identification"
