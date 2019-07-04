@@ -154,7 +154,7 @@ This is a repository for organizing articles related to person re-identification
 ### [CVPR2019]
 
 
-> #### 1) *"Joint Discriminative and Generative Learning for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 1) *"Joint Discriminative and Generative Learning for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)] [[github](https://github.com/NVlabs/DG-Net)]
 > #### 2) *"Densely Semantically Aligned Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Densely_Semantically_Aligned_Person_Re-Identification_CVPR_2019_paper.pdf)]
 > #### 3) *"Generalizable Person Re-identification by Domain-Invariant Mapping Network"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Generalizable_Person_Re-Identification_by_Domain-Invariant_Mapping_Network_CVPR_2019_paper.pdf)]
 > #### 4) *"Re-Identification with Consistent Attentive Siamese Networks"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Re-Identification_With_Consistent_Attentive_Siamese_Networks_CVPR_2019_paper.pdf)]
@@ -285,16 +285,17 @@ This is a repository for organizing articles related to person re-identification
 
 - Generative model
 
-> #### 1) *"Progressive Pose Attention Transfer for Person Image Generation"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Progressive_Pose_Attention_Transfer_for_Person_Image_Generation_CVPR_2019_paper.pdf)] [[github](https://github.com/tengteng95/Pose-Transfer)]
-> #### 2) *"Unsupervised Person Image Generation with Semantic Parsing Transformation"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.pdf)] [[github](https://github.com/SijieSong/person_generation_spt)]
-> #### 3) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
-> #### 4) *"Text Guided Person Image Synthesis"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Text_Guided_Person_Image_Synthesis_CVPR_2019_paper.pdf)]
-> #### 5) *"Re-Identification Supervised Texture Generation"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)]
+> #### 1) *"Joint Discriminative and Generative Learning for Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.pdf)] [[github](https://github.com/NVlabs/DG-Net)]
+> #### 2) *"Progressive Pose Attention Transfer for Person Image Generation"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Progressive_Pose_Attention_Transfer_for_Person_Image_Generation_CVPR_2019_paper.pdf)] [[github](https://github.com/tengteng95/Pose-Transfer)]
+> #### 3) *"Unsupervised Person Image Generation with Semantic Parsing Transformation"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.pdf)] [[github](https://github.com/SijieSong/person_generation_spt)]
+> #### 4) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 5) *"Text Guided Person Image Synthesis"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Text_Guided_Person_Image_Synthesis_CVPR_2019_paper.pdf)]
+> #### 6) *"Re-Identification Supervised Texture Generation"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)]
 
 - etc
 
-> #### 6) *"Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bai_Re-Ranking_via_Metric_Fusion_for_Object_Retrieval_and_Person_Re-Identification_CVPR_2019_paper.pdf)]
-> #### 7) *"Part-regularized Near-Duplicate Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 7) *"Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bai_Re-Ranking_via_Metric_Fusion_for_Object_Retrieval_and_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 8) *"Part-regularized Near-Duplicate Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
 
 ---
 
