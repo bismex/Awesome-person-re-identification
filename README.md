@@ -9,6 +9,7 @@ This is a repository for organizing articles related to person re-identification
 - Changes to categories for some articles
 - Corrections to the statistical tables
 - Additions of a summary or performance
+
 **I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
 **Finally, the latest CVPR2019 papers are summarized in my personal blog below. Unfortunately, it is written in Korean.**
 
