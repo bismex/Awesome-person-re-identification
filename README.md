@@ -406,7 +406,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ## Visible thermal person re-identification (cross-modality person re-identification)
 > #### 1) *"Beyond Intra-modality Discrepancy: A Comprehensive Survey of Heterogeneous Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.10048.pdf)]
-> #### 2) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 2) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"*, CVPR 2019 [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
 > #### 3) *"Cross-Modality Person Re-Identification with Generative Adversarial Training"*, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0094.pdf)]
 > #### 4) *"Visible Thermal Person Re-Identification via Dual-Constrained Top-Ranking"*, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0152.pdf)]
 > #### 5) *"Hierarchical Discriminative Learning for Visible Thermal Person Re-Identification"*, AAAI 2018 [[paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16734/16350)]
