@@ -403,6 +403,16 @@ These are papers that search for "gait" and "person re-identification" in google
 > #### 16) *"Person Re-identification in Frontal Gait Sequences via Histogram of Optic Flow Energy Image"*, ICACIVS 2016 [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-48680-2_23.pdf)]
 > #### 17) *"Learning Bidirectional Temporal Cues for Video-based Person Re-Identification"*, TCSVT 2016 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7954700)]
 
+
+## Visible thermal person re-identification (cross-modality person re-identification)
+> #### 1) *"Beyond Intra-modality Discrepancy: A Comprehensive Survey of Heterogeneous Person Re-identification"*, arXiv 2019 [[paper](https://arxiv.org/pdf/1905.10048.pdf)]
+> #### 2) *"Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf)]
+> #### 3) *"Cross-Modality Person Re-Identification with Generative Adversarial Training"*, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0094.pdf)]
+> #### 4) *"Visible Thermal Person Re-Identification via Dual-Constrained Top-Ranking"*, IJCAI 2018 [[paper](https://www.ijcai.org/proceedings/2018/0152.pdf)]
+> #### 5) *"Hierarchical Discriminative Learning for Visible Thermal Person Re-Identification"*, AAAI 2018 [[paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16734/16350)]
+> #### 6) *"RGB-Infrared Cross-Modality Person Re-Identification"*, ICCV 2017 [[paper](https://kovenyu.com/papers/2017_ICCV_rgb.pdf)]
+
+
 ---
 
 ## Reference 
