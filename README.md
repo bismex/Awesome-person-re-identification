@@ -13,6 +13,11 @@ This is a repository for organizing articles related to person re-identification
 **I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
 **Moreover, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
+### :high_brightness: Updated 2019-07-09
+- The paper has been included in the survey section.
+  - "A Survey of Open-World Person Re-identification"
+- My new github page has been released. [[Awesome-cross-modality-person-re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)]
+
 ### :high_brightness: Updated 2019-07-04
 - The below paper has been re-categorized and updated (github).
   - "Joint Discriminative and Generative Learning for Person Re-identification"
@@ -62,9 +67,11 @@ This is a repository for organizing articles related to person re-identification
 
 ## 2. Survey
 
-> #### 1) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
-> #### 2) *"A survey of approaches and trends in person re-identification"*, Image and Vision Computing 2014 [[paper](https://ac.els-cdn.com/S0262885614000262/1-s2.0-S0262885614000262-main.pdf?_tid=de6eee6c-08e6-486c-9d7a-18d2e0c30091&acdnat=1539565884_afc3e4f2e7068a620c9fbfde6129d35d)]
-> #### 3) *"Appearance Descriptors for Person Re-identification: a Comprehensive Review"*, arXiv 2013 [[paper](https://arxiv.org/abs/1307.5748)]
+
+> #### 1) *"A Survey of Open-World Person Re-identification"*, TCSVT 2019, [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8640834)]
+> #### 2) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
+> #### 3) *"A survey of approaches and trends in person re-identification"*, Image and Vision Computing 2014 [[paper](https://ac.els-cdn.com/S0262885614000262/1-s2.0-S0262885614000262-main.pdf?_tid=de6eee6c-08e6-486c-9d7a-18d2e0c30091&acdnat=1539565884_afc3e4f2e7068a620c9fbfde6129d35d)]
+> #### 4) *"Appearance Descriptors for Person Re-identification: a Comprehensive Review"*, arXiv 2013 [[paper](https://arxiv.org/abs/1307.5748)]
 
 ---
 
