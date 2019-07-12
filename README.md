@@ -409,7 +409,7 @@ These are papers that search for "gait" and "person re-identification" in google
 > #### 15) *"Towards view-point invariant Person Re-identification via fusion of Anthropometric and Gait Features from Kinect measurements"*, VISAPP 2017 [[paper](http://vislab.isr.ist.utl.pt/wp-content/uploads/2017/03/nambiar_VISAPP2017.pdf)]
 > #### 16) *"Person Re-identification in Frontal Gait Sequences via Histogram of Optic Flow Energy Image"*, ICACIVS 2016 [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-48680-2_23.pdf)]
 > #### 17) *"Learning Bidirectional Temporal Cues for Video-based Person Re-Identification"*, TCSVT 2016 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7954700)]
-
+> #### 18) *"Gait-based Person Re-identification, A Survey"*, ACM CSUR 2019 [[paper](http://users.isr.ist.utl.pt/~alex/papers/aha/Nambiar2019_manuscript.pdf)]
 
 ---
 
