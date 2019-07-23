@@ -14,7 +14,7 @@ This is a repository for organizing articles related to person re-identification
 **Moreover, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
 ### :high_brightness: Updated 2019-07-23
-- The paper has been moved to "unsupervised" section.
+- The paper has been moved to the "unsupervised" section.
   - "Adaptive Transfer Network for Cross-Domain Person Re-Identification", CVPR 2019
 
 ### :high_brightness: Updated 2019-07-09
