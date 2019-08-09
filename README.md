@@ -13,6 +13,9 @@ This is a repository for organizing articles related to person re-identification
 **I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
 **Moreover, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
+### :high_brightness: Updated 2019-08-09
+- Useful baseline codes have been linked to the "Code" section
+
 ### :high_brightness: Updated 2019-07-23
 - The paper has been moved to the "unsupervised" section.
   - "Adaptive Transfer Network for Cross-Domain Person Re-Identification", CVPR 2019
@@ -53,6 +56,7 @@ This is a repository for organizing articles related to person re-identification
 - [5. Person search](#5-person-search)
 - [6. Others](#6-others)
 - [7. Datasets](#7-datasets)
+- [8. Codes](#8-codes)
 
 ---
 
@@ -330,6 +334,8 @@ This is a repository for organizing articles related to person re-identification
 
 ## 7. Datasets
 
+- Reference [[github](https://github.com/NEU-Gou/awesome-reid-dataset)]
+
 ### [CVPR2019] 
 
 
@@ -338,7 +344,6 @@ This is a repository for organizing articles related to person re-identification
 > #### 3) *"Dissecting Person Re-identification from the Viewpoint of Viewpoint"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Dissecting_Person_Re-Identification_From_the_Viewpoint_of_Viewpoint_CVPR_2019_paper.pdf)] [[github](https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint)]
 
 ---
-
 ### [CVPR2018] 
 
 > #### 1) *"Person Transfer GAN to Bridge Domain Gap for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)]
@@ -346,13 +351,18 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-
 ### [CVPR2017] 
 
 > #### 1) *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
 
 ---
 
+## 8. Codes
+
+- Library for deep-learning person re-identification [[Torchreid(pytorch)]](https://github.com/KaiyangZhou/deep-person-reid)] [[Openreid(pytorch)]](https://github.com/Cysu/open-reid)]
+- Person reid baseline [[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501)] [[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline)] [[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline)] [[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch)] [[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN)]
+- Cross modal reid baseline [[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline)]
+- Vehicle reid baseline [[Jakel21(pytorch)](https://github.com/Jakel21/vehicle-ReID-baseline)] [[lxc86739795(pytorch)](https://github.com/lxc86739795/vehiclereid_baseline)]
 
 
 ### :high_brightness: [[Market-1501 Leaderboard](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
