@@ -334,7 +334,10 @@ This is a repository for organizing articles related to person re-identification
 
 ## 7. Datasets
 
-- Reference [[github](https://github.com/NEU-Gou/awesome-reid-dataset)]
+- Awesome re-id dataset [[github](https://github.com/NEU-Gou/awesome-reid-dataset)]
+- Market-1501 Leaderboard [[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
+- Re-id dataset collection [[page](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
+
 
 ### [CVPR2019] 
 
@@ -364,10 +367,6 @@ This is a repository for organizing articles related to person re-identification
 - Cross modal reid baseline [[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline)]
 - Vehicle reid baseline [[Jakel21(pytorch)](https://github.com/Jakel21/vehicle-ReID-baseline)] [[lxc86739795(pytorch)](https://github.com/lxc86739795/vehiclereid_baseline)]
 
-
-### :high_brightness: [[Market-1501 Leaderboard](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
-
-### :high_brightness: [[Collection](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)]
 
 ---
 
