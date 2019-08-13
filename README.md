@@ -13,6 +13,11 @@ This is a repository for organizing articles related to person re-identification
 **I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
 **Moreover, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
+
+### :high_brightness: Updated 2019-08-13
+- The accepted ICCV 2019 papers on arXiv will continue to be updated.
+  - The papers have not been categorized yet.
+
 ### :high_brightness: Updated 2019-08-09
 - Useful baseline codes have been linked to the "[Code](#8-codes)" section
 
@@ -49,6 +54,7 @@ This is a repository for organizing articles related to person re-identification
 
 ## Table of Contents
 
+- [0. ICCV2019](#0-ICCV2019)
 - [1. Statistics](#1-statistics)
 - [2. Survey](#2-survey)
 - [3. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#3-unsupervised-person-re-id)
@@ -60,11 +66,20 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
+## 0. ICCV2019
+
+> #### 1) *"ABD-Net: Attentive but Diverse Person Re-Identification"* [[paper](https://arxiv.org/pdf/1908.01114.pdf)]
+> #### 2) *"Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification"* [[paper](https://arxiv.org/pdf/1811.10144.pdf)]
+
+
+---
+
 ## 1. Statistics
 
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
+| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | - | - | - | - | - | - |
 | CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 5 | 11 | 2 | 8 | 3 |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
