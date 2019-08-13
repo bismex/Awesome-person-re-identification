@@ -15,7 +15,7 @@ This is a repository for organizing articles related to person re-identification
 
 
 ### :high_brightness: Updated 2019-08-13
-- The accepted ICCV 2019 papers on arXiv will continue to be updated.
+- The [accepted ICCV2019 papers](#0-ICCV2019) on arXiv will continue to be updated.
   - The papers have not been categorized yet.
 
 ### :high_brightness: Updated 2019-08-09
