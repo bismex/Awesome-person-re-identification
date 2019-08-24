@@ -14,7 +14,7 @@ This is a repository for organizing articles related to person re-identification
 **Moreover, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
 
-### :high_brightness: Updated 2019-08-13
+### :high_brightness: Updated 2019-08-24
 - The [accepted ICCV2019 papers](#0-ICCV2019) on arXiv will continue to be updated.
   - The papers have not been categorized yet.
 
@@ -70,7 +70,8 @@ This is a repository for organizing articles related to person re-identification
 
 > #### 1) *"ABD-Net: Attentive but Diverse Person Re-Identification"* [[paper](https://arxiv.org/pdf/1908.01114.pdf)]
 > #### 2) *"Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification"* [[paper](https://arxiv.org/pdf/1811.10144.pdf)]
-
+> #### 3) *"A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification"* [[paper](https://arxiv.org/pdf/1904.03425.pdf)]
+> #### 4) *"One Shot Domain Adaptation for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1811.10144.pdf)]
 
 ---
 
