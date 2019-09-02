@@ -14,8 +14,9 @@ This is a repository for organizing articles related to person re-identification
 **Moreover, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
 
-### :high_brightness: Updated 2019-08-24
+### :high_brightness: Updated 2019-09-02
 - The [accepted ICCV2019 papers](#0-ICCV2019) on arXiv will continue to be updated.
+  - I searched 11 papers to date.
   - The papers have not been categorized yet.
 
 ### :high_brightness: Updated 2019-08-09
@@ -72,6 +73,13 @@ This is a repository for organizing articles related to person re-identification
 > #### 2) *"Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification"* [[paper](https://arxiv.org/pdf/1811.10144.pdf)]
 > #### 3) *"A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification"* [[paper](https://arxiv.org/pdf/1904.03425.pdf)]
 > #### 4) *"One Shot Domain Adaptation for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1811.10144.pdf)]
+> #### 5) *"advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns"* [[paper](https://arxiv.org/pdf/1908.09327.pdf)]
+> #### 6) *"Recover and Identify: A Generative Dual Model for Cross-Resolution Person Re-Identification"* [[paper](https://arxiv.org/pdf/1908.06052.pdf)]
+> #### 7) *"Mixed High-Order Attention Network for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1908.05819.pdf)]
+> #### 8) *"Temporal Knowledge Propagation for Image-to-Video Person Re-identification"* [[paper](https://arxiv.org/pdf/1908.03885.pdf)]
+> #### 9) *"A Dual-Path Model With Adaptive Attention For Vehicle Re-Identification"* [[paper](https://arxiv.org/pdf/1905.03397.pdf)]
+> #### 10) *"Omni-Scale Feature Learning for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1905.00953.pdf)]
+> #### 11) *"Auto-ReID: Searching for a Part-Aware ConvNet for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1903.09776.pdf)]
 
 ---
 
