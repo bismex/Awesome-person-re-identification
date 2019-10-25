@@ -13,6 +13,10 @@ This is a repository for organizing articles related to person re-identification
 **I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
 **Moreover, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
+### :high_brightness: Updated 2019-10-25
+- The online address of all [ICCV2019 papers](#0-ICCV2019) has been updated.
+- The ICCV2019 papers will be categorized soon.
+
 ### :high_brightness::high_brightness::high_brightness: Notice.
 - I am very busy with the process of writing my CVPR paper right now. 
 - The ICCV's accepted paper list will be organized after the CVPR submission.
@@ -72,17 +76,53 @@ This is a repository for organizing articles related to person re-identification
 
 ## 0. ICCV2019
 
-> #### 1) *"ABD-Net: Attentive but Diverse Person Re-Identification"* [[paper](https://arxiv.org/pdf/1908.01114.pdf)]
-> #### 2) *"Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification"* [[paper](https://arxiv.org/pdf/1811.10144.pdf)]
-> #### 3) *"A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification"* [[paper](https://arxiv.org/pdf/1904.03425.pdf)]
-> #### 4) *"One Shot Domain Adaptation for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1811.10144.pdf)]
-> #### 5) *"advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns"* [[paper](https://arxiv.org/pdf/1908.09327.pdf)]
-> #### 6) *"Recover and Identify: A Generative Dual Model for Cross-Resolution Person Re-Identification"* [[paper](https://arxiv.org/pdf/1908.06052.pdf)]
-> #### 7) *"Mixed High-Order Attention Network for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1908.05819.pdf)]
-> #### 8) *"Temporal Knowledge Propagation for Image-to-Video Person Re-identification"* [[paper](https://arxiv.org/pdf/1908.03885.pdf)]
-> #### 9) *"A Dual-Path Model With Adaptive Attention For Vehicle Re-Identification"* [[paper](https://arxiv.org/pdf/1905.03397.pdf)]
-> #### 10) *"Omni-Scale Feature Learning for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1905.00953.pdf)]
-> #### 11) *"Auto-ReID: Searching for a Part-Aware ConvNet for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1903.09776.pdf)]
+- Person re-identification
+
+> #### 1) *"Instance-Guided Context Rendering for Cross-Domain Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Instance-Guided_Context_Rendering_for_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 2) *"Mixed High-Order Attention Network for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Mixed_High-Order_Attention_Network_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 3) *"Pose-Guided Feature Alignment for Occluded Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Miao_Pose-Guided_Feature_Alignment_for_Occluded_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 4) *"Robust Person Re-Identification by Modelling Feature Uncertainty"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Robust_Person_Re-Identification_by_Modelling_Feature_Uncertainty_ICCV_2019_paper.pdf)]
+> #### 5) *"Co-Segmentation Inspired Attention Networks for Video-Based Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Subramaniam_Co-Segmentation_Inspired_Attention_Networks_for_Video-Based_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 6) *"RGB-Infrared Cross-Modality Person Re-Identification via Joint Pixel and Feature Alignment"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_RGB-Infrared_Cross-Modality_Person_Re-Identification_via_Joint_Pixel_and_Feature_Alignment_ICCV_2019_paper.pdf)]
+> #### 7) *"Beyond Human Parts: Dual Part-Aligned Representations for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Guo_Beyond_Human_Parts_Dual_Part-Aligned_Representations_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 8) *"Batch DropBlock Network for Person Re-Identification and Beyond"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dai_Batch_DropBlock_Network_for_Person_Re-Identification_and_Beyond_ICCV_2019_paper.pdf)]
+> #### 9) *"Omni-Scale Feature Learning for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Omni-Scale_Feature_Learning_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 10) *"Auto-ReID: Searching for a Part-Aware ConvNet for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Quan_Auto-ReID_Searching_for_a_Part-Aware_ConvNet_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 11) *"Second-Order Non-Local Attention Networks for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xia_Second-Order_Non-Local_Attention_Networks_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 12) *"Global-Local Temporal Representations for Video Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Global-Local_Temporal_Representations_for_Video_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 13) *"Spectral Feature Transformation for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_Spectral_Feature_Transformation_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 14) *"Self-Similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Fu_Self-Similarity_Grouping_A_Simple_Unsupervised_Cross_Domain_Adaptation_Approach_for_ICCV_2019_paper.pdf)]
+> #### 15) *"Deep Reinforcement Active Learning for Human-in-the-Loop Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Deep_Reinforcement_Active_Learning_for_Human-in-the-Loop_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 16) *"View Confusion Feature Learning for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_View_Confusion_Feature_Learning_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 17) *"MVP Matching: A Maximum-Value Perfect Matching for Mining Hard Samples, With Application to Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_MVP_Matching_A_Maximum-Value_Perfect_Matching_for_Mining_Hard_Samples_ICCV_2019_paper.pdf)]
+> #### 18) *"Unsupervised Person Re-Identification by Camera-Aware Similarity Consistency Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Unsupervised_Person_Re-Identification_by_Camera-Aware_Similarity_Consistency_Learning_ICCV_2019_paper.pdf)]
+> #### 19) *"Cross-Dataset Person Re-Identification via Unsupervised Pose Disentanglement and Adaptation"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Cross-Dataset_Person_Re-Identification_via_Unsupervised_Pose_Disentanglement_and_Adaptation_ICCV_2019_paper.pdf)]
+> #### 20) *"Discriminative Feature Learning With Consistent Attention Regularization for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Discriminative_Feature_Learning_With_Consistent_Attention_Regularization_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 21) *"A Novel Unsupervised Camera-Aware Domain Adaptation Framework for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_A_Novel_Unsupervised_Camera-Aware_Domain_Adaptation_Framework_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 22) *"Recover and Identify: A Generative Dual Model for Cross-Resolution Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Recover_and_Identify_A_Generative_Dual_Model_for_Cross-Resolution_Person_ICCV_2019_paper.pdf)]
+> #### 23) *"Self-Training With Progressive Augmentation for Unsupervised Cross-Domain Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 24) *"Unsupervised Graph Association for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Unsupervised_Graph_Association_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 25) *"advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_advPattern_Physical-World_Attacks_on_Deep_Person_Re-Identification_via_Adversarially_Transformable_ICCV_2019_paper.pdf)]
+> #### 26) *"ABD-Net: Attentive but Diverse Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_ABD-Net_Attentive_but_Diverse_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 27) *"Foreground-Aware Pyramid Reconstruction for Alignment-Free Occluded Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Foreground-Aware_Pyramid_Reconstruction_for_Alignment-Free_Occluded_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 28) *"SBSGAN: Suppression of Inter-Domain Background Shift for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_SBSGAN_Suppression_of_Inter-Domain_Background_Shift_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 29) *"Self-Critical Attention Learning for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Self-Critical_Attention_Learning_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 30) *"Temporal Knowledge Propagation for Image-to-Video Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Temporal_Knowledge_Propagation_for_Image-to-Video_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 31) *"Deep Constrained Dominant Sets for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Alemu_Deep_Constrained_Dominant_Sets_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 32) *"Bilinear Attention Networks for Person Retrieval"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Fang_Bilinear_Attention_Networks_for_Person_Retrieval_ICCV_2019_paper.pdf)]
+
+- Vehicle re-identification
+
+> #### 33) *"PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)]
+> #### 34) *"Vehicle Re-Identification in Aerial Imagery: Dataset and Approach"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)]
+> #### 35) *"A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 36) *"Vehicle Re-Identification With Viewpoint-Aware Metric Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)]
+
+- Person search
+
+> #### 37) *"Person Search by Text Attribute Query As Zero-Shot Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Person_Search_by_Text_Attribute_Query_As_Zero-Shot_Learning_ICCV_2019_paper.pdf)]
+> #### 38) *"Re-ID Driven Localization Refinement for Person Search"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Re-ID_Driven_Localization_Refinement_for_Person_Search_ICCV_2019_paper.pdf)]
+
 
 ---
 
@@ -91,7 +131,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
-| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | - | - | - | - | - | - |
+| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 38 | - | - | 2 | - | - |
 | CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 5 | 11 | 2 | 8 | 3 |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
