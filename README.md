@@ -17,47 +17,6 @@ This is a repository for organizing articles related to person re-identification
 - The online address of all [ICCV2019 papers](#0-ICCV2019) has been updated.
 - The ICCV2019 papers will be categorized soon.
 
-### :high_brightness::high_brightness::high_brightness: Notice.
-- I am very busy with the process of writing my CVPR paper right now. 
-- The ICCV's accepted paper list will be organized after the CVPR submission.
-
-### :high_brightness: Updated 2019-09-02
-- The [accepted ICCV2019 papers](#0-ICCV2019) on arXiv will continue to be updated.
-  - I searched 11 papers to date.
-  - The papers have not been categorized yet.
-
-### :high_brightness: Updated 2019-08-09
-- Useful baseline codes have been linked to the "[Code](#8-codes)" section
-
-### :high_brightness: Updated 2019-07-23
-- The paper has been moved to the "unsupervised" section.
-  - "Adaptive Transfer Network for Cross-Domain Person Re-Identification", CVPR 2019
-
-### :high_brightness: Updated 2019-07-09
-- The paper has been included in the survey section.
-  - "A Survey of Open-World Person Re-identification"
-- My new github page has been released. [[Awesome-cross-modality-person-re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)]
-
-### :high_brightness: Updated 2019-07-04
-- The below paper has been re-categorized and updated (github).
-  - "Joint Discriminative and Generative Learning for Person Re-identification"
-
-### :high_brightness: Updated 2019-06-15
-- The CVPR papers have been categorized.
-
-### :high_brightness: Updated 2019-06-14
-- Two papers have been included.
-  - "Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification"
-  - "Perceive Where to Focus: Learning Visibility-aware Part-level Features for Partial Person Re-identification"
-
-### :high_brightness: Updated 2019-06-12
-- The online address of all CVPR2019 papers has been updated.
-- The CVPR2019 papers will be categorized soon.
-
-### :high_brightness: Updated 2019-06-03
-- The github page for "Query-guided End-to-End Person Search" has been updated.
-- The github page for "Dissecting Person Re-identification from the Viewpoint of Viewpoint" has been updated.
-
 ---
 
 ## Table of Contents (ongoing)
@@ -467,5 +426,51 @@ These are papers that search for "gait" and "person re-identification" in google
 ## Reference 
 
 https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-re-id.md
+
+
+---
+
+## Previous change history
+
+### :high_brightness::high_brightness::high_brightness: Notice.
+- I am very busy with the process of writing my CVPR paper right now. 
+- The ICCV's accepted paper list will be organized after the CVPR submission.
+
+### :high_brightness: Updated 2019-09-02
+- The [accepted ICCV2019 papers](#0-ICCV2019) on arXiv will continue to be updated.
+  - I searched 11 papers to date.
+  - The papers have not been categorized yet.
+
+### :high_brightness: Updated 2019-08-09
+- Useful baseline codes have been linked to the "[Code](#8-codes)" section
+
+### :high_brightness: Updated 2019-07-23
+- The paper has been moved to the "unsupervised" section.
+  - "Adaptive Transfer Network for Cross-Domain Person Re-Identification", CVPR 2019
+
+### :high_brightness: Updated 2019-07-09
+- The paper has been included in the survey section.
+  - "A Survey of Open-World Person Re-identification"
+- My new github page has been released. [[Awesome-cross-modality-person-re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)]
+
+### :high_brightness: Updated 2019-07-04
+- The below paper has been re-categorized and updated (github).
+  - "Joint Discriminative and Generative Learning for Person Re-identification"
+
+### :high_brightness: Updated 2019-06-15
+- The CVPR papers have been categorized.
+
+### :high_brightness: Updated 2019-06-14
+- Two papers have been included.
+  - "Attribute-Driven Feature Disentangling and Temporal Aggregation for Video Person Re-Identification"
+  - "Perceive Where to Focus: Learning Visibility-aware Part-level Features for Partial Person Re-identification"
+
+### :high_brightness: Updated 2019-06-12
+- The online address of all CVPR2019 papers has been updated.
+- The CVPR2019 papers will be categorized soon.
+
+### :high_brightness: Updated 2019-06-03
+- The github page for "Query-guided End-to-End Person Search" has been updated.
+- The github page for "Dissecting Person Re-identification from the Viewpoint of Viewpoint" has been updated.
 
 
