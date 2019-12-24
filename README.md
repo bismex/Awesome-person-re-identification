@@ -14,7 +14,7 @@ This is a repository for organizing articles related to person re-identification
 **Moreover, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
 ### :high_brightness: [Notice]
-The github page will be revised largely by the end of November to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
+The github page will be revised largely at the beginning of 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
 
 ### :high_brightness: Updated 2019-10-25
 - The online address of all [ICCV2019 papers](#0-ICCV2019) has been updated.
