@@ -11,14 +11,15 @@ This is a repository for organizing articles related to person re-identification
 - Additions of a summary or performance
 
 **I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
-**Moreover, the latest CVPR2019 papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
+**Moreover, the latest papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
 ### :high_brightness: [Notice]
 The github page will be revised largely at the beginning of 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
 
-### :high_brightness: Updated 2019-10-25
-- The online address of all [ICCV2019 papers](#0-ICCV2019) has been updated.
-- The ICCV2019 papers will be categorized soon.
+### :high_brightness: Updated 2019-01-17
+- [One survey paper](#2-survey) has been updated.
+- I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh.
+- [My personal page](https://sites.google.com/site/seokeonchoi/)
 
 ---
 
@@ -104,11 +105,11 @@ The github page will be revised largely at the beginning of 2020 to provide more
 
 ## 2. Survey
 
-
-> #### 1) *"A Survey of Open-World Person Re-identification"*, TCSVT 2019, [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8640834)]
-> #### 2) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
-> #### 3) *"A survey of approaches and trends in person re-identification"*, Image and Vision Computing 2014 [[paper](https://ac.els-cdn.com/S0262885614000262/1-s2.0-S0262885614000262-main.pdf?_tid=de6eee6c-08e6-486c-9d7a-18d2e0c30091&acdnat=1539565884_afc3e4f2e7068a620c9fbfde6129d35d)]
-> #### 4) *"Appearance Descriptors for Person Re-identification: a Comprehensive Review"*, arXiv 2013 [[paper](https://arxiv.org/abs/1307.5748)]
+> #### 1) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 [[paper](https://arxiv.org/abs/2001.04193)] [[github](https://github.com/mangye16/ReID-Survey)]
+> #### 2) *"A Survey of Open-World Person Re-identification"*, TCSVT 2019, [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8640834)]
+> #### 3) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
+> #### 4) *"A survey of approaches and trends in person re-identification"*, Image and Vision Computing 2014 [[paper](https://ac.els-cdn.com/S0262885614000262/1-s2.0-S0262885614000262-main.pdf?_tid=de6eee6c-08e6-486c-9d7a-18d2e0c30091&acdnat=1539565884_afc3e4f2e7068a620c9fbfde6129d35d)]
+> #### 5) *"Appearance Descriptors for Person Re-identification: a Comprehensive Review"*, arXiv 2013 [[paper](https://arxiv.org/abs/1307.5748)]
 
 ---
 
@@ -438,6 +439,10 @@ https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_lea
 ### :high_brightness::high_brightness::high_brightness: Notice.
 - I am very busy with the process of writing my CVPR paper right now. 
 - The ICCV's accepted paper list will be organized after the CVPR submission.
+
+### :high_brightness: Updated 2019-10-25
+- The online address of all [ICCV2019 papers](#0-ICCV2019) has been updated.
+- The ICCV2019 papers will be categorized soon.
 
 ### :high_brightness: Updated 2019-09-02
 - The [accepted ICCV2019 papers](#0-ICCV2019) on arXiv will continue to be updated.
