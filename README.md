@@ -13,7 +13,7 @@ This is a repository for organizing articles related to person re-identification
 **I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
 **Moreover, the latest papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
-**I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh or another city in the United States.**
+***I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh or another city in the United States.***
 - **[My personal page with CV](https://sites.google.com/site/seokeonchoi/)**
 
 ### :high_brightness: [Notice]
