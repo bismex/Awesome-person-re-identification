@@ -17,9 +17,10 @@ This is a repository for organizing articles related to person re-identification
 The github page will be revised largely at the beginning of 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
 
 ### :high_brightness: Updated 2019-01-17
-- [One survey paper](#2-survey) has been updated.
-- I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh.
-- [My personal page](https://sites.google.com/site/seokeonchoi/)
+- [One survey paper](#2-survey) and its github page has been updated.
+  - "Deep Learning for Person Re-identification: A Survey and Outlook"
+- I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh or another city in the United States.
+  - [My personal page](https://sites.google.com/site/seokeonchoi/)
 
 ---
 
