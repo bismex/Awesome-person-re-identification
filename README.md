@@ -14,7 +14,11 @@ This is a repository for organizing articles related to person re-identification
 **Moreover, the latest papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
 ***I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh or another city in the United States.***
-- **[My personal page with CV](https://sites.google.com/site/seokeonchoi/)**
+
+***My person re-identification paper accepted to CVPR2020! See you in Seattle!*** 
+- Feel free to visit my homepage **[My personal page with CV](https://sites.google.com/site/seokeonchoi/)**
+- Check the preprint at **[Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification](https://arxiv.org/abs/1912.01230)**
+
 
 ### :high_brightness: [Notice]
 The github page will be revised largely at the beginning of 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
