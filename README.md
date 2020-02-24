@@ -20,7 +20,7 @@ This is a repository for organizing articles related to person re-identification
 - Check the preprint at **[arxiv](https://arxiv.org/abs/1912.01230)**
 
 ***I plan to receive a doctoral degree in Dec. 2020 or Jun. 2021. I'm currently looking for a full-time job, residency program, or post-doc.***
-- Feel free to visit my **[linkedin](www.linkedin.com/in/seokeon)**
+- Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
 
 ### :high_brightness: [Notice]
 The github page will be revised largely at the beginning of 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
