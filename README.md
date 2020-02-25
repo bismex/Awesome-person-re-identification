@@ -82,18 +82,20 @@ The github page will be revised largely at the beginning of 2020 to provide more
 > #### 30) *"Temporal Knowledge Propagation for Image-to-Video Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Temporal_Knowledge_Propagation_for_Image-to-Video_Person_Re-Identification_ICCV_2019_paper.pdf)]
 > #### 31) *"Deep Constrained Dominant Sets for Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Alemu_Deep_Constrained_Dominant_Sets_for_Person_Re-Identification_ICCV_2019_paper.pdf)]
 > #### 32) *"Bilinear Attention Networks for Person Retrieval"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Fang_Bilinear_Attention_Networks_for_Person_Retrieval_ICCV_2019_paper.pdf)]
+> #### 33) *"Deep Meta Metric Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Deep_Meta_Metric_Learning_ICCV_2019_paper.pdf)]
+
 
 - Vehicle re-identification
 
-> #### 33) *"PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)]
-> #### 34) *"Vehicle Re-Identification in Aerial Imagery: Dataset and Approach"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)]
-> #### 35) *"A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)]
-> #### 36) *"Vehicle Re-Identification With Viewpoint-Aware Metric Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)]
+> #### 34) *"PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)]
+> #### 35) *"Vehicle Re-Identification in Aerial Imagery: Dataset and Approach"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)]
+> #### 36) *"A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)]
+> #### 37) *"Vehicle Re-Identification With Viewpoint-Aware Metric Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)]
 
 - Person search
 
-> #### 37) *"Person Search by Text Attribute Query As Zero-Shot Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Person_Search_by_Text_Attribute_Query_As_Zero-Shot_Learning_ICCV_2019_paper.pdf)]
-> #### 38) *"Re-ID Driven Localization Refinement for Person Search"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Re-ID_Driven_Localization_Refinement_for_Person_Search_ICCV_2019_paper.pdf)]
+> #### 38) *"Person Search by Text Attribute Query As Zero-Shot Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Person_Search_by_Text_Attribute_Query_As_Zero-Shot_Learning_ICCV_2019_paper.pdf)]
+> #### 39) *"Re-ID Driven Localization Refinement for Person Search"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Re-ID_Driven_Localization_Refinement_for_Person_Search_ICCV_2019_paper.pdf)]
 
 
 ---
@@ -103,7 +105,7 @@ The github page will be revised largely at the beginning of 2020 to provide more
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
-| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 38 | - | - | 2 | - | - |
+| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | - | - | 2 | - | - |
 | CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 5 | 11 | 2 | 8 | 3 |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
