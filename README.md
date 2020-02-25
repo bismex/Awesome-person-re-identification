@@ -23,11 +23,11 @@ This is a repository for organizing articles related to person re-identification
 - Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
 
 ### :high_brightness: [Notice]
-The github page will be revised largely at the beginning of 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
+The github page will be revised largely at 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
 
-### :high_brightness: Updated 2019-01-17
-- [One survey paper](#2-survey) and its github page has been updated.
-  - "Deep Learning for Person Re-identification: A Survey and Outlook"
+### :high_brightness: Updated 2020-02-25
+- One paper has been included in the ICCV2019 section.
+  - "Deep Meta Metric Learning"
 
 
 ---
@@ -447,9 +447,9 @@ https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_lea
 
 ## Previous change history
 
-### :high_brightness::high_brightness::high_brightness: Notice.
-- I am very busy with the process of writing my CVPR paper right now. 
-- The ICCV's accepted paper list will be organized after the CVPR submission.
+### :high_brightness: Updated 2019-01-17
+- [One survey paper](#2-survey) and its github page has been updated.
+  - "Deep Learning for Person Re-identification: A Survey and Outlook"
 
 ### :high_brightness: Updated 2019-10-25
 - The online address of all [ICCV2019 papers](#0-ICCV2019) has been updated.
@@ -491,5 +491,4 @@ https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_lea
 ### :high_brightness: Updated 2019-06-03
 - The github page for "Query-guided End-to-End Person Search" has been updated.
 - The github page for "Dissecting Person Re-identification from the Viewpoint of Viewpoint" has been updated.
-
 
