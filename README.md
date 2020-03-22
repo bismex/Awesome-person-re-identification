@@ -4,6 +4,8 @@
 
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
+**Other awesome re-identification**
+
 - [Awesome Cross-modality Person Re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
 - [Awesome Vehicle Re-identification](https://github.com/bismex/Awesome-vehicle-re-identification)
 
