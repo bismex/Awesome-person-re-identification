@@ -13,9 +13,6 @@ This is a repository for organizing articles related to person re-identification
 - Corrections to the statistical tables
 - Additions of a summary or performance
 
-**I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
-**Moreover, the latest papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
-
 ***I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh or another city in the United States.***
 
 ***My person re-identification paper accepted to CVPR2020! See you in Seattle!*** 
@@ -494,4 +491,8 @@ https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_lea
 ### :high_brightness: Updated 2019-06-03
 - The github page for "Query-guided End-to-End Person Search" has been updated.
 - The github page for "Dissecting Person Re-identification from the Viewpoint of Viewpoint" has been updated.
+
+
+**I will immediately reflect the matter if it should be corrected. I hope this github page helps many people with research purposes.**
+**Moreover, the latest papers are summarized in [my personal blog](https://bismex.github.io/). Unfortunately, they are written in Korean.**
 
