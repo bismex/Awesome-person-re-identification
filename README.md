@@ -53,7 +53,34 @@ The papers in this section will be categorized soon.
 
 
 - Person re-identification
-> #### 1) *""* [[paper]()]
+> #### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/pdf/1912.01230.pdf)] [[github](https://github.com/bismex/HiCMD)] [[homepage](https://sites.google.com/site/seokeonchoi/)] [[video](https://www.youtube.com/watch?v=da_4DxF0rGk&feature=youtu.be)]
+> #### 2) *""* [[paper]()] 
+> #### 3) *""* [[paper]()] 
+> #### 4) *""* [[paper]()] 
+> #### 5) *""* [[paper]()] 
+> #### 6) *""* [[paper]()] 
+> #### 7) *""* [[paper]()] 
+> #### 8) *""* [[paper]()] 
+> #### 9) *""* [[paper]()] 
+> #### 10) *""* [[paper]()] 
+> #### 11) *""* [[paper]()] 
+> #### 12) *""* [[paper]()] 
+> #### 13) *""* [[paper]()] 
+> #### 14) *""* [[paper]()] 
+> #### 15) *""* [[paper]()] 
+> #### 16) *""* [[paper]()] 
+> #### 17) *""* [[paper]()] 
+> #### 18) *""* [[paper]()] 
+> #### 19) *""* [[paper]()] 
+> #### 20) *""* [[paper]()] 
+> #### 21) *""* [[paper]()] 
+> #### 22) *""* [[paper]()] 
+> #### 23) *""* [[paper]()] 
+> #### 24) *""* [[paper]()] 
+> #### 25) *""* [[paper]()] 
+> #### 26) *""* [[paper]()] 
+> #### 27) *""* [[paper]()] 
+> #### 28) *""* [[paper]()] 
 
 - Vehicle re-identification
 
