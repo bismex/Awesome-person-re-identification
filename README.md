@@ -3,50 +3,50 @@
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
 **Other awesome re-identification**
-
 - [Awesome Cross-modality Person Re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
 - [Awesome Vehicle Re-identification](https://github.com/bismex/Awesome-vehicle-re-identification)
 
-**People who meet the following criteria are free to request a pull (pull request).**
-- Suggestions for new categories
-- Changes to categories for some articles
-- Corrections to the statistical tables
-- Additions of a summary or performance
 
-***I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh or another city in the United States.***
-
-***My person re-identification paper accepted to CVPR2020! See you in Seattle!*** 
-- Feel free to visit my **[homepage](https://sites.google.com/site/seokeonchoi/)**
-- Check the preprint at **[arxiv](https://arxiv.org/abs/1912.01230)**
-
-***I plan to receive a doctoral degree in Dec. 2020 or Jun. 2021. I'm currently looking for a full-time job, residency program, or post-doc.***
-- Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
-
-### :high_brightness: [Notice]
-The github page will be revised largely at 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
-
-### :high_brightness: Updated 2020-02-25
-- One paper has been included in the ICCV2019 section.
-  - "Deep Meta Metric Learning"
-
+### :high_brightness: Updated 2020-05-20
+- The online address of all [CVPR2020 papers](#1-CVPR2020) has been updated.
+- The CVPR2020 and ICCV2019 papers will be categorized soon.
 
 ---
 
 ## Table of Contents (ongoing)
 
-- [0. ICCV2019](#0-ICCV2019)
-- [1. Statistics](#1-statistics)
-- [2. Survey](#2-survey)
-- [3. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#3-unsupervised-person-re-id)
-- [4. Supervised Person Re-ID](#4-supervised-person-re-id)
-- [5. Person search](#5-person-search)
-- [6. Others](#6-others)
-- [7. Datasets](#7-datasets)
-- [8. Codes](#8-codes)
+- [1. CVPR2020](#1-CVPR2020)
+- [2. ICCV2019](#2-ICCV2019)
+- [3. Statistics](#3-statistics)
+- [4. Survey](#4-survey)
+- [5. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#5-unsupervised-person-re-id)
+- [6. Supervised Person Re-ID](#6-supervised-person-re-id)
+- [7. Person search](#7-person-search)
+- [8. Others](#8-others)
+- [9. Datasets](#9-datasets)
+- [10. Codes](#10-codes)
 
 ---
 
-## 0. ICCV2019
+## 1. CVPR2020
+
+The papers in this section will be categorized soon. 
+
+
+- Person re-identification
+> #### 1) *""* [[paper]()]
+
+- Vehicle re-identification
+
+
+- Person search
+
+---
+
+
+## 2. ICCV2019
+
+The papers in this section will be categorized soon. 
 
 - Person re-identification
 
@@ -100,12 +100,11 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ---
 
-## 1. Statistics
+## 3. Statistics
 
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
-| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | - | - | 2 | - | - |
 | CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 5 | 11 | 2 | 8 | 3 |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
 | CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
@@ -114,7 +113,7 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ---
 
-## 2. Survey
+## 4. Survey
 
 > #### 1) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 [[paper](https://arxiv.org/abs/2001.04193)] [[github](https://github.com/mangye16/ReID-Survey)]
 > #### 2) *"A Survey of Open-World Person Re-identification"*, TCSVT 2019, [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8640834)]
@@ -125,7 +124,7 @@ The github page will be revised largely at 2020 to provide more convenient infor
 ---
 
 
-## 3. Unsupervised Person Re-ID 
+## 5. Unsupervised Person Re-ID 
 ### (+ Transfer learning / Semi-supervised learning / Weakly-supervised learning)
 
 
@@ -193,7 +192,7 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ---
 
-## 4. Supervised Person Re-ID
+## 6. Supervised Person Re-ID
 
 ### [CVPR2019]
 
@@ -284,7 +283,7 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ---
 
-## 5. Person Search
+## 7. Person Search
 
 ### [CVPR2019]
 
@@ -317,7 +316,7 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ---
 
-## 6. Others
+## 8. Others
 
 ### [CVPR2019]
 
@@ -373,7 +372,7 @@ The github page will be revised largely at 2020 to provide more convenient infor
 ---
 
 
-## 7. Datasets
+## 9. Datasets
 
 - Awesome re-id dataset [[github](https://github.com/NEU-Gou/awesome-reid-dataset)]
 - Market-1501 Leaderboard [[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
@@ -401,7 +400,7 @@ The github page will be revised largely at 2020 to provide more convenient infor
 
 ---
 
-## 8. Codes
+## 10. Codes
 
 - Library for deep-learning person re-identification [[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid)] [[Openreid(pytorch)](https://github.com/Cysu/open-reid)]
 - Person reid baseline [[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501)] [[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline)] [[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline)] [[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch)] [[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN)] [[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN)] [[DGNet(pytorch)](https://github.com/NVlabs/DG-Net)]
@@ -445,7 +444,34 @@ https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_lea
 
 ---
 
+## Personal information
+
+**People who meet the following criteria are free to request a pull (pull request).**
+- Suggestions for new categories
+- Changes to categories for some articles
+- Corrections to the statistical tables
+- Additions of a summary or performance
+
+***I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh or another city in the United States.***
+
+***My person re-identification paper accepted to CVPR2020! See you in Seattle!*** 
+- Feel free to visit my **[homepage](https://sites.google.com/site/seokeonchoi/)**
+- Check the preprint at **[arxiv](https://arxiv.org/abs/1912.01230)**
+
+***I plan to receive a doctoral degree in Dec. 2020 or Jun. 2021. I'm currently looking for a full-time job, residency program, or post-doc.***
+- Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
+
+
+---
+
 ## Previous change history
+
+### :high_brightness: [Notice]
+The github page will be revised largely at 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
+
+### :high_brightness: Updated 2020-02-25
+- One paper has been included in the ICCV2019 section.
+  - "Deep Meta Metric Learning"
 
 ### :high_brightness: Updated 2019-01-17
 - [One survey paper](#2-survey) and its github page has been updated.
