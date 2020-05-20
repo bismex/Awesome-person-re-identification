@@ -54,52 +54,52 @@ The papers in this section will be categorized soon.
 
 - Person re-identification
 > #### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/pdf/1912.01230.pdf)] [[github](https://github.com/bismex/HiCMD)] [[homepage](https://sites.google.com/site/seokeonchoi/)] [[video](https://www.youtube.com/watch?v=da_4DxF0rGk&feature=youtu.be)]
-> #### 2) *"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking"* [[paper]()] 
-> #### 3) *"Inter-Task Association Critic for Cross-Resolution Person Re-Identification"* [[paper]()] 
-> #### 4) *"Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification"* [[paper]()] 
-> #### 5) *"Online Joint Multi-Metric Adaptation From Frequent Sharing-Subset Mining for Person Re-Identification"* [[paper]()] 
-> #### 6) *"Style Normalization and Restitution for Generalizable Person Re-Identification"* [[paper]()] 
-> #### 7) *"Relation-Aware Global Attention for Person Re-Identification"* [[paper]()] 
-> #### 8) *"Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification"* [[paper]()] 
-> #### 9) *"Salience-Guided Cascaded Suppression Network for Person Re-Identification"* [[paper]()] 
-> #### 10) *"Unsupervised Person Re-Identification via Softened Similarity Learning"* [[paper]()] 
-> #### 11) *"Weakly Supervised Discriminative Feature Learning With State Information for Person Identification"* [[paper]()] 
-> #### 12) *"High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification"* [[paper]()] 
-> #### 13) *"Unity Style Transfer for Person Re-Identification"* [[paper]()] 
-> #### 14) *"AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-Identification"* [[paper]()] 
-> #### 15) *"Multi-Granularity Reference-Aided Attentive Feature Aggregation for Video-Based Person Re-Identification"* [[paper]()] 
-> #### 16) *"Smoothing Adversarial Domain Attack and P-Memory Reconsolidation for Cross-Domain Person Re-Identification"* [[paper]()] 
-> #### 17) *"Learning Longterm Representations for Person Re-Identification Using Radio Signals"* [[paper]()] 
-> #### 18) *"Unsupervised Person Re-Identification via Multi-Label Classification"* [[paper]()] 
-> #### 19) *"Pose-Guided Visible Part Matching for Occluded Person ReID"* [[paper]()] 
-> #### 20) *"Camera On-Boarding for Person Re-Identification Using Hypothesis Transfer Learning"* [[paper]()] 
-> #### 21) *"Cross-Modality Person Re-Identification With Shared-Specific Feature Transfer"* [[paper]()] 
-> #### 22) *"Hierarchical Clustering With Hard-Batch Triplet Loss for Person Re-Identification"* [[paper]()] 
-> #### 23) *"Real-World Person Re-Identification via Degradation Invariance Learning"* [[paper]()] 
+> #### 2) *"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking"* [[paper](https://arxiv.org/pdf/2004.04199.pdf)] 
+> #### 3) *"Inter-Task Association Critic for Cross-Resolution Person Re-Identification"* [[paper](http://www.eecs.qmul.ac.uk/~sgg/papers/ChengEtAl_CVPR2020.pdf)] 
+> #### 4) *"Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification"* 
+> #### 5) *"Online Joint Multi-Metric Adaptation From Frequent Sharing-Subset Mining for Person Re-Identification"* 
+> #### 6) *"Style Normalization and Restitution for Generalizable Person Re-Identification"* 
+> #### 7) *"Relation-Aware Global Attention for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1904.02998.pdf)] 
+> #### 8) *"Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification"*  
+> #### 9) *"Salience-Guided Cascaded Suppression Network for Person Re-Identification"*
+> #### 10) *"Unsupervised Person Re-Identification via Softened Similarity Learning"* [[paper](https://arxiv.org/pdf/2004.03547.pdf)] 
+> #### 11) *"Weakly Supervised Discriminative Feature Learning With State Information for Person Identification"* [[paper](https://arxiv.org/pdf/2002.11939.pdf)] 
+> #### 12) *"High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification"* [[paper](https://arxiv.org/pdf/2003.08177.pdf)] 
+> #### 13) *"Unity Style Transfer for Person Re-Identification"* [[paper](https://arxiv.org/pdf/2003.02068.pdf)] 
+> #### 14) *"AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-Identification"* [[paper](https://arxiv.org/pdf/2004.08787.pdf)] 
+> #### 15) *"Multi-Granularity Reference-Aided Attentive Feature Aggregation for Video-Based Person Re-Identification"* [[paper](https://arxiv.org/pdf/2003.12224.pdf)] 
+> #### 16) *"Smoothing Adversarial Domain Attack and P-Memory Reconsolidation for Cross-Domain Person Re-Identification"* 
+> #### 17) *"Learning Longterm Representations for Person Re-Identification Using Radio Signals"* [[paper](https://arxiv.org/pdf/2004.01091.pdf)] 
+> #### 18) *"Unsupervised Person Re-Identification via Multi-Label Classification"* [[paper](https://arxiv.org/pdf/2004.09228.pdf)] 
+> #### 19) *"Pose-Guided Visible Part Matching for Occluded Person ReID"* [[paper](https://arxiv.org/pdf/2004.00230.pdf)] 
+> #### 20) *"Camera On-Boarding for Person Re-Identification Using Hypothesis Transfer Learning"* [[paper](https://vcg.engr.ucr.edu/sites/g/files/rcwecm2661/files/2020-04/09517.pdf)] 
+> #### 21) *"Cross-Modality Person Re-Identification With Shared-Specific Feature Transfer"* [[paper](https://arxiv.org/pdf/2002.12489.pdf)] 
+> #### 22) *"Hierarchical Clustering With Hard-Batch Triplet Loss for Person Re-Identification"* [[paper](https://arxiv.org/pdf/1910.12278.pdf)] 
+> #### 23) *"Real-World Person Re-Identification via Degradation Invariance Learning"* [[paper](https://arxiv.org/pdf/2004.04933.pdf)] 
 
 - Vehicle re-identification
 
-> #### 24) *"Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification"* [[paper]()] 
+> #### 24) *"Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification"* [[paper](https://arxiv.org/pdf/2004.05021.pdf)] 
 
 - Person search
 
-> #### 25) *"Instance Guided Proposal Network for Person Search"* [[paper]()] 
-> #### 26) *"Bi-Directional Interaction Network for Person Search"* [[paper]()] 
-> #### 27) *"Robust Partial Matching for Person Search in the Wild"* [[paper]()] 
-> #### 28) *"Cross-Modal Cross-Domain Moment Alignment Network for Person Search"* [[paper]()] 
-> #### 29) *"TCTS: A Task-Consistent Two-Stage Framework for Person Search"* [[paper]()] 
-> #### 30) *"Norm-Aware Embedding for Efficient Person Search"* [[paper]()]
+> #### 25) *"Instance Guided Proposal Network for Person Search"*
+> #### 26) *"Bi-Directional Interaction Network for Person Search"*  
+> #### 27) *"Robust Partial Matching for Person Search in the Wild"* [[paper](https://arxiv.org/pdf/2004.09329.pdf)] 
+> #### 28) *"Cross-Modal Cross-Domain Moment Alignment Network for Person Search"*
+> #### 29) *"TCTS: A Task-Consistent Two-Stage Framework for Person Search"* 
+> #### 30) *"Norm-Aware Embedding for Efficient Person Search"* 
 
 - Dataset 
-> #### 31) *"COCAS: A Large-Scale Clothes Changing Person Dataset for Re-Identification"* [[paper]()] 
+> #### 31) *"COCAS: A Large-Scale Clothes Changing Person Dataset for Re-Identification"* [[paper](https://arxiv.org/pdf/2005.07862.pdf)] 
 
 - Etc (person image synthesis / generation, gait recognition)
 
-> #### 32) *"Controllable Person Image Synthesis With Attribute-Decomposed GAN"* [[paper]()] 
-> #### 33) *"Deep Image Spatial Transformation for Person Image Generation"* [[paper]()] 
-> #### 34) *"MISC: Multi-Condition Injection and Spatially-Adaptive Compositing for Conditional Person Image Synthesis"* [[paper]()] 
-> #### 35) *"Gait Recognition via Semi-supervised Disentangled Representation Learning to Identity and Covariate Features"* [[paper]()] 
-> #### 36) *"GaitPart: Temporal Part-Based Model for Gait Recognition"* [[paper]()] 
+> #### 32) *"Controllable Person Image Synthesis With Attribute-Decomposed GAN"* [[paper](https://arxiv.org/pdf/2003.12267.pdf)] 
+> #### 33) *"Deep Image Spatial Transformation for Person Image Generation"* [[paper](https://arxiv.org/pdf/2003.00696.pdf)] 
+> #### 34) *"MISC: Multi-Condition Injection and Spatially-Adaptive Compositing for Conditional Person Image Synthesis"* 
+> #### 35) *"Gait Recognition via Semi-supervised Disentangled Representation Learning to Identity and Covariate Features"* 
+> #### 36) *"GaitPart: Temporal Part-Based Model for Gait Recognition"* 
 
 ---
 
