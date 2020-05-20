@@ -15,9 +15,9 @@ This is a repository for organizing articles related to person re-identification
 
 ## Table of Contents (ongoing)
 
-- [1. CVPR2020](#1-CVPR2020)
-- [2. ICCV2019](#2-ICCV2019)
-- [3. Statistics](#3-statistics)
+- [1. Statistics](#1-statistics)
+- [2. CVPR2020](#2-CVPR2020)
+- [3. ICCV2019](#3-ICCV2019)
 - [4. Survey](#4-survey)
 - [5. Unsupervised Person Re-ID (+ Transfer / Semi-supervised learning)](#5-unsupervised-person-re-id)
 - [6. Supervised Person Re-ID](#6-supervised-person-re-id)
@@ -28,7 +28,26 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 1. CVPR2020
+
+## 1. Statistics
+
+The CVPR2020 and ICCV2019 papers will be categorized soon.
+
+| Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
+|---           |---   |---|---|---|---|---|---|
+| CVPR2020 | [Click](http://cvpr2020.thecvf.com/program/main-conference) | - | - | - | - | - | - |
+| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | - | - | - | - | - |
+| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 5 | 11 | 2 | 8 | 3 |
+| ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
+| CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
+| ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 16 | 7 | 6 | 1 | 2 | 0 |
+| CVPR2017 | [Click](http://openaccess.thecvf.com/CVPR2017.py)  | 16 | 2 | 9 | 1 | 3 | 1 |
+
+
+
+---
+
+## 2. CVPR2020
 
 The papers in this section will be categorized soon. 
 
@@ -44,7 +63,7 @@ The papers in this section will be categorized soon.
 ---
 
 
-## 2. ICCV2019
+## 3. ICCV2019
 
 The papers in this section will be categorized soon. 
 
@@ -96,20 +115,6 @@ The papers in this section will be categorized soon.
 
 > #### 38) *"Person Search by Text Attribute Query As Zero-Shot Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Person_Search_by_Text_Attribute_Query_As_Zero-Shot_Learning_ICCV_2019_paper.pdf)]
 > #### 39) *"Re-ID Driven Localization Refinement for Person Search"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Re-ID_Driven_Localization_Refinement_for_Person_Search_ICCV_2019_paper.pdf)]
-
-
----
-
-## 3. Statistics
-
-
-| Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
-|---           |---   |---|---|---|---|---|---|
-| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 5 | 11 | 2 | 8 | 3 |
-| ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
-| CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 31 | 5 | 23 | 0 | 2 | 1 |
-| ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 16 | 7 | 6 | 1 | 2 | 0 |
-| CVPR2017 | [Click](http://openaccess.thecvf.com/CVPR2017.py)  | 16 | 2 | 9 | 1 | 3 | 1 |
 
 ---
 
