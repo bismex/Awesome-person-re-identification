@@ -8,7 +8,7 @@ This is a repository for organizing articles related to person re-identification
 
 
 ### :high_brightness: Updated 2020-05-20
-- The online address of all [CVPR2020 papers](#1-CVPR2020) has been updated.
+- The online address of all [CVPR2020 papers](#2-CVPR2020) has been updated.
 - The CVPR2020 and ICCV2019 papers will be categorized soon.
 
 ---
@@ -35,7 +35,7 @@ The CVPR2020 and ICCV2019 papers will be categorized soon.
 
 | Conference  | Link | #Total | Unsupervised reID | Supervised reID | Person search | Others | Datasets |
 |---           |---   |---|---|---|---|---|---|
-| CVPR2020 | [Click](http://cvpr2020.thecvf.com/program/main-conference) | - | - | - | - | - | - |
+| CVPR2020 | [Click](http://cvpr2020.thecvf.com/program/main-conference) | 36 | - | - | - | - | - |
 | ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | - | - | - | - | - |
 | CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 5 | 11 | 2 | 8 | 3 |
 | ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 19 | 4 | 8 | 4 | 3 | 0 |
@@ -54,38 +54,52 @@ The papers in this section will be categorized soon.
 
 - Person re-identification
 > #### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/pdf/1912.01230.pdf)] [[github](https://github.com/bismex/HiCMD)] [[homepage](https://sites.google.com/site/seokeonchoi/)] [[video](https://www.youtube.com/watch?v=da_4DxF0rGk&feature=youtu.be)]
-> #### 2) *""* [[paper]()] 
-> #### 3) *""* [[paper]()] 
-> #### 4) *""* [[paper]()] 
-> #### 5) *""* [[paper]()] 
-> #### 6) *""* [[paper]()] 
-> #### 7) *""* [[paper]()] 
-> #### 8) *""* [[paper]()] 
-> #### 9) *""* [[paper]()] 
-> #### 10) *""* [[paper]()] 
-> #### 11) *""* [[paper]()] 
-> #### 12) *""* [[paper]()] 
-> #### 13) *""* [[paper]()] 
-> #### 14) *""* [[paper]()] 
-> #### 15) *""* [[paper]()] 
-> #### 16) *""* [[paper]()] 
-> #### 17) *""* [[paper]()] 
-> #### 18) *""* [[paper]()] 
-> #### 19) *""* [[paper]()] 
-> #### 20) *""* [[paper]()] 
-> #### 21) *""* [[paper]()] 
-> #### 22) *""* [[paper]()] 
-> #### 23) *""* [[paper]()] 
-> #### 24) *""* [[paper]()] 
-> #### 25) *""* [[paper]()] 
-> #### 26) *""* [[paper]()] 
-> #### 27) *""* [[paper]()] 
-> #### 28) *""* [[paper]()] 
+> #### 2) *"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking"* [[paper]()] 
+> #### 3) *"Inter-Task Association Critic for Cross-Resolution Person Re-Identification"* [[paper]()] 
+> #### 4) *"Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification"* [[paper]()] 
+> #### 5) *"Online Joint Multi-Metric Adaptation From Frequent Sharing-Subset Mining for Person Re-Identification"* [[paper]()] 
+> #### 6) *"Style Normalization and Restitution for Generalizable Person Re-Identification"* [[paper]()] 
+> #### 7) *"Relation-Aware Global Attention for Person Re-Identification"* [[paper]()] 
+> #### 8) *"Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification"* [[paper]()] 
+> #### 9) *"Salience-Guided Cascaded Suppression Network for Person Re-Identification"* [[paper]()] 
+> #### 10) *"Unsupervised Person Re-Identification via Softened Similarity Learning"* [[paper]()] 
+> #### 11) *"Weakly Supervised Discriminative Feature Learning With State Information for Person Identification"* [[paper]()] 
+> #### 12) *"High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification"* [[paper]()] 
+> #### 13) *"Unity Style Transfer for Person Re-Identification"* [[paper]()] 
+> #### 14) *"AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-Identification"* [[paper]()] 
+> #### 15) *"Multi-Granularity Reference-Aided Attentive Feature Aggregation for Video-Based Person Re-Identification"* [[paper]()] 
+> #### 16) *"Smoothing Adversarial Domain Attack and P-Memory Reconsolidation for Cross-Domain Person Re-Identification"* [[paper]()] 
+> #### 17) *"Learning Longterm Representations for Person Re-Identification Using Radio Signals"* [[paper]()] 
+> #### 18) *"Unsupervised Person Re-Identification via Multi-Label Classification"* [[paper]()] 
+> #### 19) *"Pose-Guided Visible Part Matching for Occluded Person ReID"* [[paper]()] 
+> #### 20) *"Camera On-Boarding for Person Re-Identification Using Hypothesis Transfer Learning"* [[paper]()] 
+> #### 21) *"Cross-Modality Person Re-Identification With Shared-Specific Feature Transfer"* [[paper]()] 
+> #### 22) *"Hierarchical Clustering With Hard-Batch Triplet Loss for Person Re-Identification"* [[paper]()] 
+> #### 23) *"Real-World Person Re-Identification via Degradation Invariance Learning"* [[paper]()] 
 
 - Vehicle re-identification
 
+> #### 24) *"Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification"* [[paper]()] 
 
 - Person search
+
+> #### 25) *"Instance Guided Proposal Network for Person Search"* [[paper]()] 
+> #### 26) *"Bi-Directional Interaction Network for Person Search"* [[paper]()] 
+> #### 27) *"Robust Partial Matching for Person Search in the Wild"* [[paper]()] 
+> #### 28) *"Cross-Modal Cross-Domain Moment Alignment Network for Person Search"* [[paper]()] 
+> #### 29) *"TCTS: A Task-Consistent Two-Stage Framework for Person Search"* [[paper]()] 
+> #### 30) *"Norm-Aware Embedding for Efficient Person Search"* [[paper]()]
+
+- Dataset 
+> #### 31) *"COCAS: A Large-Scale Clothes Changing Person Dataset for Re-Identification"* [[paper]()] 
+
+- Etc (person image synthesis / generation, gait recognition)
+
+> #### 32) *"Controllable Person Image Synthesis With Attribute-Decomposed GAN"* [[paper]()] 
+> #### 33) *"Deep Image Spatial Transformation for Person Image Generation"* [[paper]()] 
+> #### 34) *"MISC: Multi-Condition Injection and Spatially-Adaptive Compositing for Conditional Person Image Synthesis"* [[paper]()] 
+> #### 35) *"Gait Recognition via Semi-supervised Disentangled Representation Learning to Identity and Covariate Features"* [[paper]()] 
+> #### 36) *"GaitPart: Temporal Part-Based Model for Gait Recognition"* [[paper]()] 
 
 ---
 
@@ -493,6 +507,14 @@ https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_lea
 ***I plan to receive a doctoral degree in Dec. 2020 or Jun. 2021. I'm currently looking for a full-time job, residency program, or post-doc.***
 - Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
 
+---
+
+## Search keyword
+
+- person
+- identification
+- vehicle
+- search
 
 ---
 
