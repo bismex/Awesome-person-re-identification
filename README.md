@@ -53,7 +53,7 @@ The papers in this section will be categorized soon.
 
 
 - Person re-identification
-> #### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/pdf/1912.01230.pdf)] [[github](https://github.com/bismex/HiCMD)] [[homepage](https://sites.google.com/site/seokeonchoi/)] [[video](https://www.youtube.com/watch?v=da_4DxF0rGk&feature=youtu.be)]
+> #### 1) *"Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/pdf/1912.01230.pdf)] [[github](https://github.com/bismex/HiCMD)] [[video](https://www.youtube.com/watch?v=da_4DxF0rGk&feature=youtu.be)]
 > #### 2) *"Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking"* [[paper](https://arxiv.org/pdf/2004.04199.pdf)] [[github](https://github.com/whj363636/Adversarial-attack-on-Person-ReID-With-Deep-Mis-Ranking)]
 > #### 3) *"Inter-Task Association Critic for Cross-Resolution Person Re-Identification"* [[paper](http://www.eecs.qmul.ac.uk/~sgg/papers/ChengEtAl_CVPR2020.pdf)] 
 > #### 4) *"Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification"* 
