@@ -8,7 +8,7 @@ This is a repository for organizing articles related to person re-identification
 
 
 ### :high_brightness: Updated 2020-05-20
-- The online address of all [CVPR2020 papers](#2-CVPR2020) has been updated.
+- The [CVPR2020 papers](#2-CVPR2020) has been updated.
 - The CVPR2020 and ICCV2019 papers will be categorized soon.
 
 ---
