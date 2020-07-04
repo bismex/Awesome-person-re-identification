@@ -33,7 +33,7 @@ This is a repository for organizing articles related to person re-identification
 ## 1. Statistics
 
 | Conference  | Link | #Total | Person reID | Vehicle reID | Person search | Person image synthesis, generation |
-|---           |---   |---|---|---|---|---|---|
+|---           |---   |---|---|---|---|---|
 | ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/) | - | - | - | - | - |
 | CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py) | 34 | 24 | 1 | 6 | 3 |
 | ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | 33 | 4 | 2 | - |
