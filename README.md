@@ -34,7 +34,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Person reID | Vehicle reID | Person search | Person image synthesis, generation |
 |---           |---   |---|---|---|---|---|
-| ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/) | - | - | - | - | - |
+| ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/) | 30 | 23 | 3 | 3 | 1 |
 | CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py) | 34 | 24 | 1 | 6 | 3 |
 | ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | 33 | 4 | 2 | - |
 | CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 21 | 3 | 2 | 3 |
@@ -60,6 +60,44 @@ This is a repository for organizing articles related to person re-identification
 ## 3. ECCV2020
 
 - **Person re-identification**
+
+> #### 1) *"Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification"*
+> #### 2) *"Appearance-Preserving 3D Convolution for Video-based Person Re-identification"*
+> #### 3) *"Identity-Guided Human Semantic Parsing Learning for Person Re-Identification"*
+> #### 4) *"Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians"*
+> #### 5) *"Multiple Expert Brainstorming for Domain Adaptive Person Re-identification"*
+> #### 6) *"Global Distance-distributions Separation for Unsupervised Person Re-identification"*
+> #### 7) *"Faster Person Re-Identification"*
+> #### 8) *"Deep Credible Metric Learning for Unsupervised Domain Adaptation Person Re-identification"*
+> #### 9) *"Temporal Coherence or Temporal Motion: Which is More Critical for Video-based Person Re-identification?"*
+> #### 10) *"Interpretable and Generalizable Person Re-identification with Query-adaptive Convolution and Temporal Lifting"*
+> #### 11) *"Unsupervised Domain Adaptation with Noise Resistible Mutual-Training for Person Re-identification"*
+> #### 12) *"Rethinking the Distribution Gap of Person Re-identification with Camera-based Batch Normalization"*
+> #### 13) *"Generalizing Person Re-Identification by Camera-Aware Invariance Learning and Cross-Domain Mixup"*
+> #### 14) *"Dynamic Dual-Attentive Aggregation Learning for Visible-Infrared Person Re-Identification"*
+> #### 15) *"Joint Visual and Temporal Consistency for Unsupervised Domain Adaptive Person Re-Identification"*
+> #### 16) *"Temporal Complementary Learning for Video Person Re-Identification"*
+> #### 17) *"Prediction, Recovery and Identification: Adaptive Low-Resolution Person Re-Identification"*
+> #### 18) *"An Attention-driven Two-stage Clustering Method for Unsupervised Person Re-Identification"*
+> #### 19) *"Guided Saliency Feature Learning for Person Re-identification in Crowded Scenes"*
+> #### 20) *"Robust Re-Identification by Multiple Views Knowledge Distillation"*
+> #### 21) *"Character Grounding and Re-Identification in Story of Videos and Text Descriptions"*
+> #### 22) *"ReAD: Reciprocal Attention Discriminator for Image-to-Video Re-Identification"*
+> #### 23) *"Exploiting Temporal Coherence for Self-Supervised One-shot Video Re-identification"*
+
+- **Vehicle re-identification**
+> #### 1) *"Synthesizing Content Consistent Vehicle Datasets with Attribute Descent"*
+> #### 2) *"The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification"*
+> #### 3) *"Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network"*
+
+- **Person search**
+> #### 1) *"Online Multi-modal Person Search in Videos"*
+> #### 2) *"ViTAA: Visual-Textual Attributes Alignment in Person Search by Natural Language"*
+> #### 3) *"Symbiotic Adversarial Learning for Attribute-Based Person Search"*
+
+- **Person image synthesis / generation**
+> #### 1) *"XingGAN for Person Image Generation"*
+
 
 ---
 
