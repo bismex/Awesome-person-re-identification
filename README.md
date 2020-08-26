@@ -6,8 +6,8 @@ This is a repository for organizing articles related to person re-identification
 - [Awesome Cross-modality Person Re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
 - [Awesome Vehicle Re-identification](https://github.com/bismex/Awesome-vehicle-re-identification)
 
-### :high_brightness: Updated 2020-07-03
-- The [ECCV2020 papers](#3-ECCV2020) has been updated.
+### :high_brightness: Updated 2020-08-26
+- The paper links for [ECCV2020 papers](#3-ECCV2020) have been updated.
 
 ---
 
@@ -61,42 +61,42 @@ This is a repository for organizing articles related to person re-identification
 
 - **Person re-identification**
 
-> #### 1) *"Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification"*
-> #### 2) *"Appearance-Preserving 3D Convolution for Video-based Person Re-identification"*
-> #### 3) *"Identity-Guided Human Semantic Parsing Learning for Person Re-Identification"*
-> #### 4) *"Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians"*
-> #### 5) *"Multiple Expert Brainstorming for Domain Adaptive Person Re-identification"*
-> #### 6) *"Global Distance-distributions Separation for Unsupervised Person Re-identification"*
-> #### 7) *"Faster Person Re-Identification"*
-> #### 8) *"Deep Credible Metric Learning for Unsupervised Domain Adaptation Person Re-identification"*
-> #### 9) *"Temporal Coherence or Temporal Motion: Which is More Critical for Video-based Person Re-identification?"*
-> #### 10) *"Interpretable and Generalizable Person Re-identification with Query-adaptive Convolution and Temporal Lifting"*
-> #### 11) *"Unsupervised Domain Adaptation with Noise Resistible Mutual-Training for Person Re-identification"*
-> #### 12) *"Rethinking the Distribution Gap of Person Re-identification with Camera-based Batch Normalization"*
-> #### 13) *"Generalizing Person Re-Identification by Camera-Aware Invariance Learning and Cross-Domain Mixup"*
-> #### 14) *"Dynamic Dual-Attentive Aggregation Learning for Visible-Infrared Person Re-Identification"*
-> #### 15) *"Joint Visual and Temporal Consistency for Unsupervised Domain Adaptive Person Re-Identification"*
-> #### 16) *"Temporal Complementary Learning for Video Person Re-Identification"*
-> #### 17) *"Prediction, Recovery and Identification: Adaptive Low-Resolution Person Re-Identification"*
-> #### 18) *"An Attention-driven Two-stage Clustering Method for Unsupervised Person Re-Identification"*
-> #### 19) *"Guided Saliency Feature Learning for Person Re-identification in Crowded Scenes"*
-> #### 20) *"Robust Re-Identification by Multiple Views Knowledge Distillation"*
-> #### 21) *"Character Grounding and Re-Identification in Story of Videos and Text Descriptions"*
-> #### 22) *"ReAD: Reciprocal Attention Discriminator for Image-to-Video Re-Identification"*
-> #### 23) *"Exploiting Temporal Coherence for Self-Supervised One-shot Video Re-identification"*
+> #### 1) *"Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470086.pdf)]
+> #### 2) *"Appearance-Preserving 3D Convolution for Video-based Person Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470222.pdf)]
+> #### 3) *"Identity-Guided Human Semantic Parsing for Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480358.pdf)]
+> #### 4) *"Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510647.pdf)]
+> #### 5) *"Multiple Expert Brainstorming for Domain Adaptive Person Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520579.pdf)]
+> #### 6) *"Global Distance-distributions Separation for Unsupervised Person Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520715.pdf)]
+> #### 7) *"Faster Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530273.pdf)]
+> #### 8) *"Deep Credible Metric Learning for Unsupervised Domain Adaptation Person Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530630.pdf)]
+> #### 9) *"Temporal Coherence or Temporal Motion: Which is More Critical for Video-based Person Re-identification?"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530647.pdf)]
+> #### 10) *"Interpretable and Generalizable Person Re-identification with Query-adaptive Convolution and Temporal Lifting"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560443.pdf)]
+> #### 11) *"Unsupervised Domain Adaptation with Noise Resistible Mutual-Training for Person Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560511.pdf)]
+> #### 12) *"Rethinking the Distribution Gap of Person Re-identification with Camera-based Batch Normalization"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570137.pdf)]
+> #### 13) *"Generalizing Person Re-Identification by Camera-Aware Invariance Learning and Cross-Domain Mixup"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600222.pdf)]
+> #### 14) *"Dynamic Dual-Attentive Aggregation Learning for Visible-Infrared Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620222.pdf)]
+> #### 15) *"Joint Visual and Temporal Consistency for Unsupervised Domain Adaptive Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690477.pdf)]
+> #### 16) *"Temporal Complementary Learning for Video Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700392.pdf)]
+> #### 17) *"Prediction and Recovery for Adaptive Low-Resolution Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710188.pdf)]
+> #### 18) *"An Attention-driven Two-stage Clustering Method for Unsupervised Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730018.pdf)]
+> #### 19) *"Guided Saliency Feature Learning for Person Re-identification in Crowded Scenes"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730358.pdf)]
+> #### 20) *"Robust Re-Identification by Multiple Views Knowledge Distillation"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550103.pdf)]
+> #### 21) *"Character Grounding and Re-Identification in Story of Videos and Text Descriptions"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500528.pdf)]
+> #### 22) *"ReAD: Reciprocal Attention Discriminator for Image-to-Video Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590324.pdf)]
+> #### 23) *"Exploiting Temporal Coherence for Self-Supervised One-shot Video Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720256.pdf)]
 
 - **Vehicle re-identification**
-> #### 1) *"Synthesizing Content Consistent Vehicle Datasets with Attribute Descent"*
-> #### 2) *"The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification"*
-> #### 3) *"Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network"*
+> #### 1) *"Simulating Content Consistent Vehicle Datasets with Attribute Descent"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510766.pdf)]
+> #### 2) *"The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590358.pdf)]
+> #### 3) *"Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470324.pdf)]
 
 - **Person search**
-> #### 1) *"Online Multi-modal Person Search in Videos"*
-> #### 2) *"ViTAA: Visual-Textual Attributes Alignment in Person Search by Natural Language"*
-> #### 3) *"Symbiotic Adversarial Learning for Attribute-Based Person Search"*
+> #### 1) *"Online Multi-modal Person Search in Videos"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570171.pdf)]
+> #### 2) *"ViTAA: Visual-Textual Attributes Alignment in Person Search by Natural Language"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570392.pdf)]
+> #### 3) *"Symbiotic Adversarial Learning for Attribute-Based Person Search"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590222.pdf)]
 
 - **Person image synthesis / generation**
-> #### 1) *"XingGAN for Person Image Generation"*
+> #### 1) *"XingGAN for Person Image Generation"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700715.pdf)]
 
 
 ---
