@@ -47,7 +47,7 @@ This is a repository for organizing articles related to person re-identification
 
 ## 2. Survey
 
-> #### 1) *"Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification"*, IJCAI 2020 [[paper](https://arxiv.org/abs/2001.04193)] [[github](https://arxiv.org/pdf/1905.10048.pdf)]
+> #### 1) *"Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification"*, IJCAI 2020 [[paper](https://arxiv.org/abs/1905.10048)] [[github](https://github.com/lightChaserX/Awesome-Hetero-reID)]
 > #### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 [[paper](https://arxiv.org/abs/2001.04193)] [[github](https://github.com/mangye16/ReID-Survey)]
 > #### 3) *"A Survey of Open-World Person Re-identification"*, TCSVT 2019, [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8640834)]
 > #### 4) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
