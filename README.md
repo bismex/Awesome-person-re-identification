@@ -410,6 +410,7 @@ These are papers that search for "gait" and "person re-identification" in google
 > #### 18) *"Gait-based Person Re-identification, A Survey"*, ACM CSUR 2019 [[paper](http://users.isr.ist.utl.pt/~alex/papers/aha/Nambiar2019_manuscript.pdf)]
 > #### 19) *"Gait Recognition via Semi-supervised Disentangled Representation Learning to Identity and Covariate Features"*, CVPR 2020 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Gait_Recognition_via_Semi-supervised_Disentangled_Representation_Learning_to_Identity_and_CVPR_2020_paper.pdf)]
 > #### 20) *"GaitPart: Temporal Part-Based Model for Gait Recognition"*, CVPR 2020 [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_GaitPart_Temporal_Part-Based_Model_for_Gait_Recognition_CVPR_2020_paper.pdf)]
+> #### 21) *"Pedestrian Alignment Network for Large-scale Person Re-Identification"*, TCSVT 2018 [[paper](https://ieeexplore.ieee.org/abstract/document/8481710)][[code](https://github.com/layumi/Pedestrian_Alignment)]
 
 
 ---
@@ -428,6 +429,10 @@ These are papers that search for "gait" and "person re-identification" in google
 - Person reid baseline [[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501)] [[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline)] [[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline)] [[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch)] [[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN)] [[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN)] [[DGNet(pytorch)](https://github.com/NVlabs/DG-Net)]
 - Cross modal reid baseline [[Visual-thermal reid(pytorch)](https://github.com/mangye16/Cross-Modal-Re-ID-baseline)]
 - Vehicle reid baseline [[Jakel21(pytorch)](https://github.com/Jakel21/vehicle-ReID-baseline)] [[lxc86739795(pytorch)](https://github.com/lxc86739795/vehiclereid_baseline)]
+- Person reid with Pedestrian alignment [[STN(Matlab)](https://github.com/layumi/Pedestrian_Alignment)] 
+- 3D Person reid [[Pytorch](https://github.com/layumi/person-reid-3d)]
+- Language Person Search [[Matlab](https://github.com/layumi/Image-Text-Embedding)]
+- 2stream Person reid [[Matlab](https://github.com/layumi/2016_person_re-ID)]
 
 ---
 
