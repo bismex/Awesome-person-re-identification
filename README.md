@@ -49,6 +49,7 @@ This is a repository for organizing articles related to person re-identification
 
 > #### 1) *"Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification"*, IJCAI 2020 [[paper](https://arxiv.org/abs/1905.10048)] [[github](https://github.com/lightChaserX/Awesome-Hetero-reID)]
 > #### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 [[paper](https://arxiv.org/abs/2001.04193)] [[github](https://github.com/mangye16/ReID-Survey)]
+> #### 3) *"Person search: New paradigm of person re-identification: A survey and outlook of recent works"*, Image and Vision Computing 2020 [[paper](https://www.sciencedirect.com/science/article/pii/S0262885620301025)]
 > #### 3) *"A Survey of Open-World Person Re-identification"*, TCSVT 2019, [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8640834)]
 > #### 4) *"Person Re-identification: Past, Present and Future"*, arXiv 2016 [[paper](https://arxiv.org/pdf/1610.02984.pdf)]
 > #### 5) *"A survey of approaches and trends in person re-identification"*, Image and Vision Computing 2014 [[paper](https://ac.els-cdn.com/S0262885614000262/1-s2.0-S0262885614000262-main.pdf?_tid=de6eee6c-08e6-486c-9d7a-18d2e0c30091&acdnat=1539565884_afc3e4f2e7068a620c9fbfde6129d35d)]
@@ -381,8 +382,6 @@ This is a repository for organizing articles related to person re-identification
 ---
 
 ## 11. Others
-
-- ArXiv
 
 > #### 1) *"Unsupervised Person Re-identification: Clustering and Fine-tuning"* [[paper](https://arxiv.org/pdf/1705.10444.pdf)] [[Github](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
 
