@@ -72,6 +72,8 @@ This is a repository for organizing articles related to person re-identification
 
 `My paper accepted to CVPR2021. It's 2 years in a row. I will upload other CVPR2021 papers when the accepted list is released.` :blush: 
 
+`The code will be released soon.`
+
 `If you would like to post a paper that accepted CVPR2021 in advance, please email me with the paper name and pre-print link.`
 
 ---
