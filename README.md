@@ -6,8 +6,11 @@ This is a repository for organizing articles related to person re-identification
 - [Awesome Cross-modality Person Re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
 - [Awesome Vehicle Re-identification](https://github.com/bismex/Awesome-vehicle-re-identification)
 
-### :high_brightness: Updated 2020-08-26
-- The paper links for [ECCV2020 papers](#3-ECCV2020) have been updated.
+### :high_brightness: Updated 2021-03-04
+- My paper [[link](https://arxiv.org/abs/2011.14670)] accepted to CVPR2021.
+- My 'Re-ID' papers accepted to CVPR for two consecutive years. :blush:
+- I plan to receive a doctoral degree in Jun. or Dec. 2021. I'm currently looking for a full-time job and post-doc in the US.***
+- Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
 
 ---
 
@@ -15,17 +18,18 @@ This is a repository for organizing articles related to person re-identification
 
 - [1. Statistics](#1-statistics)
 - [2. Survey](#2-survey)
-- [3. ECCV2020](#3-ECCV2020)
-- [4. CVPR2020](#4-CVPR2020)
-- [5. ICCV2019](#5-ICCV2019)
-- [6. CVPR2019](#6-CVPR2019)
-- [7. ECCV2018](#7-ECCV2018)
-- [8. CVPR2018](#8-CVPR2018)
-- [9. ICCV2017](#9-ICCV2017)
-- [10. CVPR2017](#10-CVPR2017)
-- [11. Others](#11-others)
-- [12. Datasets](#12-datasets)
-- [13. Codes](#13-codes)
+- [3. CVPR2021](#3-CVPR2021)
+- [4. ECCV2020](#4-ECCV2020)
+- [5. CVPR2020](#5-CVPR2020)
+- [6. ICCV2019](#6-ICCV2019)
+- [7. CVPR2019](#7-CVPR2019)
+- [8. ECCV2018](#8-ECCV2018)
+- [9. CVPR2018](#9-CVPR2018)
+- [10. ICCV2017](#10-ICCV2017)
+- [11. CVPR2017](#11-CVPR2017)
+- [12. Others](#12-others)
+- [13. Datasets](#13-datasets)
+- [14. Codes](#14-codes)
 
 ---
 
@@ -34,6 +38,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Person reID | Vehicle reID | Person search | Person image synthesis, generation |
 |---           |---   |---|---|---|---|---|
+| CVPR2021 | - | - | - | - | - | - |
 | ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/) | 30 | 23 | 3 | 3 | 1 |
 | CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py) | 34 | 24 | 1 | 6 | 3 |
 | ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | 33 | 4 | 2 | - |
@@ -56,9 +61,21 @@ This is a repository for organizing articles related to person re-identification
 > #### 7) *"Appearance Descriptors for Person Re-identification: a Comprehensive Review"*, arXiv 2013 [[paper](https://arxiv.org/abs/1307.5748)]
 
 
+
 ---
 
-## 3. ECCV2020
+## 3. CVPR2021
+
+- **Person re-identification**
+
+> #### 1) *"Meta Batch-Instance Normalization for Generalizable Person Re-Identification"* [[paper](https://arxiv.org/abs/2011.14670)]
+
+`My paper accepted to CVPR2021. It's 2 years in a row. I will upload other CVPR2021 papers when the accepted list is released.` :blush: 
+`If you would like to post a paper that accepted CVPR2021 in advance, please email me with the paper name and pre-print link.`
+
+---
+
+## 4. ECCV2020
 
 - **Person re-identification**
 
@@ -102,7 +119,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 4. CVPR2020
+## 5. CVPR2020
 
 - **Person re-identification**
 
@@ -152,7 +169,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 5. ICCV2019
+## 6. ICCV2019
 
 - **Person re-identification**
 
@@ -206,7 +223,7 @@ This is a repository for organizing articles related to person re-identification
 ---
 
 
-## 6. CVPR2019
+## 7. CVPR2019
 
 - **Person re-identification**
 
@@ -254,7 +271,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 7. ECCV2018
+## 8. ECCV2018
 
 - **Person re-identification**
 
@@ -283,7 +300,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 8. CVPR2018
+## 9. CVPR2018
 
 - **Person re-identification**
 
@@ -324,7 +341,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 9. ICCV2017
+## 10. ICCV2017
 
 - **Person re-identification**
 
@@ -355,7 +372,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 10. CVPR2017
+## 11. CVPR2017
 
 - **Person re-identification**
 
@@ -381,7 +398,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 11. Others
+## 12. Others
 
 > #### 1) *"Unsupervised Person Re-identification: Clustering and Fine-tuning"* [[paper](https://arxiv.org/pdf/1705.10444.pdf)] [[Github](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
 
@@ -414,7 +431,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ---
 
-## 12. Datasets
+## 13. Datasets
 
 - Awesome re-id dataset [[github](https://github.com/NEU-Gou/awesome-reid-dataset)]
 - Market-1501 Leaderboard [[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
@@ -423,7 +440,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ---
 
-## 13. Codes
+## 14. Codes
 
 - Library for deep-learning person re-identification [[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid)] [[Openreid(pytorch)](https://github.com/Cysu/open-reid)]
 - Person reid baseline [[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501)] [[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline)] [[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline)] [[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch)] [[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN)] [[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN)] [[DGNet(pytorch)](https://github.com/NVlabs/DG-Net)]
@@ -476,6 +493,8 @@ https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_lea
 ### :high_brightness: [Notice]
 The github page will be revised largely at 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
 
+### :high_brightness: Updated 2020-08-26
+- The paper links for [ECCV2020 papers](#3-ECCV2020) have been updated.
 
 ### :high_brightness: Updated 2020-06-08
 - The [CVPR2020 open access](http://openaccess.thecvf.com/CVPR2020.py) is released.
