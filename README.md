@@ -9,7 +9,7 @@ This is a repository for organizing articles related to person re-identification
 ### :high_brightness: Updated 2021-03-04
 - My paper [[link](https://arxiv.org/abs/2011.14670)] accepted to CVPR2021.
 - My 'Re-ID' papers accepted to CVPR for two consecutive years. :blush:
-- I plan to receive a doctoral degree in Jun. or Dec. 2021. I'm currently looking for a full-time job and post-doc in the US.***
+- ***I plan to receive a doctoral degree in Jun. or Dec. 2021. I'm currently looking for a full-time job and post-doc in the US.***
 - Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
 
 ---
