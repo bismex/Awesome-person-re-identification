@@ -75,10 +75,10 @@ This is a repository for organizing articles related to person re-identification
 
 > #### 1) *"Meta Batch-Instance Normalization for Generalizable Person Re-Identification"* [[paper](https://arxiv.org/abs/2011.14670)][[github](https://github.com/bismex/MetaBIN)]
 > #### 2) *"Intra-Inter Camera Similarity for Unsupervised Person Re-Identification"* [[paper](https://arxiv.org/abs/2103.11658)][[github](https://github.com/SY-Xuan/IICS)]
-> #### 3) *"Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification"* [[paper](https://arxiv.org/abs/2103.04618)]
+> #### 3) *"Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification"* [[paper](https://arxiv.org/abs/2103.04618)][[github](https://github.com/FlyingRoastDuck/MetaCam_DSCE)]
 > #### 4) *"Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification"* [[paper](https://arxiv.org/abs/2103.04337)]
 > #### 5) *"Lifelong Person Re-Identification via Adaptive Knowledge Accumulation"* [[paper](https://arxiv.org/abs/2103.12462)][[github](https://github.com/TPCD/LifelongReID)]
-> #### 6) *"Group-aware Label Transfer for Domain Adaptive Person Re-identification"* [[paper](https://arxiv.org/abs/2103.12366)]
+> #### 6) *"Group-aware Label Transfer for Domain Adaptive Person Re-identification"* [[paper](https://arxiv.org/abs/2103.12366)][[github](https://github.com/zkcys001/UDAStrongBaseline)]
 
 - **Person search**
 
