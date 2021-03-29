@@ -78,7 +78,7 @@ This is a repository for organizing articles related to person re-identification
 > #### 3) *"Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification"* [[paper](https://arxiv.org/abs/2103.04618)]
 > #### 4) *"Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification"* [[paper](https://arxiv.org/abs/2103.04337)]
 > #### 5) *"Lifelong Person Re-Identification via Adaptive Knowledge Accumulation"* [[paper](https://arxiv.org/abs/2103.12462)][[github](https://github.com/TPCD/LifelongReID)]
-
+> #### 6) *"Group-aware Label Transfer for Domain Adaptive Person Re-identification"* [[paper](https://arxiv.org/abs/2103.12366)]
 
 - **Person search**
 
