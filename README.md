@@ -68,11 +68,12 @@ This is a repository for organizing articles related to person re-identification
 ## 3. CVPR2021
 
 `I will upload other CVPR2021 papers when the accepted list is released.`
+
 `If you would like to post a paper that accepted CVPR2021 in advance, please email me with the paper name and pre-print link.`
 
 - **Person re-identification**
 
-> #### 1) *"Meta Batch-Instance Normalization for Generalizable Person Re-Identification"* [[paper](https://arxiv.org/abs/2011.14670)]
+> #### 1) *"Meta Batch-Instance Normalization for Generalizable Person Re-Identification"* [[paper](https://arxiv.org/abs/2011.14670)][[github](https://github.com/bismex/MetaBIN)]
 > #### 2) *"Intra-Inter Camera Similarity for Unsupervised Person Re-Identification"* [[paper](https://arxiv.org/abs/2103.11658)][[github](https://github.com/SY-Xuan/IICS)]
 > #### 3) *"Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification"* [[paper](https://arxiv.org/abs/2103.04618)]
 > #### 4) *"Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification"* [[paper](https://arxiv.org/abs/2103.04337)]
