@@ -79,6 +79,9 @@ This is a repository for organizing articles related to person re-identification
 > #### 4) *"Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification"* [[paper](https://arxiv.org/abs/2103.04337)]
 > #### 5) *"Lifelong Person Re-Identification via Adaptive Knowledge Accumulation"* [[paper](https://arxiv.org/abs/2103.12462)][[github](https://github.com/TPCD/LifelongReID)]
 > #### 6) *"Group-aware Label Transfer for Domain Adaptive Person Re-identification"* [[paper](https://arxiv.org/abs/2103.12366)][[github](https://github.com/zkcys001/UDAStrongBaseline)]
+> #### 6) *"Combined Depth Space based Architecture Search For Person Re-identification"* [[paper](https://arxiv.org/abs/2104.04163)]
+> #### 7) *"Neural Feature Search for RGB-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2104.02366)]
+
 
 - **Person search**
 
