@@ -81,7 +81,7 @@ This is a repository for organizing articles related to person re-identification
 > #### 6) *"Group-aware Label Transfer for Domain Adaptive Person Re-identification"* [[paper](https://arxiv.org/abs/2103.12366)][[github](https://github.com/zkcys001/UDAStrongBaseline)]
 > #### 6) *"Combined Depth Space based Architecture Search For Person Re-identification"* [[paper](https://arxiv.org/abs/2104.04163)]
 > #### 7) *"Neural Feature Search for RGB-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2104.02366)]
-> #### 8) *"Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification"* [[paper](https://arxiv.org/abs/2012.00417)][[github(https://github.com/HeliosZhao/M3L)]]
+> #### 8) *"Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification"* [[paper](https://arxiv.org/abs/2012.00417)][[github](https://github.com/HeliosZhao/M3L)]
 > #### 9) *"Unsupervised Multi-Source Domain Adaptation for Person Re-Identification"* [[paper](https://arxiv.org/abs/2104.12961)]
 
 - **Person search**
