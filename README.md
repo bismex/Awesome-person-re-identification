@@ -37,9 +37,9 @@ This is a repository for organizing articles related to person re-identification
 
 ## 1. Statistics
 
-| Conference  | Link | #Total | Person reID | Vehicle reID | Person search | Person image synthesis, generation |
+| Conference  | Link | #Total | Person Re-ID | Vehicle Re-ID | Person search | Person image synthesis, generation, other Re-ID |
 |---           |---   |---|---|---|---|---|
-| CVPR2021 | - | - | - | - | - | - |
+| CVPR2021 | [click](http://cvpr2021.thecvf.com/node/142) | 33 | 26 | 1 | 2 | 4 |
 | ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/) | 30 | 23 | 3 | 3 | 1 |
 | CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py) | 34 | 24 | 1 | 6 | 3 |
 | ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | 33 | 4 | 2 | - |
@@ -67,10 +67,6 @@ This is a repository for organizing articles related to person re-identification
 
 ## 3. CVPR2021
 
-`I will upload other CVPR2021 papers when the accepted list is released.`
-
-`If you would like to post a paper that accepted CVPR2021 in advance, please email me with the paper name and pre-print link.`
-
 - **Person re-identification**
 
 > #### 1) *"Meta Batch-Instance Normalization for Generalizable Person Re-Identification"* [[paper](https://arxiv.org/abs/2011.14670)][[github](https://github.com/bismex/MetaBIN)]
@@ -83,10 +79,44 @@ This is a repository for organizing articles related to person re-identification
 > #### 7) *"Neural Feature Search for RGB-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2104.02366)]
 > #### 8) *"Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification"* [[paper](https://arxiv.org/abs/2012.00417)][[github](https://github.com/HeliosZhao/M3L)]
 > #### 9) *"Unsupervised Multi-Source Domain Adaptation for Person Re-Identification"* [[paper](https://arxiv.org/abs/2104.12961)]
+> #### 10) *"Coarse-To-Fine Person Re-Identification With Auxiliary-Domain Classification and Second-Order Information Bottleneck"* [[paper]()]
+> #### 11) *"Farewell to Mutual Information: Variational Distillation for Cross-Modal Person Re-Identification"* [[paper]()]
+> #### 12) *"Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification"* [[paper]()]
+> #### 13) *"BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification"* [[paper]()]
+> #### 14) *"Person30K: A Dual-Meta Generalization Network for Person Re-Identification"* [[paper]()]
+> #### 15) *"Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer"* [[paper]()]
+> #### 16) *"Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification"* [[paper]()]
+> #### 17) *"Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos"* [[paper]()]
+> #### 18) *"Combined Depth Space Based Architecture Search for Person Re-Identification"* [[paper]()]
+> #### 19) *"Learning 3D Shape Feature for Texture-Insensitive Person Re-Identification"* [[paper]()]
+> #### 20) *"Partial Person Re-Identification With Part-Part Correspondence Learning"* [[paper]()]
+> #### 21) *"Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification"* [[paper]()]
+> #### 22) *"UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification"* [[paper]()]
+> #### 23) *"Person Re-Identification Using Heterogeneous Local Graph Attention Networks"* [[paper]()]
+> #### 24) *"Wide-Baseline Multi-Camera Calibration Using Person Re-Identification"* [[paper]()]
+> #### 25) *"Unsupervised Pre-Training for Person Re-Identification"* [[paper]()]
+> #### 26) *"Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts"* [[paper]()]
+
+
+- **Vehicle re-identification**
+> #### 1) *"PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification"*
+
 
 - **Person search**
 
 > #### 1) *"Anchor-Free Person Search"* [[paper](https://arxiv.org/abs/2103.11617)]
+> #### 2) *"Prototype-Guided Saliency Feature Learning for Person Search"* [[paper](https://arxiv.org/abs/2103.11617)]
+
+
+- **Object re-identification**
+> #### 1) *"Refining Pseudo Labels With Clustering Consensus Over Generations for Unsupervised Object Re-Identification"*
+
+- **Person image synthesis / generation**
+> #### 1) *"PISE: Person Image Synthesis and Editing With Decoupled GAN"*
+> #### 2) *"Learning Semantic Person Image Generation by Region-Adaptive Normalization"*
+> #### 3) *"MUST-GAN: Multi-Level Statistics Transfer for Self-Driven Person Image Generation"*
+
+
 
 ---
 
