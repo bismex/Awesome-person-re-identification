@@ -79,23 +79,23 @@ This is a repository for organizing articles related to person re-identification
 > #### 7) *"Neural Feature Search for RGB-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2104.02366)]
 > #### 8) *"Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification"* [[paper](https://arxiv.org/abs/2012.00417)][[github](https://github.com/HeliosZhao/M3L)]
 > #### 9) *"Unsupervised Multi-Source Domain Adaptation for Person Re-Identification"* [[paper](https://arxiv.org/abs/2104.12961)]
-> #### 10) *"Coarse-To-Fine Person Re-Identification With Auxiliary-Domain Classification and Second-Order Information Bottleneck"* [[paper]()]
-> #### 11) *"Farewell to Mutual Information: Variational Distillation for Cross-Modal Person Re-Identification"* [[paper]()]
-> #### 12) *"Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification"* [[paper]()]
-> #### 13) *"BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification"* [[paper]()]
-> #### 14) *"Person30K: A Dual-Meta Generalization Network for Person Re-Identification"* [[paper]()]
-> #### 15) *"Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer"* [[paper]()]
-> #### 16) *"Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification"* [[paper]()]
-> #### 17) *"Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos"* [[paper]()]
-> #### 18) *"Combined Depth Space Based Architecture Search for Person Re-Identification"* [[paper]()]
-> #### 19) *"Learning 3D Shape Feature for Texture-Insensitive Person Re-Identification"* [[paper]()]
-> #### 20) *"Partial Person Re-Identification With Part-Part Correspondence Learning"* [[paper]()]
-> #### 21) *"Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification"* [[paper]()]
-> #### 22) *"UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification"* [[paper]()]
-> #### 23) *"Person Re-Identification Using Heterogeneous Local Graph Attention Networks"* [[paper]()]
-> #### 24) *"Wide-Baseline Multi-Camera Calibration Using Person Re-Identification"* [[paper]()]
-> #### 25) *"Unsupervised Pre-Training for Person Re-Identification"* [[paper]()]
-> #### 26) *"Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts"* [[paper]()]
+> #### 10) *"Coarse-To-Fine Person Re-Identification With Auxiliary-Domain Classification and Second-Order Information Bottleneck"* 
+> #### 11) *"Farewell to Mutual Information: Variational Distillation for Cross-Modal Person Re-Identification"*
+> #### 12) *"Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification"* 
+> #### 13) *"BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification"* 
+> #### 14) *"Person30K: A Dual-Meta Generalization Network for Person Re-Identification"*
+> #### 15) *"Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer"*
+> #### 16) *"Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification"*
+> #### 17) *"Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos"* 
+> #### 18) *"Combined Depth Space Based Architecture Search for Person Re-Identification"*
+> #### 19) *"Learning 3D Shape Feature for Texture-Insensitive Person Re-Identification"* 
+> #### 20) *"Partial Person Re-Identification With Part-Part Correspondence Learning"* 
+> #### 21) *"Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification"* 
+> #### 22) *"UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification"* 
+> #### 23) *"Person Re-Identification Using Heterogeneous Local Graph Attention Networks"* 
+> #### 24) *"Wide-Baseline Multi-Camera Calibration Using Person Re-Identification"* 
+> #### 25) *"Unsupervised Pre-Training for Person Re-Identification"*
+> #### 26) *"Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts"*
 
 
 - **Vehicle re-identification**
@@ -105,7 +105,7 @@ This is a repository for organizing articles related to person re-identification
 - **Person search**
 
 > #### 1) *"Anchor-Free Person Search"* [[paper](https://arxiv.org/abs/2103.11617)]
-> #### 2) *"Prototype-Guided Saliency Feature Learning for Person Search"* [[paper](https://arxiv.org/abs/2103.11617)]
+> #### 2) *"Prototype-Guided Saliency Feature Learning for Person Search"*
 
 
 - **Object re-identification**
