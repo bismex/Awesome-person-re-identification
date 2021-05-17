@@ -39,7 +39,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Person Re-ID | Vehicle Re-ID | Person search | Person image synthesis, generation, other Re-ID |
 |---           |---   |---|---|---|---|---|
-| CVPR2021 | [click](http://cvpr2021.thecvf.com/node/142) | 33 | 26 | 1 | 2 | 4 |
+| CVPR2021 | [click](http://cvpr2021.thecvf.com/node/142) | 32 | 25 | 1 | 2 | 4 |
 | ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/) | 30 | 23 | 3 | 3 | 1 |
 | CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py) | 34 | 24 | 1 | 6 | 3 |
 | ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | 33 | 4 | 2 | - |
@@ -87,15 +87,14 @@ This is a repository for organizing articles related to person re-identification
 > #### 15) *"Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer"*
 > #### 16) *"Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification"*
 > #### 17) *"Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos"* 
-> #### 18) *"Combined Depth Space Based Architecture Search for Person Re-Identification"*
-> #### 19) *"Learning 3D Shape Feature for Texture-Insensitive Person Re-Identification"* 
-> #### 20) *"Partial Person Re-Identification With Part-Part Correspondence Learning"* 
-> #### 21) *"Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification"* 
-> #### 22) *"UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification"* 
-> #### 23) *"Person Re-Identification Using Heterogeneous Local Graph Attention Networks"* 
-> #### 24) *"Wide-Baseline Multi-Camera Calibration Using Person Re-Identification"* 
-> #### 25) *"Unsupervised Pre-Training for Person Re-Identification"*
-> #### 26) *"Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts"*
+> #### 18) *"Learning 3D Shape Feature for Texture-Insensitive Person Re-Identification"* 
+> #### 19) *"Partial Person Re-Identification With Part-Part Correspondence Learning"* 
+> #### 20) *"Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification"* 
+> #### 21) *"UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification"* 
+> #### 22) *"Person Re-Identification Using Heterogeneous Local Graph Attention Networks"* 
+> #### 23) *"Wide-Baseline Multi-Camera Calibration Using Person Re-Identification"* 
+> #### 24) *"Unsupervised Pre-Training for Person Re-Identification"*
+> #### 25) *"Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts"*
 
 
 - **Vehicle re-identification**
