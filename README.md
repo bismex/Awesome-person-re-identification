@@ -94,7 +94,7 @@ This is a repository for organizing articles related to person re-identification
 > #### 22) *"Person Re-Identification Using Heterogeneous Local Graph Attention Networks"* 
 > #### 23) *"Wide-Baseline Multi-Camera Calibration Using Person Re-Identification"* 
 > #### 24) *"Unsupervised Pre-Training for Person Re-Identification"*
-> #### 25) *"Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts"*
+> #### 25) *"Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts"* [[paper](https://arxiv.org/abs/2105.09156)]
 
 
 - **Vehicle re-identification**
