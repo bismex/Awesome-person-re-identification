@@ -69,51 +69,50 @@ This is a repository for organizing articles related to person re-identification
 
 - **Person re-identification**
 
-> #### 1) *"Meta Batch-Instance Normalization for Generalizable Person Re-Identification"* [[paper](https://arxiv.org/abs/2011.14670)][[github](https://github.com/bismex/MetaBIN)]
-> #### 2) *"Intra-Inter Camera Similarity for Unsupervised Person Re-Identification"* [[paper](https://arxiv.org/abs/2103.11658)][[github](https://github.com/SY-Xuan/IICS)]
-> #### 3) *"Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification"* [[paper](https://arxiv.org/abs/2103.04618)][[github](https://github.com/FlyingRoastDuck/MetaCam_DSCE)]
-> #### 4) *"Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification"* [[paper](https://arxiv.org/abs/2103.04337)]
-> #### 5) *"Lifelong Person Re-Identification via Adaptive Knowledge Accumulation"* [[paper](https://arxiv.org/abs/2103.12462)][[github](https://github.com/TPCD/LifelongReID)]
-> #### 6) *"Group-aware Label Transfer for Domain Adaptive Person Re-identification"* [[paper](https://arxiv.org/abs/2103.12366)][[github](https://github.com/zkcys001/UDAStrongBaseline)]
-> #### 6) *"Combined Depth Space based Architecture Search For Person Re-identification"* [[paper](https://arxiv.org/abs/2104.04163)]
-> #### 7) *"Neural Feature Search for RGB-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2104.02366)]
-> #### 8) *"Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification"* [[paper](https://arxiv.org/abs/2012.00417)][[github](https://github.com/HeliosZhao/M3L)]
-> #### 9) *"Unsupervised Multi-Source Domain Adaptation for Person Re-Identification"* [[paper](https://arxiv.org/abs/2104.12961)]
-> #### 10) *"Coarse-To-Fine Person Re-Identification With Auxiliary-Domain Classification and Second-Order Information Bottleneck"* 
-> #### 11) *"Farewell to Mutual Information: Variational Distillation for Cross-Modal Person Re-Identification"*
-> #### 12) *"Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification"* 
-> #### 13) *"BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification"* 
-> #### 14) *"Person30K: A Dual-Meta Generalization Network for Person Re-Identification"*
-> #### 15) *"Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer"*
-> #### 16) *"Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification"*
-> #### 17) *"Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos"* 
-> #### 18) *"Learning 3D Shape Feature for Texture-Insensitive Person Re-Identification"* 
-> #### 19) *"Partial Person Re-Identification With Part-Part Correspondence Learning"* 
-> #### 20) *"Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification"* 
-> #### 21) *"UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification"* 
-> #### 22) *"Person Re-Identification Using Heterogeneous Local Graph Attention Networks"* 
-> #### 23) *"Wide-Baseline Multi-Camera Calibration Using Person Re-Identification"* 
-> #### 24) *"Unsupervised Pre-Training for Person Re-Identification"*
-> #### 25) *"Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts"* [[paper](https://arxiv.org/abs/2105.09156)]
+> #### 1) *"Meta Batch-Instance Normalization for Generalizable Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Meta_Batch-Instance_Normalization_for_Generalizable_Person_Re-Identification_CVPR_2021_paper.pdf)][[github](https://github.com/bismex/MetaBIN)]
+> #### 2) *"Intra-Inter Camera Similarity for Unsupervised Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xuan_Intra-Inter_Camera_Similarity_for_Unsupervised_Person_Re-Identification_CVPR_2021_paper.pdf)][[github](https://github.com/SY-Xuan/IICS)]
+> #### 3) *"Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Joint_Noise-Tolerant_Learning_and_Meta_Camera_Shift_Adaptation_for_Unsupervised_CVPR_2021_paper.pdf)][[github](https://github.com/FlyingRoastDuck/MetaCam_DSCE)]
+> #### 4) *"Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Watching_You_Global-Guided_Reciprocal_Learning_for_Video-Based_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 5) *"Lifelong Person Re-Identification via Adaptive Knowledge Accumulation"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pu_Lifelong_Person_Re-Identification_via_Adaptive_Knowledge_Accumulation_CVPR_2021_paper.pdf)][[github](https://github.com/TPCD/LifelongReID)]
+> #### 6) *"Group-aware Label Transfer for Domain Adaptive Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Group-aware_Label_Transfer_for_Domain_Adaptive_Person_Re-identification_CVPR_2021_paper.pdf)][[github](https://github.com/zkcys001/UDAStrongBaseline)]
+> #### 6) *"Combined Depth Space based Architecture Search For Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Combined_Depth_Space_Based_Architecture_Search_for_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 7) *"Neural Feature Search for RGB-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Neural_Feature_Search_for_RGB-Infrared_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 8) *"Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_to_Generalize_Unseen_Domains_via_Memory-based_Multi-Source_Meta-Learning_for_CVPR_2021_paper.pdf)][[github](https://github.com/HeliosZhao/M3L)]
+> #### 9) *"Unsupervised Multi-Source Domain Adaptation for Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Unsupervised_Multi-Source_Domain_Adaptation_for_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 10) *"Coarse-To-Fine Person Re-Identification With Auxiliary-Domain Classification and Second-Order Information Bottleneck"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Coarse-To-Fine_Person_Re-Identification_With_Auxiliary-Domain_Classification_and_Second-Order_Information_Bottleneck_CVPR_2021_paper.pdf)]
+> #### 11) *"Farewell to Mutual Information: Variational Distillation for Cross-Modal Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Tian_Farewell_to_Mutual_Information_Variational_Distillation_for_Cross-Modal_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 12) *"Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Joint_Generative_and_Contrastive_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 13) *"BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_BiCnet-TKS_Learning_Efficient_Spatial-Temporal_Representation_for_Video_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 14) *"Person30K: A Dual-Meta Generalization Network for Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Person30K_A_Dual-Meta_Generalization_Network_for_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 15) *"Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Diverse_Part_Discovery_Occluded_Person_Re-Identification_With_Part-Aware_Transformer_CVPR_2021_paper.pdf)]
+> #### 16) *"Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Discover_Cross-Modality_Nuances_for_Visible-Infrared_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 17) *"Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Spatial-Temporal_Correlation_and_Topology_Learning_for_Person_Re-Identification_in_Videos_CVPR_2021_paper.pdf)]
+> #### 18) *"Learning 3D Shape Feature for Texture-Insensitive Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_3D_Shape_Feature_for_Texture-Insensitive_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 19) *"Partial Person Re-Identification With Part-Part Correspondence Learning"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Partial_Person_Re-Identification_With_Part-Part_Correspondence_Learning_CVPR_2021_paper.pdf)]
+> #### 20) *"Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Fine-Grained_Shape-Appearance_Mutual_Learning_for_Cloth-Changing_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 21) *"UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_UnrealPerson_An_Adaptive_Pipeline_Towards_Costless_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 22) *"Person Re-Identification Using Heterogeneous Local Graph Attention Networks"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Person_Re-Identification_Using_Heterogeneous_Local_Graph_Attention_Networks_CVPR_2021_paper.pdf)]
+> #### 23) *"Wide-Baseline Multi-Camera Calibration Using Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Wide-Baseline_Multi-Camera_Calibration_Using_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 24) *"Unsupervised Pre-Training for Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Wide-Baseline_Multi-Camera_Calibration_Using_Person_Re-Identification_CVPR_2021_paper.pdf)]
+> #### 25) *"Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Generalizable_Person_Re-Identification_With_Relevance-Aware_Mixture_of_Experts_CVPR_2021_paper.pdf)]
 
 
 - **Vehicle re-identification**
-> #### 1) *"PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification"*
+> #### 1) *"PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.pdf)]
 
 
 - **Person search**
 
-> #### 1) *"Anchor-Free Person Search"* [[paper](https://arxiv.org/abs/2103.11617)]
-> #### 2) *"Prototype-Guided Saliency Feature Learning for Person Search"*
-
+> #### 1) *"Anchor-Free Person Search"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Anchor-Free_Person_Search_CVPR_2021_paper.pdf)]
+> #### 2) *"Prototype-Guided Saliency Feature Learning for Person Search"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Prototype-Guided_Saliency_Feature_Learning_for_Person_Search_CVPR_2021_paper.pdf)]
 
 - **Object re-identification**
-> #### 1) *"Refining Pseudo Labels With Clustering Consensus Over Generations for Unsupervised Object Re-Identification"*
+> #### 1) *"Refining Pseudo Labels With Clustering Consensus Over Generations for Unsupervised Object Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Refining_Pseudo_Labels_With_Clustering_Consensus_Over_Generations_for_Unsupervised_CVPR_2021_paper.pdf)]
 
 - **Person image synthesis / generation**
-> #### 1) *"PISE: Person Image Synthesis and Editing With Decoupled GAN"*
-> #### 2) *"Learning Semantic Person Image Generation by Region-Adaptive Normalization"*
-> #### 3) *"MUST-GAN: Multi-Level Statistics Transfer for Self-Driven Person Image Generation"*
+> #### 1) *"PISE: Person Image Synthesis and Editing With Decoupled GAN"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_PISE_Person_Image_Synthesis_and_Editing_With_Decoupled_GAN_CVPR_2021_paper.pdf)]
+> #### 2) *"Learning Semantic Person Image Generation by Region-Adaptive Normalization"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Learning_Semantic_Person_Image_Generation_by_Region-Adaptive_Normalization_CVPR_2021_paper.pdf)]
+> #### 3) *"MUST-GAN: Multi-Level Statistics Transfer for Self-Driven Person Image Generation"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_MUST-GAN_Multi-Level_Statistics_Transfer_for_Self-Driven_Person_Image_Generation_CVPR_2021_paper.pdf)]
 
 
 
