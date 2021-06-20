@@ -2,16 +2,19 @@
 
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
-### :high_brightness: Other awesome re-identification
-- [Awesome Cross-modality Person Re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
-- [Awesome Vehicle Re-identification](https://github.com/bismex/Awesome-vehicle-re-identification)
-
-### :high_brightness: Updated 2021-03-04
-- My paper [[link](https://arxiv.org/abs/2011.14670)] accepted to CVPR2021.
-- My 'Re-ID' papers accepted to CVPR for two consecutive years. :blush:
-- ***I plan to receive a doctoral degree in Aug. 2021. I'm currently looking for a full-time job and post-doc position in the US.***
-- ***I am preparing an NIW eb2 VISA.***
+### About Me
+- My paper [[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Meta_Batch-Instance_Normalization_for_Generalizable_Person_Re-Identification_CVPR_2021_paper.pdf)] accepted to CVPR2021. My 'Re-ID' papers accepted to CVPR for two consecutive years. :blush:
+- I have been working at Google as a research intern since June 2021.
+- I am currently located in South Korea, but I am looking for a position as a research scientist in the US. Specifically for this, I am preparing a green card (NIW EB-2).
 - Feel free to visit my **[personal homepage](https://sites.google.com/site/seokeonchoi/)**
+
+### :high_brightness: Other awesome re-identification
+- [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
+- [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification)
+
+### :high_brightness: Updated 2021-06-20
+- CVPR2021 papers are online now [link](https://openaccess.thecvf.com/CVPR2021)
+- PDF links to all CVPR2021 papers have been uploaded.
 
 ---
 
@@ -39,7 +42,7 @@ This is a repository for organizing articles related to person re-identification
 
 | Conference  | Link | #Total | Person Re-ID | Vehicle Re-ID | Person search | Person image synthesis, generation, other Re-ID |
 |---           |---   |---|---|---|---|---|
-| CVPR2021 | [click](http://cvpr2021.thecvf.com/node/142) | 32 | 25 | 1 | 2 | 4 |
+| CVPR2021 | [click](https://openaccess.thecvf.com/CVPR2021) | 32 | 25 | 1 | 2 | 4 |
 | ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/) | 30 | 23 | 3 | 3 | 1 |
 | CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py) | 34 | 24 | 1 | 6 | 3 |
 | ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | 33 | 4 | 2 | - |
