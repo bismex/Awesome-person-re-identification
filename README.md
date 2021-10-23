@@ -21,7 +21,7 @@ This is a repository for organizing articles related to person re-identification
 ## Table of Contents (ongoing)
 
 - [1. Statistics](#1-statistics)
-- [2. Survey](#2-survey
+- [2. Survey](#2-survey)
 - [3. ICCV2021](#3-ICCV2021)
 - [4. CVPR2021](#4-CVPR2021)
 - [5. ECCV2020](#5-ECCV2020)
