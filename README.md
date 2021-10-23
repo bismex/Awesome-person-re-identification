@@ -118,7 +118,7 @@ This is a repository for organizing articles related to person re-identification
 
 - **Person image synthesis / generation**
 
-> #### 1) *"Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf)]
+> #### 1) *"Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.pdf)] [[github](https://github.com/cuiaiyu/dressing-in-order)]
 > #### 2) *"Structure-Transformed Texture-Enhanced Network for Person Image Synthesis"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Structure-Transformed_Texture-Enhanced_Network_for_Person_Image_Synthesis_ICCV_2021_paper.pdf)]
 
 
