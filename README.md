@@ -4,7 +4,6 @@ This is a repository for organizing articles related to person re-identification
 
 ### About Me
 - My paper [[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Meta_Batch-Instance_Normalization_for_Generalizable_Person_Re-Identification_CVPR_2021_paper.pdf)] accepted to CVPR2021. My 'Re-ID' papers accepted to CVPR for two consecutive years. :blush:
-- I have been working at Google as a research intern since June 2021.
 - I am currently located in South Korea, but I am looking for a position as a research scientist in the US. Specifically for this, I am preparing a green card (NIW EB-2).
 - Feel free to visit my **[personal homepage](https://sites.google.com/site/seokeonchoi/)**
 
