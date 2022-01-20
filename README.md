@@ -44,7 +44,7 @@ This is a repository for organizing articles related to person re-identification
 |---           |---   |---|---|---|---|---|
 | ICCV2021 | [click](https://openaccess.thecvf.com/ICCV2021) | 34 | 24 | 2 | 4 | 4 |
 | CVPR2021 | [click](https://openaccess.thecvf.com/CVPR2021) | 32 | 25 | 1 | 2 | 4 |
-| ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/) | 30 | 23 | 3 | 3 | 1 |
+| ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/) | 32 | 25 | 3 | 3 | 1 |
 | CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py) | 34 | 24 | 1 | 6 | 3 |
 | ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py) | 39 | 33 | 4 | 2 | - |
 | CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py) | 29 | 21 | 3 | 2 | 3 |
@@ -209,6 +209,8 @@ This is a repository for organizing articles related to person re-identification
 > #### 21) *"Character Grounding and Re-Identification in Story of Videos and Text Descriptions"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500528.pdf)]
 > #### 22) *"ReAD: Reciprocal Attention Discriminator for Image-to-Video Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590324.pdf)]
 > #### 23) *"Exploiting Temporal Coherence for Self-Supervised One-shot Video Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720256.pdf)]
+> #### 24) *"Unsupervised domain adaptation in the dissimilarity space for person re-identification"*[[paper](https://arxiv.org/pdf/2007.13890.pdf)]
+> #### 25) *"CycAs: Self-supervised Cycle Association for Learning Re-identifiable Descriptions"*[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560069.pdf)]
 
 - **Vehicle re-identification**
 > #### 1) *"Simulating Content Consistent Vehicle Datasets with Attribute Descent"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510766.pdf)]
