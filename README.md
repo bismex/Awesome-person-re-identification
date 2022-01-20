@@ -209,8 +209,8 @@ This is a repository for organizing articles related to person re-identification
 > #### 21) *"Character Grounding and Re-Identification in Story of Videos and Text Descriptions"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500528.pdf)]
 > #### 22) *"ReAD: Reciprocal Attention Discriminator for Image-to-Video Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590324.pdf)]
 > #### 23) *"Exploiting Temporal Coherence for Self-Supervised One-shot Video Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720256.pdf)]
-> #### 24) *"Unsupervised domain adaptation in the dissimilarity space for person re-identification"*[[paper](https://arxiv.org/pdf/2007.13890.pdf)]
-> #### 25) *"CycAs: Self-supervised Cycle Association for Learning Re-identifiable Descriptions"*[[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560069.pdf)]
+> #### 24) *"Unsupervised domain adaptation in the dissimilarity space for person re-identification"* [[paper](https://arxiv.org/pdf/2007.13890.pdf)]
+> #### 25) *"CycAs: Self-supervised Cycle Association for Learning Re-identifiable Descriptions"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560069.pdf)]
 
 - **Vehicle re-identification**
 > #### 1) *"Simulating Content Consistent Vehicle Datasets with Attribute Descent"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510766.pdf)]
