@@ -100,15 +100,17 @@ This is a repository for organizing articles related to person re-identification
 
 > #### 1) *"Self-Supervised Geometric Features Discovery via Interpretable Attention for Vehicle Re-Identification and Beyond"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Self-Supervised_Geometric_Features_Discovery_via_Interpretable_Attention_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf)]
 > #### 2) *"Heterogeneous Relational Complement for Vehicle Re-Identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Heterogeneous_Relational_Complement_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf)]
+ 
+- **Person search (detection + re-id)**
+
+> #### 1) *"End-to-End Trainable Trident Person Search Network Using Adaptive Gradient Propagation"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_End-to-End_Trainable_Trident_Person_Search_Network_Using_Adaptive_Gradient_Propagation_ICCV_2021_paper.pdf)]
+> #### 2) *"Weakly Supervised Person Search With Region Siamese Networks"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_Weakly_Supervised_Person_Search_With_Region_Siamese_Networks_ICCV_2021_paper.pdf)]
 
 
-- **Person search**
+- **Person search (language or attribute)**
 
 > #### 1) *"LapsCore: Language-Guided Person Search via Color Reasoning"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_LapsCore_Language-Guided_Person_Search_via_Color_Reasoning_ICCV_2021_paper.pdf)]
 > #### 2) *"ASMR: Learning Attribute-Based Person Search With Adaptive Semantic Margin Regularizer"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jeong_ASMR_Learning_Attribute-Based_Person_Search_With_Adaptive_Semantic_Margin_Regularizer_ICCV_2021_paper.pdf)] [[github](http://cvlab.postech.ac.kr/research/ASMR/)]
-> #### 3) *"End-to-End Trainable Trident Person Search Network Using Adaptive Gradient Propagation"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_End-to-End_Trainable_Trident_Person_Search_Network_Using_Adaptive_Gradient_Propagation_ICCV_2021_paper.pdf)]
-> #### 4) *"Weakly Supervised Person Search With Region Siamese Networks"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_Weakly_Supervised_Person_Search_With_Region_Siamese_Networks_ICCV_2021_paper.pdf)]
-
 
 - **Object re-identification / de-identification**
 
@@ -163,7 +165,7 @@ This is a repository for organizing articles related to person re-identification
 > #### 1) *"PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.pdf)]
 
 
-- **Person search**
+- **Person search (detection + re-id)**
 
 > #### 1) *"Anchor-Free Person Search"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Anchor-Free_Person_Search_CVPR_2021_paper.pdf)]
 > #### 2) *"Prototype-Guided Saliency Feature Learning for Person Search"* [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Prototype-Guided_Saliency_Feature_Learning_for_Person_Search_CVPR_2021_paper.pdf)]
@@ -217,10 +219,14 @@ This is a repository for organizing articles related to person re-identification
 > #### 2) *"The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590358.pdf)]
 > #### 3) *"Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470324.pdf)]
 
-- **Person search**
+- **Person search (detection + re-id)**
+
 > #### 1) *"Online Multi-modal Person Search in Videos"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570171.pdf)]
-> #### 2) *"ViTAA: Visual-Textual Attributes Alignment in Person Search by Natural Language"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570392.pdf)]
-> #### 3) *"Symbiotic Adversarial Learning for Attribute-Based Person Search"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590222.pdf)]
+
+- **Person search (language or attribute)**
+
+> #### 1) *"ViTAA: Visual-Textual Attributes Alignment in Person Search by Natural Language"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570392.pdf)]
+> #### 2) *"Symbiotic Adversarial Learning for Attribute-Based Person Search"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590222.pdf)]
 
 - **Person image synthesis / generation**
 > #### 1) *"XingGAN for Person Image Generation"* [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700715.pdf)]
@@ -261,14 +267,18 @@ This is a repository for organizing articles related to person re-identification
 
 > #### 1) *"Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.pdf)] 
 
-- **Person search**
+- **Person search (detection + re-id)**
 
 > #### 1) *"Instance Guided Proposal Network for Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Instance_Guided_Proposal_Network_for_Person_Search_CVPR_2020_paper.pdf)]
 > #### 2) *"Bi-Directional Interaction Network for Person Search"*  [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Bi-Directional_Interaction_Network_for_Person_Search_CVPR_2020_paper.pdf)]
 > #### 3) *"Robust Partial Matching for Person Search in the Wild"* [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhong_Robust_Partial_Matching_for_Person_Search_in_the_Wild_CVPR_2020_paper.pdf)] 
-> #### 4) *"Cross-Modal Cross-Domain Moment Alignment Network for Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.pdf)]
-> #### 5) *"TCTS: A Task-Consistent Two-Stage Framework for Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_TCTS_A_Task-Consistent_Two-Stage_Framework_for_Person_Search_CVPR_2020_paper.pdf)]
-> #### 6) *"Norm-Aware Embedding for Efficient Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Norm-Aware_Embedding_for_Efficient_Person_Search_CVPR_2020_paper.pdf)]
+> #### 4) *"TCTS: A Task-Consistent Two-Stage Framework for Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_TCTS_A_Task-Consistent_Two-Stage_Framework_for_Person_Search_CVPR_2020_paper.pdf)]
+> #### 5) *"Norm-Aware Embedding for Efficient Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Norm-Aware_Embedding_for_Efficient_Person_Search_CVPR_2020_paper.pdf)]
+
+
+- **Person search (language or attribute)**
+
+> #### 1) *"Cross-Modal Cross-Domain Moment Alignment Network for Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.pdf)]
 
 - **Person image synthesis / generation**
 
@@ -324,10 +334,14 @@ This is a repository for organizing articles related to person re-identification
 > #### 3) *"A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)]
 > #### 4) *"Vehicle Re-Identification With Viewpoint-Aware Metric Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)]
 
-- **Person search**
+- **Person search (detection + re-id)**
+
+> #### 1) *"Re-ID Driven Localization Refinement for Person Search"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Re-ID_Driven_Localization_Refinement_for_Person_Search_ICCV_2019_paper.pdf)]
+
+
+- **Person search (language or attribute)**
 
 > #### 1) *"Person Search by Text Attribute Query As Zero-Shot Learning"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Person_Search_by_Text_Attribute_Query_As_Zero-Shot_Learning_ICCV_2019_paper.pdf)]
-> #### 2) *"Re-ID Driven Localization Refinement for Person Search"* [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Re-ID_Driven_Localization_Refinement_for_Person_Search_ICCV_2019_paper.pdf)]
 
 ---
 
@@ -365,10 +379,12 @@ This is a repository for organizing articles related to person re-identification
 > #### 2) *"CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)]
 > #### 3) *"VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)]
 
-- **Person search**
 
-> #### 1) *"Learning Context Graph for Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Learning_Context_Graph_for_Person_Search_CVPR_2019_paper.pdf)] [[github](https://github.com/sjtuzq/person_search_gcn)]
-> #### 2) *"Query-guided End-to-End Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Munjal_Query-Guided_End-To-End_Person_Search_CVPR_2019_paper.pdf)] [[github](https://github.com/munjalbharti/Query-guided-End-to-End-Person-Search)]
+- **Person search (detection + re-id)**
+
+> #### 1) *"Query-guided End-to-End Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Munjal_Query-Guided_End-To-End_Person_Search_CVPR_2019_paper.pdf)] [[github](https://github.com/munjalbharti/Query-guided-End-to-End-Person-Search)]
+> #### 2) *"Learning Context Graph for Person Search"* [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Learning_Context_Graph_for_Person_Search_CVPR_2019_paper.pdf)] [[github](https://github.com/sjtuzq/person_search_gcn)]
+
 
 
 - **Person image synthesis / generation**
@@ -400,7 +416,7 @@ This is a repository for organizing articles related to person re-identification
 > #### 14) *"Adversarial Open-World Person Re-Identification"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiang_Li_Adversarial_Open-World_Person_ECCV_2018_paper.pdf)]
 > #### 15) *"Integrating Egocentric Videos in Top-view Surveillance Videos: Joint Identification and Temporal Alignment"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shervin_Ardeshir_Integrating_Egocentric_Videos_ECCV_2018_paper.pdf)]
 
-- **Person search**
+- **Person search (detection + re-id)**
 
 > #### 1) *"RCAA: Relational Context-Aware Agents for Person Search"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaojun_Chang_RCAA_Relational_Context-Aware_ECCV_2018_paper.pdf)]
 > #### 2) *"Person Search in Videos with One Portrait Through Visual and Temporal Links"* [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.pdf)]
@@ -473,7 +489,7 @@ This is a repository for organizing articles related to person re-identification
 
 > #### 1) *"Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)]
 
-- **Person search**
+- **Person search (detection + re-id)**
 
 > #### 1) *"Neural Person Search Machines"* [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Neural_Person_Search_ICCV_2017_paper.pdf)]
 
@@ -500,10 +516,13 @@ This is a repository for organizing articles related to person re-identification
 > #### 13) *"Pose-Aware Person Recognition"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kumar_Pose-Aware_Person_Recognition_CVPR_2017_paper.pdf)]
 > #### 14) *"Person Re-Identification in the Wild"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identification_in_CVPR_2017_paper.pdf)]
 
-- **Person search**
+- **Person search (detection + re-id)**
+
+> #### 1) *"Joint Detection and Identification Feature Learning for Person Search"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)]
+
+- **Person search (language or attribute)**
 
 > #### 1) *"Person Search with Natural Language Description"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Person_Search_With_CVPR_2017_paper.pdf)]
-> #### 2) *"Joint Detection and Identification Feature Learning for Person Search"* [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)]
 
 ---
 
