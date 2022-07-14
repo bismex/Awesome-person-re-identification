@@ -43,10 +43,10 @@ This is a repository for organizing articles related to person re-identification
 ## 1. Statistics
 
 | Conference  | Link | Person Re-ID | Vehicle Re-ID | Person search | Person image synthesis, generation, other Re-ID |
-|---           |---   |---|---|---|---|---|
-| CVPR2022 | [click](https://openaccess.thecvf.com/CVPR2022) | 23 | 0 | 4 | 6 |
-| ICCV2021 | [click](https://openaccess.thecvf.com/ICCV2021) | 24 | 2 | 4 | 4 |
-| CVPR2021 | [click](https://openaccess.thecvf.com/CVPR2021)  | 25 | 1 | 2 | 4 |
+|---           |---   |---|---|---|---|
+| CVPR2022 | [Click](https://openaccess.thecvf.com/CVPR2022) | 23 | 0 | 4 | 6 |
+| ICCV2021 | [Click](https://openaccess.thecvf.com/ICCV2021) | 24 | 2 | 4 | 4 |
+| CVPR2021 | [Click](https://openaccess.thecvf.com/CVPR2021)  | 25 | 1 | 2 | 4 |
 | ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/)  | 25 | 3 | 3 | 1 |
 | CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py)  | 24 | 1 | 6 | 3 |
 | ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py)  | 33 | 4 | 2 | - |
@@ -72,6 +72,8 @@ This is a repository for organizing articles related to person re-identification
 ---
 
 ## 3. CVPR2022
+
+- **Person re-identification**
 
 > #### 1) *"Cloning Outfits From Real-World Images to 3D Characters for Generalizable Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Cloning_Outfits_From_Real-World_Images_to_3D_Characters_for_Generalizable_CVPR_2022_paper.pdf)]
 > #### 2) *"Unleashing Potential of Unsupervised Pre-Training With Intra-Identity Regularization for Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Unleashing_Potential_of_Unsupervised_Pre-Training_With_Intra-Identity_Regularization_for_Person_CVPR_2022_paper.pdf)]
@@ -122,6 +124,8 @@ This is a repository for organizing articles related to person re-identification
 ---
 
 ## 4. ICCV2021
+
+- **Person re-identification**
 
 > #### 1) *"Cross-Modality Person Re-Identification via Modality Confusion and Center Aggregation"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hao_Cross-Modality_Person_Re-Identification_via_Modality_Confusion_and_Center_Aggregation_ICCV_2021_paper.pdf)]
 > #### 2) *"Clothing Status Awareness for Long-Term Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Clothing_Status_Awareness_for_Long-Term_Person_Re-Identification_ICCV_2021_paper.pdf)]
