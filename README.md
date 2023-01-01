@@ -4,16 +4,18 @@ This is a repository for organizing articles related to person re-identification
 
 ### About Me
 - My paper [[link](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Meta_Batch-Instance_Normalization_for_Generalizable_Person_Re-Identification_CVPR_2021_paper.pdf)] accepted to CVPR2021. My 'Re-ID' papers accepted to CVPR for two consecutive years. :blush:
-- I am currently located in South Korea, but I am looking for a position as a research scientist in the US. Specifically for this, I am preparing a green card (NIW EB-2).
+- I am currently located in South Korea, but I am looking for a position as a research scientist in the US. Specifically for this, I am preparing a green card (NIW EB1/A).
 - Feel free to visit my **[personal homepage](https://sites.google.com/site/seokeonchoi/)**
 
 ### :high_brightness: Other awesome re-identification
 - [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
 - [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification)
 
-### :high_brightness: Updated 2022-07-14
-- CVPR2022 papers are online now [link](https://openaccess.thecvf.com/CVPR2022)
-- PDF links to all CVPR2022 papers have been uploaded.
+
+### :high_brightness: Updated 2023-01-01
+- ECCV2022 papers are online now [link](https://eccv2022.ecva.net/program/accepted-papers/)
+- PDF links to all ECCV2022 papers have been uploaded.
+
 
 
 ---
@@ -22,39 +24,41 @@ This is a repository for organizing articles related to person re-identification
 
 - [1. Statistics](#1-statistics)
 - [2. Survey](#2-survey)
-- [3. CVPR2022](#3-CVPR2022)
-- [4. ICCV2021](#4-ICCV2021)
-- [5. CVPR2021](#5-CVPR2021)
-- [6. ECCV2020](#6-ECCV2020)
-- [7. CVPR2020](#7-CVPR2020)
-- [8. ICCV2019](#8-ICCV2019)
-- [9. CVPR2019](#9-CVPR2019)
-- [10. ECCV2018](#10-ECCV2018)
-- [11. CVPR2018](#11-CVPR2018)
-- [12. ICCV2017](#12-ICCV2017)
-- [13. CVPR2017](#13-CVPR2017)
-- [14. Others](#14-others)
-- [15. Datasets](#15-datasets)
-- [16. Codes](#16-codes)
+- [3. ECCV2022](#3-ECCV2022)
+- [4. CVPR2022](#4-CVPR2022)
+- [5. ICCV2021](#5-ICCV2021)
+- [6. CVPR2021](#6-CVPR2021)
+- [7. ECCV2020](#7-ECCV2020)
+- [8. CVPR2020](#8-CVPR2020)
+- [9. ICCV2019](#9-ICCV2019)
+- [10. CVPR2019](#10-CVPR2019)
+- [11. ECCV2018](#11-ECCV2018)
+- [12. CVPR2018](#12-CVPR2018)
+- [13. ICCV2017](#13-ICCV2017)
+- [14. CVPR2017](#14-CVPR2017)
+- [15. Others](#15-others)
+- [16. Datasets](#16-datasets)
+- [17. Codes](#17-codes)
 
 ---
 
 
 ## 1. Statistics
 
-| Conference  | Link | Person Re-ID | Vehicle Re-ID | Person search | Person image synthesis, generation, other Re-ID |
-|---           |---   |---|---|---|---|
-| CVPR2022 | [Click](https://openaccess.thecvf.com/CVPR2022) | 23 | 0 | 4 | 6 |
-| ICCV2021 | [Click](https://openaccess.thecvf.com/ICCV2021) | 24 | 2 | 4 | 4 |
-| CVPR2021 | [Click](https://openaccess.thecvf.com/CVPR2021)  | 25 | 1 | 2 | 4 |
-| ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/)  | 25 | 3 | 3 | 1 |
-| CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py)  | 24 | 1 | 6 | 3 |
-| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py)  | 33 | 4 | 2 | - |
-| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py)  | 21 | 3 | 2 | 3 |
-| ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 15 | - | 4 | - |
-| CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 30 | 1 | - | - |
-| ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 14 | 1 | 1 | - |
-| CVPR2017 | [Click](http://openaccess.thecvf.com/CVPR2017.py)  | 14 | - | 2 | - |
+| Conference  | Link | Person Re-ID | Vehicle Re-ID |
+|---           |---   |---|---|
+| ECCV2022 | [Click](https://eccv2022.ecva.net/program/accepted-papers/) | 10 | 2 |
+| CVPR2022 | [Click](https://openaccess.thecvf.com/CVPR2022) | 23 | 0 |
+| ICCV2021 | [Click](https://openaccess.thecvf.com/ICCV2021) | 24 | 2 |
+| CVPR2021 | [Click](https://openaccess.thecvf.com/CVPR2021)  | 25 | 1 |
+| ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/)  | 25 | 3 |
+| CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py)  | 24 | 1 |
+| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py)  | 33 | 4 |
+| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py)  | 21 | 3 | 
+| ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 15 | - | 
+| CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 30 | 1 | 
+| ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 14 | 1 | 
+| CVPR2017 | [Click](http://openaccess.thecvf.com/CVPR2017.py)  | 14 | - | 
 
 ---
 
@@ -69,9 +73,64 @@ This is a repository for organizing articles related to person re-identification
 > #### 7) *"Appearance Descriptors for Person Re-identification: a Comprehensive Review"*, arXiv 2013 [[paper](https://arxiv.org/abs/1307.5748)]
 
 
+
 ---
 
-## 3. CVPR2022
+## 3. ECCV2022
+
+- **Person re-identification**
+
+> #### 1) *"Optimal Transport for Label-Efficient Visible-Infrared Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840091.pdf)]
+> #### 2) *"PASS: Part-Aware Self-Supervised Pre-Training for Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740192.pdf)]
+> #### 3) *"Adaptive Cross-Domain Learning for Generalizable Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740209.pdf)]
+> #### 4) *"Dynamically Transformed Instance Normalization Network for Generalizable Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740279.pdf)]
+> #### 5) *"Mimic Embedding via Adaptive Aggregation: Learning Generalizable Person Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740362.pdf)]
+> #### 6) *"Counterfactual Intervention Feature Transfer for Visible-Infrared Person Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860371.pdf)]
+> #### 7) *"Modality Synergy Complement Learning with Cascaded Aggregation for Visible-Infrared Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740450.pdf)]
+> #### 8) *"Cross-Modality Transformer for Visible-Infrared Person Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740467.pdf)]
+> #### 9) *"CAViT: Contextual Alignment Vision Transformer for Video Object Re-identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740535.pdf)]
+> #### 10) *"Reliability-Aware Prediction via Uncertainty Learning for Person Image Retrieval"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740572.pdf)]
+
+
+- **Vehicle re-identification**
+
+> #### 1) *"Unstructured Feature Decoupling for Vehicle Re-Identification"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740328.pdf)]
+> #### 2) *"RVSL: Robust Vehicle Similarity Learning in Real Hazy Scenes Based on Semi-supervised Learning"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740415.pdf)]
+
+
+- **Person search (detection + re-id)**
+
+> #### 1) *"Domain Adaptive Person Search"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740295.pdf)]
+> #### 2) *"OIMNet++: Prototypical Normalization and Localization-aware Learning for Person Search"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700615.pdf)]
+
+
+- **Person search (language or attribute)**
+
+> #### 1) *"A Simple and Robust Correlation Filtering method for text-based person search"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950719.pdf)]
+
+
+- **Object re-identification / de-identification**
+
+> #### 1) *"Negative Samples are at Large: Leveraging Hard-distance Elastic Loss for Re-identification"* [[paper](https://arxiv.org/pdf/2207.09884.pdf)]
+
+
+- **Person image synthesis / generation / reconstruction / 3D human**
+
+> #### 1) *"Cross Attention Based Style Distribution for Controllable Person Image Synthesis"* [[paper](https://arxiv.org/pdf/2208.00712.pdf)]
+> #### 2) *"FLEX: Extrinsic Parameters-free Multi-view 3D Human Motion Reconstruction"* [[paper](https://arxiv.org/pdf/2105.01937.pdf)]
+> #### 3) *"DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras"* [[paper](https://arxiv.org/pdf/2207.08000.pdf)]
+> #### 4) *"UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation"* [[paper](https://arxiv.org/pdf/2207.09835.pdf)]
+> #### 5) *"3D Clothed Human Reconstruction in the Wild"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620177.pdf)]
+> #### 6) *"Compositional Human-Scene Interaction Synthesis with Semantic Control"* [[paper](https://arxiv.org/pdf/2207.12824.pdf)]
+> #### 7) *"IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-view Human Reconstruction"* [[paper](https://arxiv.org/pdf/2211.07955.pdf)]
+> #### 8) *"PoseGPT: Quantization-based 3D Human Motion Generation and Forecasting"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660409.pdf)]
+> #### 9) *"Implicit Neural Representations for Variable Length Human Motion Generation"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770359.pdf)]
+> #### 10) *"3D-Aware Semantic-Guided Generative Model for Human Synthesis"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750337.pdf)]
+
+
+---
+
+## 4. CVPR2022
 
 - **Person re-identification**
 
@@ -123,7 +182,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 4. ICCV2021
+## 5. ICCV2021
 
 - **Person re-identification**
 
@@ -185,7 +244,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 5. CVPR2021
+## 6. CVPR2021
 
 - **Person re-identification**
 
@@ -241,7 +300,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 6. ECCV2020
+## 7. ECCV2020
 
 - **Person re-identification**
 
@@ -291,7 +350,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 7. CVPR2020
+## 8. CVPR2020
 
 - **Person re-identification**
 
@@ -345,7 +404,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 8. ICCV2019
+## 9. ICCV2019
 
 - **Person re-identification**
 
@@ -403,7 +462,7 @@ This is a repository for organizing articles related to person re-identification
 ---
 
 
-## 9. CVPR2019
+## 10. CVPR2019
 
 - **Person re-identification**
 
@@ -453,7 +512,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 10. ECCV2018
+## 11. ECCV2018
 
 - **Person re-identification**
 
@@ -482,7 +541,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 11. CVPR2018
+## 12. CVPR2018
 
 - **Person re-identification**
 
@@ -523,7 +582,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 12. ICCV2017
+## 13. ICCV2017
 
 - **Person re-identification**
 
@@ -554,7 +613,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 13. CVPR2017
+## 14. CVPR2017
 
 - **Person re-identification**
 
@@ -583,7 +642,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 14. Others
+## 15. Others
 
 > #### 1) *"Unsupervised Person Re-identification: Clustering and Fine-tuning"* [[paper](https://arxiv.org/pdf/1705.10444.pdf)] [[Github](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
 
@@ -616,7 +675,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ---
 
-## 15. Datasets
+## 16. Datasets
 
 - Awesome re-id dataset [[github](https://github.com/NEU-Gou/awesome-reid-dataset)]
 - Market-1501 Leaderboard [[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
@@ -625,7 +684,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ---
 
-## 16. Codes
+## 17. Codes
 
 - Library for deep-learning person re-identification [[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid)] [[Openreid(pytorch)](https://github.com/Cysu/open-reid)]
 - Person reid baseline [[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501)] [[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline)] [[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline)] [[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch)] [[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN)] [[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN)] [[DGNet(pytorch)](https://github.com/NVlabs/DG-Net)]
@@ -677,6 +736,10 @@ https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_lea
 
 ### :high_brightness: [Notice]
 The github page will be revised largely at 2020 to provide more convenient information. For example changing category, adding ML paper, adding github code, etc.
+
+### :high_brightness: Updated 2022-07-14
+- CVPR2022 papers are online now [link](https://openaccess.thecvf.com/CVPR2022)
+- PDF links to all CVPR2022 papers have been uploaded.
 
 ### :high_brightness: Updated 2021-10-23
 - ICCV2021 papers are online now [link](https://openaccess.thecvf.com/ICCV2021)
