@@ -11,20 +11,16 @@ This is a repository for organizing articles related to person re-identification
 - [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
 - [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification)
 
-
 ### :high_brightness: Updated 2023-08-11
 - PDF links to all WACV2023 papers have been uploaded.
-- Template is updated.
-
+- PDF links to all CVPR2023 papers have been uploaded.
+- Template is updated (The conference list has been changed reversely).
 
 ### :high_brightness: Updated 2023-01-01
 - ECCV2022 papers are online now [link](https://eccv2022.ecva.net/program/accepted-papers/)
 - PDF links to all ECCV2022 papers have been uploaded.
 
-
-
 ---
-
 
 ## Lists of conference papers
 
@@ -41,6 +37,7 @@ This is a repository for organizing articles related to person re-identification
 - [11. CVPR2022](#11-CVPR2022)
 - [12. ECCV2022](#12-ECCV2022)
 - [13. WACV2023](#13-WACV2023)
+- [14. CVPR2023](#14-CVPR2023)
 
 ---
 
@@ -71,6 +68,7 @@ This is a repository for organizing articles related to person re-identification
 | CVPR2022 | [Click](https://openaccess.thecvf.com/CVPR2022) | 23 | 0 |
 | ECCV2022 | [Click](https://eccv2022.ecva.net/program/accepted-papers/) | 10 | 2 |
 | WACV2023 | [Click](https://openaccess.thecvf.com/WACV2023) | 4 | 0 |
+| CVPR2023 | [Click](https://openaccess.thecvf.com/CVPR2023?day=all)  | 11 | - | 
 
 
 ---
@@ -663,11 +661,28 @@ This is a repository for organizing articles related to person re-identification
 
 
 
+---
 
+## 14. CVPR2023
 
+- **Person re-identification**
+> #### 1) *"Diverse Embedding Expansion Network and Low-Light Cross-Modality Benchmark for Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Diverse_Embedding_Expansion_Network_and_Low-Light_Cross-Modality_Benchmark_for_Visible-Infrared_CVPR_2023_paper.pdf)]
+> #### 2) *"PHA: Patch-Wise High-Frequency Augmentation for Transformer-Based Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_PHA_Patch-Wise_High-Frequency_Augmentation_for_Transformer-Based_Person_Re-Identification_CVPR_2023_paper.pdf)]
+> #### 3) *"Shape-Erased Feature Learning for Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Shape-Erased_Feature_Learning_for_Visible-Infrared_Person_Re-Identification_CVPR_2023_paper.pdf)]
+> #### 4) *"TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning With Structure-Trajectory Prompted Reconstruction for Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Rao_TranSG_Transformer-Based_Skeleton_Graph_Prototype_Contrastive_Learning_With_Structure-Trajectory_Prompted_CVPR_2023_paper.pdf)]
+> #### 5) *"PartMix: Regularization Strategy To Learn Part Discovery for Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_PartMix_Regularization_Strategy_To_Learn_Part_Discovery_for_Visible-Infrared_Person_CVPR_2023_paper.pdf)]
+> #### 6) *"Event-Guided Person Re-Identification via Sparse-Dense Complementary Learning"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Event-Guided_Person_Re-Identification_via_Sparse-Dense_Complementary_Learning_CVPR_2023_paper.pdf)]
+> #### 7) *"Clothing-Change Feature Augmentation for Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_Clothing-Change_Feature_Augmentation_for_Person_Re-Identification_CVPR_2023_paper.pdf)]
+> #### 8) *"Unsupervised Visible-Infrared Person Re-Identification via Progressive Graph Matching and Alternate Learning"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Unsupervised_Visible-Infrared_Person_Re-Identification_via_Progressive_Graph_Matching_and_Alternate_CVPR_2023_paper.pdf)]
+> #### 9) *"Towards Modality-Agnostic Person Re-Identification With Descriptive Query"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf)]
+> #### 10) *"An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_An_In-Depth_Exploration_of_Person_Re-Identification_and_Gait_Recognition_in_CVPR_2023_paper.pdf)]
+> #### 11) *"Good Is Bad: Causality Inspired Cloth-Debiasing for Cloth-Changing Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Good_Is_Bad_Causality_Inspired_Cloth-Debiasing_for_Cloth-Changing_Person_Re-Identification_CVPR_2023_paper.pdf)]
 
+- **Person image synthesis / generation / reconstruction / 3D human**
 
-
+> #### 1) *"3DAvatarGAN: Bridging Domains for Personalized Editable Avatars"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Abdal_3DAvatarGAN_Bridging_Domains_for_Personalized_Editable_Avatars_CVPR_2023_paper.pdf)]
+> #### 2) *"Person Image Synthesis via Denoising Diffusion Model"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bhunia_Person_Image_Synthesis_via_Denoising_Diffusion_Model_CVPR_2023_paper.pdf)]
+> #### 3) *"Linking Garment With Person via Semantically Associated Landmarks for Virtual Try-On"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.pdf)]
 
 
 
