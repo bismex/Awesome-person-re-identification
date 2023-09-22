@@ -38,7 +38,7 @@ This is a repository for organizing articles related to person re-identification
 - [12. ECCV2022](#12-ECCV2022)
 - [13. WACV2023](#13-WACV2023)
 - [14. CVPR2023](#14-CVPR2023)
-- [15. ACM MM2023](#15-ACM MM2023)
+- [15. ACMMM2023](#15-ACMMM2023)
 
 ---
 
@@ -689,7 +689,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## 15. ACM MM2023
+## 15. ACMMM2023
 
 - <ins>***Text-based person re-identification***</ins>
 > ###### 1) *"Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark"* [[paper](https://arxiv.org/abs/2306.02898)]
