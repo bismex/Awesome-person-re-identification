@@ -38,6 +38,7 @@ This is a repository for organizing articles related to person re-identification
 - [12. ECCV2022](#12-ECCV2022)
 - [13. WACV2023](#13-WACV2023)
 - [14. CVPR2023](#14-CVPR2023)
+- [15. ACMMM2023](#15-ACMMM2023)
 
 ---
 
@@ -684,8 +685,10 @@ This is a repository for organizing articles related to person re-identification
 > ###### 2) *"Person Image Synthesis via Denoising Diffusion Model"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bhunia_Person_Image_Synthesis_via_Denoising_Diffusion_Model_CVPR_2023_paper.pdf)]
 > ###### 3) *"Linking Garment With Person via Semantically Associated Landmarks for Virtual Try-On"* [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.pdf)]
 
+## 15. ACMMM2023
 
-
+- <ins>***Person search (language or attribute)***</ins>
+> ###### 1) *"Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark"* [[paper](https://zdzheng.xyz/files/MM23_Yang.pdf)] [[github](https://github.com/Shuyu-XJTU/APTM)]
 
 ---
 
