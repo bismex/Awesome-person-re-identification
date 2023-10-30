@@ -691,8 +691,8 @@ This is a repository for organizing articles related to person re-identification
 
 ## 15. ACMMM2023
 
-- <ins>***Text-based person re-identification***</ins>
-> ###### 1) *"Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark"* [[paper](https://arxiv.org/abs/2306.02898)]
+- <ins>***Person search (language or attribute)***</ins>
+> ###### 1) *"Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark"* [[paper](https://zdzheng.xyz/files/MM23_Yang.pdf)] [[github](https://github.com/Shuyu-XJTU/APTM)]
 
 
 
