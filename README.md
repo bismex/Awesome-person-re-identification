@@ -10,8 +10,8 @@ This is a repository for organizing articles related to person re-identification
 - [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification)
 
 ### :high_brightness: Other recommended related topics 
-- Trajectory prediction [github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) [github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction)
-- Multi-camera multi-object tracking (MCMOT) [github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) [github2](https://github.com/SherryJYC/paper-MTMC) [workshop:AI-city-challange](https://www.aicitychallenge.org/) [workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)
+- Trajectory prediction [[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction)] [[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction)]
+- Multi-camera multi-object tracking (MCMOT) [[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking)] [[github2](https://github.com/SherryJYC/paper-MTMC)] [[workshop:AI-city-challange](https://www.aicitychallenge.org/)] [[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
 
 ### :high_brightness: Updated 2024-06-17
 - I have revised the page so that the most recent conferences are listed at the top.
