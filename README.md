@@ -50,9 +50,6 @@ This is a repository for organizing articles related to person re-identification
 
 ## Statistics
 
-- CVPR2024 papers will be uploaded soon [link](https://openaccess.thecvf.com/CVPR2024)
-- WACV2024 papers will be uploaded soon [link](https://openaccess.thecvf.com/WACV2024)
-- ECCV2023 papers will be uploaded soon [link](https://openaccess.thecvf.com/ICCV2023)
 | Conference  | Link | Person Re-ID | Vehicle Re-ID |
 |---           |---   |---|---|
 | CVPR2024 | [Click](https://openaccess.thecvf.com/CVPR2024)  | - | - | 
