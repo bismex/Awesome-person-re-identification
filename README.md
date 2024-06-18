@@ -14,88 +14,113 @@ This is a repository for organizing articles related to person re-identification
 - Multi-camera multi-object tracking (MCMOT) [[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking)] [[github2](https://github.com/SherryJYC/paper-MTMC)] [[workshop:AI-city-challange](https://www.aicitychallenge.org/)] [[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
 
 ### :high_brightness: Updated 2024-06-17
-- I have revised the page so that the most recent conferences are listed at the top.
-- CVPR2024 papers will be uploaded soon [link](https://openaccess.thecvf.com/CVPR2024)
-- WACV2024 papers will be uploaded soon [link](https://openaccess.thecvf.com/WACV2024)
-- ECCV2023 papers will be uploaded soon [link](https://openaccess.thecvf.com/ICCV2023)
+- I have revised the page to list the most recent conferences at the top.
+- CVPR2024, WACV2024, ECCV2023 papers are updated 
 
-## Lists of conference papers
+---
 
-- [CVPR2024](#CVPR2024)
-- [WACV2024](#WACV2024)
-- [ICCV2023](#ICCV2023)
-- [ACMMM2023](#ACMMM2023)
-- [CVPR2023](#CVPR2023)
-- [WACV2023](#WACV2023)
-- [ECCV2022](#ECCV2022)
-- [CVPR2022](#CVPR2022)
-- [ICCV2021](#ICCV2021)
-- [CVPR2021](#CVPR2021)
-- [ECCV2020](#ECCV2020)
-- [CVPR2020](#CVPR2020)
-- [ICCV2019](#ICCV2019)
-- [CVPR2019](#CVPR2019)
-- [ECCV2018](#ECCV2018)
-- [CVPR2018](#CVPR2018)
-- [ICCV2017](#ICCV2017)
-- [CVPR2017](#CVPR2017)
+## Statistics
+
+| Conference  | Webpage Link | Person Re-ID | Vehicle Re-ID |
+|---           |---   |---|---|
+| [CVPR2024](#CVPR2024) | [Click](https://openaccess.thecvf.com/CVPR2024)  | 17 | 1 | 
+| [WACV2024](#WACV2024) | [Click](https://openaccess.thecvf.com/WACV2024)  | 7 | 0 | 
+| [ICCV2023](#ICCV2023) | [Click](https://openaccess.thecvf.com/ICCV2023)  | 13 | 0 | 
+| [ACMMM2023](#ACMMM2023) | -  | - | - | 
+| [CVPR2023](#CVPR2023) | [Click](https://openaccess.thecvf.com/CVPR2023)  | - | - | 
+| [WACV2023](#WACV2023) | [Click](https://openaccess.thecvf.com/WACV2023) | 4 | 0 |
+| [ECCV2022](#ECCV2022) | [Click](https://eccv2022.ecva.net/program/accepted-papers/) | 10 | 2 |
+| [CVPR2022](#CVPR2022) | [Click](https://openaccess.thecvf.com/CVPR2022) | 23 | 0 |
+| [ICCV2021](#ICCV2021) | [Click](https://openaccess.thecvf.com/ICCV2021) | 24 | 2 |
+| [CVPR2021](#CVPR2021) | [Click](https://openaccess.thecvf.com/CVPR2021)  | 25 | 1 |
+| [ECCV2020](#ECCV2020) | [Click](https://eccv2020.eu/accepted-papers/)  | 25 | 3 |
+| [CVPR2020](#CVPR2020) | [Click](http://openaccess.thecvf.com/CVPR2020.py)  | 24 | 1 |
+| [ICCV2019](#ICCV2019) | [Click](http://openaccess.thecvf.com/ICCV2019.py)  | 33 | 4 |
+| [CVPR2019](#CVPR2019) | [Click](http://openaccess.thecvf.com/CVPR2019.py)  | 21 | 3 | 
+| [ECCV2018](#ECCV2018) | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 15 | - | 
+| [CVPR2018](#CVPR2018) | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 30 | 1 | 
+| [ICCV2017](#ICCV2017) | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 14 | 1 | 
+| [CVPR2017](#CVPR2017) | [Click](http://openaccess.thecvf.com/CVPR2017.py)  | 14 | - | 
 
 ---
 
 ## Other contents
 
-- [a. Survey](#a-survey)
-- [b. Others](#b-others)
-- [c. Datasets](#c-datasets)
-- [d. Codes](#d-codes)
-
----
-
-
-## Statistics
-
-| Conference  | Link | Person Re-ID | Vehicle Re-ID |
-|---           |---   |---|---|
-| CVPR2024 | [Click](https://openaccess.thecvf.com/CVPR2024)  | - | - | 
-| WACV2024 | [Click](https://openaccess.thecvf.com/WACV2024)  | - | - | 
-| ICCV2023 | [Click](https://openaccess.thecvf.com/ICCV2023)  | - | - | 
-| ACMMM2023 | -  | - | - | 
-| CVPR2023 | [Click](https://openaccess.thecvf.com/CVPR2023)  | - | - | 
-| WACV2023 | [Click](https://openaccess.thecvf.com/WACV2023) | 4 | 0 |
-| ECCV2022 | [Click](https://eccv2022.ecva.net/program/accepted-papers/) | 10 | 2 |
-| CVPR2022 | [Click](https://openaccess.thecvf.com/CVPR2022) | 23 | 0 |
-| ICCV2021 | [Click](https://openaccess.thecvf.com/ICCV2021) | 24 | 2 |
-| CVPR2021 | [Click](https://openaccess.thecvf.com/CVPR2021)  | 25 | 1 |
-| ECCV2020 | [Click](https://eccv2020.eu/accepted-papers/)  | 25 | 3 |
-| CVPR2020 | [Click](http://openaccess.thecvf.com/CVPR2020.py)  | 24 | 1 |
-| ICCV2019 | [Click](http://openaccess.thecvf.com/ICCV2019.py)  | 33 | 4 |
-| CVPR2019 | [Click](http://openaccess.thecvf.com/CVPR2019.py)  | 21 | 3 | 
-| ECCV2018 | [Click](http://openaccess.thecvf.com/ECCV2018.py)  | 15 | - | 
-| CVPR2018 | [Click](http://openaccess.thecvf.com/CVPR2018.py)  | 30 | 1 | 
-| ICCV2017 | [Click](http://openaccess.thecvf.com/ICCV2017.py)  | 14 | 1 | 
-| CVPR2017 | [Click](http://openaccess.thecvf.com/CVPR2017.py)  | 14 | - | 
-
+- [Survey](#survey)
+- [Others](#others)
+- [Datasets](#datasets)
+- [Codes](#codes)
 
 ---
 
 ## CVPR2024
 
-- Will be updated soon
+- <ins>***Person re-identification***</ins>
+> ###### 1) *"Harnessing the Power of MLLMs for Transferable Text-to-Image Person ReID"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Harnessing_the_Power_of_MLLMs_for_Transferable_Text-to-Image_Person_ReID_CVPR_2024_paper.pdf)] [[github](https://github.com/WentaoTan/MLLM4Text-ReID)]
+> ###### 2) *"Learning Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_Learning_Continual_Compatible_Representation_for_Re-indexing_Free_Lifelong_Person_Re-identification_CVPR_2024_paper.pdf)] [[github](https://github.com/PKU-ICST-MIPL/C2R_CVPR2024)]
+> ###### 3) *"Attribute-Guided Pedestrian Retrieval: Bridging Person Re-ID with Internal Attribute Variability"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Attribute-Guided_Pedestrian_Retrieval_Bridging_Person_Re-ID_with_Internal_Attribute_Variability_CVPR_2024_paper.pdf)] 
+> ###### 4) *"LiDAR-based Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_LiDAR-based_Person_Re-identification_CVPR_2024_paper.pdf)] [[github](https://github.com/GWxuan/ReID3D)]
+> ###### 5) *"A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]
+> ###### 6) *"UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zuo_UFineBench_Towards_Text-based_Person_Retrieval_with_Ultra-fine_Granularity_CVPR_2024_paper.pdf)] [[github](https://github.com/Zplusdragon/UFineBench)]
+> ###### 7) *"Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Distribution-aware_Knowledge_Prototyping_for_Non-exemplar_Lifelong_Person_Re-identification_CVPR_2024_paper.pdf)] [[github](https://github.com/zhoujiahuan1991/CVPR2024-DKP)]
+> ###### 8) *"Noisy-Correspondence Learning for Text-to-Image Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)] [[github](https://github.com/QinYang79/RDE)]
+> ###### 9) *"Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Instruct-ReID_A_Multi-purpose_Person_Re-identification_Task_with_Instructions_CVPR_2024_paper.pdf)] [[github](https://github.com/hwz-zju/Instruct-ReID)]
+> ###### 10) *"SEAS: ShapE-Aligned Supervision for Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_SEAS_ShapE-Aligned_Supervision_for_Person_Re-Identification_CVPR_2024_paper.pdf)]
+> ###### 11) *"Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)] [[github](https://github.com/924973292/EDITOR)]
+> ###### 12) *"CA-Jaccard: Camera-aware Jaccard Distance for Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_CA-Jaccard_Camera-aware_Jaccard_Distance_for_Person_Re-identification_CVPR_2024_paper.pdf)] [[github](https://github.com/chen960/CA-Jaccard/)]
+> ###### 13) *"All in One Framework for Multimodal Re-identification in the Wild"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_All_in_One_Framework_for_Multimodal_Re-identification_in_the_Wild_CVPR_2024_paper.pdf)]
+> ###### 14) *"Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] [[github](https://github.com/yangbincv/SDCL)]
+> ###### 15) *"View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf)] [[github](https://github.com/LinlyAC/VDT-AGPReID)]
+> ###### 16) *"Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_Implicit_Discriminative_Knowledge_Learning_for_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf)] [[github](https://github.com/1KK077/IDKL)]
+> ###### 17) *"Activity-Biometrics: Person Identification from Daily Activities"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Azad_Activity-Biometrics_Person_Identification_from_Daily_Activities_CVPR_2024_paper.pdf)] [[github](https://github.com/sacrcv/Activity-Biometrics)]
 
+- <ins>***Vehicle re-identification***</ins>
+> ###### 1) *"Day-Night Cross-domain Vehicle Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Day-Night_Cross-domain_Vehicle_Re-identification_CVPR_2024_paper.pdf)]
 
 ---
 
 ## WACV2024
 
-- Will be updated soon
+- <ins>***Person re-identification***</ins>
+> ###### 1) *"Source-Guided Similarity Preservation for Online Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Rami_Source-Guided_Similarity_Preservation_for_Online_Person_Re-Identification_WACV_2024_paper.pdf)] [[github](https://github.com/ramiMMhamza/S2P)]
+> ###### 2) *"ShARc: Shape and Appearance Recognition for Person Identification In-the-wild"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Zhu_ShARc_Shape_and_Appearance_Recognition_for_Person_Identification_In-the-Wild_WACV_2024_paper.pdf)]
+> ###### 3) *"Enhancing Diverse Intra-identity Representation for Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Enhancing_Diverse_Intra-Identity_Representation_for_Visible-Infrared_Person_Re-Identification_WACV_2024_paper.pdf)]
+> ###### 4) *"Contrastive Viewpoint-aware Shape Learning for Long-term Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Nguyen_Contrastive_Viewpoint-Aware_Shape_Learning_for_Long-Term_Person_Re-Identification_WACV_2024_paper.pdf)] [[github](https://github.com/jurgendn/CVSL_LReID)]
+> ###### 5) *"HashReID: Dynamic Network with Binary Codes for Efficient Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Nikhal_HashReID_Dynamic_Network_With_Binary_Codes_for_Efficient_Person_Re-Identification_WACV_2024_paper.pdf)]
+> ###### 6) *"Privacy-Enhancing Person Re-identification Framework – A Dual-Stage Approach"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kansal_Privacy-Enhancing_Person_Re-Identification_Framework_-_A_Dual-Stage_Approach_WACV_2024_paper.pdf)]
+> ###### 7) *"Mitigate Domain Shift by Primary-Auxiliary Objectives Association for Generalizing Person ReID"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Li_Mitigate_Domain_Shift_by_Primary-Auxiliary_Objectives_Association_for_Generalizing_Person_WACV_2024_paper.pdf)]
 
+- <ins>***Person search (detection + re-id)***</ins>
+> ###### 1) *"DDAM-PS: Diligent Domain Adaptive Mixer for Person Search"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Almansoori_DDAM-PS_Diligent_Domain_Adaptive_Mixer_for_Person_Search_WACV_2024_paper.pdf)] [[github](https://github.com/mustansarfiaz/DDAM-PS)]
+
+- <ins>***Object re-identification***</ins>
+> ###### 1) *"SeaTurtleID2022: A long-span dataset for reliable sea turtle re-identification"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Adam_SeaTurtleID2022_A_Long-Span_Dataset_for_Reliable_Sea_Turtle_Re-Identification_WACV_2024_paper.pdf)]
+> ###### 2) *"Object Re-Identification from Point Clouds"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf)] [[github](https://github.com/bentherien/point-cloud-reid)]
+> ###### 3) *"ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification"* [[paper]([https://openaccess.thecvf.com/content/WACV2024/papers/Therien_Object_Re-Identification_From_Point_Clouds_WACV_2024_paper.pdf](https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf))] 
+> ###### 4) *"WildlifeDatasets: An open-source toolkit for animal re-identification"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.pdf)] [[github](https://github.com/WildlifeDatasets/wildlife-datasets)]
+> ###### 5) *"Computer Vision on the Edge: Individual Cattle Identification in Real-time with ReadMyCow System"* [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Smink_Computer_Vision_on_the_Edge_Individual_Cattle_Identification_in_Real-Time_WACV_2024_paper.pdf)]
 
 ---
 
 ## ICCV2023
 
-- Will be updated soon
+- <ins>***Person re-identification***</ins>
+> ###### 1) *"Identity-Seeking Self-Supervised Representation Learning for Generalizable Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Dou_Identity-Seeking_Self-Supervised_Representation_Learning_for_Generalizable_Person_Re-Identification_ICCV_2023_paper.pdf)] [[github](https://github.com/dcp15/ISR_ICCV2023_Oral)]
+> ###### 2) *"Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Learning_Clothing_and_Pose_Invariant_3D_Shape_Representation_for_Long-Term_ICCV_2023_paper.pdf)] [[github](https://github.com/liufeng2915/3DInvarReID)]
+> ###### 3) *"Towards Grand Unified Representation Learning for Unsupervised Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Towards_Grand_Unified_Representation_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)] [[github](https://github.com/yangbincv/GUR)]
+> ###### 4) *"A Long-Term Person Re-Identification Benchmark with Clothes Change"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_DeepChange_A_Long-Term_Person_Re-Identification_Benchmark_with_Clothes_Change_ICCV_2023_paper.pdf)] [[github](https://github.com/PengBoXiangShang/deepchange)]
+> ###### 5) *"Discrepant and Multi-instance Proxies for Unsupervised Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zou_Discrepant_and_Multi-Instance_Proxies_for_Unsupervised_Person_Re-Identification_ICCV_2023_paper.pdf)]
+> ###### 6) *"Visible-Infrared Person Re-Identification via Semantic Alignment and Affinity Inference"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_Visible-Infrared_Person_Re-Identification_via_Semantic_Alignment_and_Affinity_Inference_ICCV_2023_paper.pdf)] [[github](https://github.com/xiaoye-hhh/SAAI)]
+> ###### 7) *"Learning Concordant Attention via Target-aware Alignment for Visible-Infrared Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Learning_Concordant_Attention_via_Target-aware_Alignment_for_Visible-Infrared_Person_Re-identification_ICCV_2023_paper.pdf)]
+> ###### 8) *"Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_Unified_Pre-Training_with_Pseudo_Texts_for_Text-To-Image_Person_Re-Identification_ICCV_2023_paper.pdf)] [[github](https://github.com/ZhiyinShao-H/UniPT)]
+> ###### 9) *"Modality Unifying Network for Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_Modality_Unifying_Network_for_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)]
+> ###### 10) *"Camera-Driven Representation Learning for Unsupervised Domain Adaptive Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Camera-Driven_Representation_Learning_for_Unsupervised_Domain_Adaptive_Person_Re-identification_ICCV_2023_paper.pdf)] [[github](https://cvlab.yonsei.ac.kr/projects/CaCL/)]
+> ###### 11) *"Part-Aware Transformer for Generalizable Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ni_Part-Aware_Transformer_for_Generalizable_Person_Re-identification_ICCV_2023_paper.pdf)] [[github](https://github.com/liyuke65535/Part-Aware-Transformer)]
+> ###### 12) *"Dual Pseudo-Labels Interactive Self-Training for Semi-Supervised Visible-Infrared Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Dual_Pseudo-Labels_Interactive_Self-Training_for_Semi-Supervised_Visible-Infrared_Person_Re-Identification_ICCV_2023_paper.pdf)] [[github](https://github.com/XiangboYin/DPIS_SSVI-ReID)]
+> ###### 13) *"Person Re-Identification without Identification via Event Anonymization"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ahmad_Person_Re-Identification_without_Identification_via_Event_anonymization_ICCV_2023_paper.pdf)] [[github](https://github.com/IIT-PAVIS/ReId_without_Id)]
 
+- <ins>***Person search (detection + re-id)***</ins>
+> ###### 1) *"Self-similarity Driven Scale-invariant Learning for Weakly Supervised Person Search"* [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Self-similarity_Driven_Scale-invariant_Learning_for_Weakly_Supervised_Person_Search_ICCV_2023_paper.pdf)] [[github](https://github.com/Wangbenzhi/SSL)]
 
 
 ---
@@ -183,7 +208,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 1) *"A Simple and Robust Correlation Filtering method for text-based person search"* [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136950719.pdf)]
 
-- <ins>***Object re-identification / de-identification***</ins>
+- <ins>***Object re-identification***</ins>
 
 > ###### 1) *"Negative Samples are at Large: Leveraging Hard-distance Elastic Loss for Re-identification"* [[paper](https://arxiv.org/pdf/2207.09884.pdf)]
 
@@ -239,7 +264,7 @@ This is a repository for organizing articles related to person re-identification
 > ###### 3) *"Cascade Transformers for End-to-End Person Search"* [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Cascade_Transformers_for_End-to-End_Person_Search_CVPR_2022_paper.pdf)]
 > ###### 4) *"Id-Free Person Similarity Learning"* [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shuai_Id-Free_Person_Similarity_Learning_CVPR_2022_paper.pdf)]
 
-- <ins>***Object re-identification / de-identification***</ins>
+- <ins>***Object re-identification***</ins>
 
 > ###### 1) *"Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Dual_Cross-Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Object_Re-Identification_CVPR_2022_paper.pdf)]
 > ###### 2) *"Neural Face Identification in a 2D Wireframe Projection of a Manifold Object"* [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Neural_Face_Identification_in_a_2D_Wireframe_Projection_of_a_CVPR_2022_paper.pdf)]
@@ -299,10 +324,9 @@ This is a repository for organizing articles related to person re-identification
 > ###### 1) *"LapsCore: Language-Guided Person Search via Color Reasoning"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_LapsCore_Language-Guided_Person_Search_via_Color_Reasoning_ICCV_2021_paper.pdf)]
 > ###### 2) *"ASMR: Learning Attribute-Based Person Search With Adaptive Semantic Margin Regularizer"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jeong_ASMR_Learning_Attribute-Based_Person_Search_With_Adaptive_Semantic_Margin_Regularizer_ICCV_2021_paper.pdf)] [[github](http://cvlab.postech.ac.kr/research/ASMR/)]
 
-- <ins>***Object re-identification / de-identification***</ins>
+- <ins>***Object re-identification***</ins>
 
 > ###### 1) *"Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-Identification"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Rao_Counterfactual_Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Re-Identification_ICCV_2021_paper.pdf)] [[github](https://github.com/raoyongming/CAL)]
-> ###### 2) *"Personalized and Invertible Face De-Identification by Disentangled Identity Information Manipulation"* [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_Personalized_and_Invertible_Face_De-Identification_by_Disentangled_Identity_Information_Manipulation_ICCV_2021_paper.pdf)]
 
 - <ins>***Person image synthesis / generation***</ins>
 
@@ -720,7 +744,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## a. Survey
+## Survey
 
 > ###### 1) *"Beyond Intra-modality: A Survey of Heterogeneous Person Re-identification"*, IJCAI 2020 [[paper](https://arxiv.org/abs/1905.10048)] [[github](https://github.com/lightChaserX/Awesome-Hetero-reID)]
 > ###### 2) *"Deep Learning for Person Re-identification: A Survey and Outlook"*, arXiv 2020 [[paper](https://arxiv.org/abs/2001.04193)] [[github](https://github.com/mangye16/ReID-Survey)]
@@ -734,7 +758,7 @@ This is a repository for organizing articles related to person re-identification
 
 ---
 
-## b. Others
+## Others
 
 > ###### 1) *"Unsupervised Person Re-identification: Clustering and Fine-tuning"* [[paper](https://arxiv.org/pdf/1705.10444.pdf)] [[Github](https://github.com/hehefan/Unsupervised-Person-Re-identification-Clustering-and-Fine-tuning)]
 
@@ -768,7 +792,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ---
 
-## c. Datasets
+## Datasets
 
 - Awesome re-id dataset [[github](https://github.com/NEU-Gou/awesome-reid-dataset)]
 - Market-1501 Leaderboard [[page](https://jingdongwang2017.github.io/Projects/ReID/Datasets/result_market1501.html)]
@@ -777,7 +801,7 @@ These are papers that search for "gait" and "person re-identification" in google
 
 ---
 
-## d. Codes
+## Codes
 
 - Library for deep-learning person re-identification [[Torchreid(pytorch)](https://github.com/KaiyangZhou/deep-person-reid)] [[Openreid(pytorch)](https://github.com/Cysu/open-reid)]
 - Person reid baseline [[IDE(Caffe)](https://github.com/zhunzhong07/IDE-baseline-Market-1501)] [[Tricks(pytorch)](https://github.com/michuanhaohao/reid-strong-baseline)] [[Triplet(pytorch)](https://github.com/huanghoujing/person-reid-triplet-loss-baseline)] [[GAN(pytorch)](https://github.com/qiaoguan/Person-reid-GAN-pytorch)] [[GAN(Matlab)](https://github.com/layumi/Person-reID_GAN)] [[FDGAN(pytorch)](https://github.com/yxgeee/FD-GAN)] [[DGNet(pytorch)](https://github.com/NVlabs/DG-Net)]
