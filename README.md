@@ -27,7 +27,7 @@ This is a repository for organizing articles related to person re-identification
 | [WACV2024](#WACV2024) | [Click](https://openaccess.thecvf.com/WACV2024)  | 7 | 0 | 
 | [ICCV2023](#ICCV2023) | [Click](https://openaccess.thecvf.com/ICCV2023)  | 13 | 0 | 
 | [ACMMM2023](#ACMMM2023) | -  | - | - | 
-| [CVPR2023](#CVPR2023) | [Click](https://openaccess.thecvf.com/CVPR2023)  | - | - | 
+| [CVPR2023](#CVPR2023) | [Click](https://openaccess.thecvf.com/CVPR2023)  | 11 | 0 | 
 | [WACV2023](#WACV2023) | [Click](https://openaccess.thecvf.com/WACV2023) | 4 | 0 |
 | [ECCV2022](#ECCV2022) | [Click](https://eccv2022.ecva.net/program/accepted-papers/) | 10 | 2 |
 | [CVPR2022](#CVPR2022) | [Click](https://openaccess.thecvf.com/CVPR2022) | 23 | 0 |
